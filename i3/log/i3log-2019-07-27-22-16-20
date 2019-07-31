@@ -1,0 +1,98 @@
+2019年07月27日 22时16分20秒 - i3 4.16.1 (2019-01-27) starting
+2019年07月27日 22时16分20秒 - Parsing configfile /home/wjh/.config/i3/config
+2019年07月27日 22时16分20秒 - deciding for version 4 due to this line: # i3 config file (v4)
+2019年07月27日 22时16分20秒 - [libi3] ../i3-4.16.1/../i3-4.16.1/libi3/font.c Using Pango font monospace, size 8
+2019年07月27日 22时16分20秒 - Used number 1 for workspace with name 1:
+2019年07月27日 22时16分20秒 - This is not an in-place restart, copying root window contents to a pixmap
+2019年07月27日 22时16分20秒 - auto-starting xset dpms 600 800 900
+2019年07月27日 22时16分20秒 - executing: xset dpms 600 800 900
+2019年07月27日 22时16分20秒 - auto-starting xrandr --output eDP1 --mode 1920x1080 --same-as HDMI2
+2019年07月27日 22时16分20秒 - executing: xrandr --output eDP1 --mode 1920x1080 --same-as HDMI2
+2019年07月27日 22时16分20秒 - auto-starting (always!) feh --bg-scale "/home/wjh/Pictures/v2-2fb11ef71385fabc6596fcd75e3b9f68_r.jpg"
+2019年07月27日 22时16分20秒 - executing: feh --bg-scale "/home/wjh/Pictures/v2-2fb11ef71385fabc6596fcd75e3b9f68_r.jpg"
+2019年07月27日 22时16分20秒 - auto-starting (always!) $HOME/.config/polybar/launch.sh
+2019年07月27日 22时16分20秒 - executing: $HOME/.config/polybar/launch.sh
+xrandr: cannot find mode 1920x1080
+Bars launched...
+polybar|error: Monitor "eDP-1" not found or disconnected
+2019年07月27日 22时16分25秒 - startup id = i3/rofi/13545-0-archlinux_TIME8389156
+2019年07月27日 22时16分25秒 - executing: rofi -show run
+2019年07月27日 22时16分25秒 - Not a managed window, ignoring UnmapNotify event
+2019年07月27日 22时16分39秒 - startup id = i3/xfce4-terminal/13545-1-archlinux_TIME8403167
+2019年07月27日 22时16分39秒 - executing: xfce4-terminal
+2019年07月27日 22时16分39秒 - Not a managed window, ignoring UnmapNotify event
+无法连接到会话管理器：无法与会话管理器连接：SESSION_MANAGER environment variable not defined
+
+(xfce4-terminal:13572): Gtk-WARNING **: 22:16:39.402: Ignoring visual set on widget 'TerminalWindow' that is not on the correct screen.
+
+(xfce4-terminal:13572): Gtk-WARNING **: 22:16:39.402: Ignoring visual set on widget 'TerminalWindow' that is not on the correct screen.
+
+(xfce4-terminal:13572): Gtk-WARNING **: 22:16:39.445: Ignoring visual set on widget 'main-menu' that is not on the correct screen.
+2019年07月27日 22时16分39秒 - ClientMessage for window 0x00a00003
+2019年07月27日 22时16分39秒 - WM_CLASS changed to xfce4-terminal (instance), Xfce4-terminal (class)
+2019年07月27日 22时16分39秒 - WM_NAME changed to "Terminal $(AVU$(BC<(B - "
+2019年07月27日 22时16分39秒 - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+2019年07月27日 22时16分39秒 - _NET_WM_NAME changed to "Terminal 终端 - "
+2019年07月27日 22时16分39秒 - WM_WINDOW_ROLE changed to "xfce4-terminal-1564236999-2166855389"
+2019年07月27日 22时16分39秒 - WM_HINTS.input changed to "1"
+2019年07月27日 22时16分39秒 - Checking window 0x00a00003 (class Xfce4-terminal)
+2019年07月27日 22时16分39秒 - dock status does not match
+2019年07月27日 22时16分39秒 - Checking window 0x00a00003 (class Xfce4-terminal)
+2019年07月27日 22时16分39秒 - dock status does not match
+2019年07月27日 22时16分39秒 - workspace visible? fs = 0x562a84b452e0, ws = 0x562a84b452e0
+2019年07月27日 22时16分39秒 - workspace visible? fs = 0x562a84b452e0, ws = 0x562a84b452e0
+2019年07月27日 22时16分39秒 - workspace visible? fs = 0x562a84b452e0, ws = 0x562a84b452e0
+2019年07月27日 22时16分39秒 - workspace visible? fs = 0x562a84b41360, ws = 0x562a84b41360
+2019年07月27日 22时16分39秒 - _NET_WM_NAME changed to "Terminal 终端 - wjh@archlinux: ~/.config/i3"
+2019年07月27日 22时16分53秒 - _NET_WM_NAME changed to "Terminal 终端 - wjh@archlinux: ~/.config/i3/log"
+2019年07月27日 22时16分57秒 - _NET_WM_NAME changed to "Terminal 终端 - vim i3log-2019-07-27-22-16-20"
+2019年07月27日 22时17分25秒 - Not a managed window, ignoring UnmapNotify event
+2019年07月27日 22时17分28秒 - ClientMessage for window 0x00a00208
+2019年07月27日 22时17分30秒 - Not a managed window, ignoring UnmapNotify event
+2019年07月27日 22时17分36秒 - workspace visible? fs = 0x562a84b452e0, ws = 0x562a84b452e0
+2019年07月27日 22时17分36秒 - Not a managed window, ignoring UnmapNotify event
+2019年07月27日 22时17分36秒 - expose event for unknown window, ignoring
+2019年07月27日 22时17分36秒 - Not a managed window, ignoring UnmapNotify event
+2019年07月27日 22时17分36秒 - Not a managed window, ignoring UnmapNotify event
+2019年07月27日 22时17分36秒 - Not a managed window, ignoring UnmapNotify event
+2019年07月27日 22时17分36秒 - Not a managed window, ignoring UnmapNotify event
+2019年07月27日 22时17分39秒 - Not a managed window, ignoring UnmapNotify event
+2019年07月27日 22时37分48秒 - startup id = i3/i3-nagbar/13545-2-archlinux_TIME9672901
+2019年07月27日 22时37分48秒 - executing: i3-nagbar -t warning -m 'You pressed the exit shortcut. Do you really want to exit i3? This will end your X session.' -b 'Yes, exit i3' 'i3-msg exit'
+2019年07月27日 22时37分48秒 - Not a managed window, ignoring UnmapNotify event
+2019年07月27日 22时37分48秒 - This window is of type dock
+2019年07月27日 22时37分48秒 - Checking window 0x00a00006 (class (null))
+2019年07月27日 22时37分48秒 - dock status matches
+2019年07月27日 22时37分48秒 - workspace visible? fs = 0x562a84b452e0, ws = 0x562a84b452e0
+2019年07月27日 22时37分48秒 - workspace visible? fs = 0x562a84b41360, ws = 0x562a84b41360
+button with label *Yes, exit i3* and action *i3-msg exit*
+now 1 buttons
+[libi3] ../i3-4.16.1/../i3-4.16.1/libi3/font.c Using Pango font monospace, size 8
+button pressed on x = 1247, y = 17
+button released on x = 1247, y = 17
+argv0 = i3-nagbar
+terminal_cmd = i3-sensible-terminal -e /run/user/1000/i3/nagbar-cmd.15152.nagbar_cmd
+executing: i3-sensible-terminal -e /run/user/1000/i3/nagbar-cmd.15152.nagbar_cmd
+2019年07月27日 22时37分52秒 - WM_CLASS changed to urxvt (instance), URxvt (class)
+2019年07月27日 22时37分52秒 - WM_NAME changed to "nagbar-cmd.15152.nagbar_cmd"
+2019年07月27日 22时37分52秒 - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+2019年07月27日 22时37分52秒 - _NET_WM_NAME changed to "nagbar-cmd.15152.nagbar_cmd"
+2019年07月27日 22时37分52秒 - WM_HINTS.input changed to "1"
+2019年07月27日 22时37分52秒 - Checking window 0x00c0000a (class URxvt)
+2019年07月27日 22时37分52秒 - dock status does not match
+2019年07月27日 22时37分52秒 - Checking window 0x00c0000a (class URxvt)
+2019年07月27日 22时37分52秒 - dock status does not match
+2019年07月27日 22时37分52秒 - workspace visible? fs = 0x562a84b452e0, ws = 0x562a84b452e0
+2019年07月27日 22时37分52秒 - workspace visible? fs = 0x562a84b452e0, ws = 0x562a84b452e0
+2019年07月27日 22时37分52秒 - workspace visible? fs = 0x562a84b452e0, ws = 0x562a84b452e0
+2019年07月27日 22时37分52秒 - workspace visible? fs = 0x562a84b41360, ws = 0x562a84b41360
+2019年07月27日 22时37分52秒 - IPC: received: *exit*
+2019年07月27日 22时37分52秒 - Exiting due to user command.
+button with label *Yes, exit i3* and action *i3-msg exit*
+now 1 buttons
+[libi3] ../i3-4.16.1/../i3-4.16.1/libi3/font.c Using Pango font monospace, size 8
+button pressed on x = 1247, y = 17
+button released on x = 1247, y = 17
+argv0 = i3-nagbar
+terminal_cmd = i3-sensible-terminal -e /run/user/1000/i3/nagbar-cmd.15152.nagbar_cmd
+executing: i3-sensible-terminal -e /run/user/1000/i3/nagbar-cmd.15152.nagbar_cmd

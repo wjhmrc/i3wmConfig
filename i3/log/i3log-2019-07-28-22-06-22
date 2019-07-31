@@ -1,0 +1,2615 @@
+2019年07月28日 22时06分22秒 - i3 4.16.1 (2019-01-27) starting
+2019年07月28日 22时06分22秒 - Parsing configfile /home/wjh/.config/i3/config
+2019年07月28日 22时06分22秒 - deciding for version 4 due to this line: # i3 config file (v4)
+2019年07月28日 22时06分22秒 - [libi3] ../i3-4.16.1/../i3-4.16.1/libi3/font.c Using Pango font monospace, size 8
+2019年07月28日 22时06分22秒 - Used number 1 for workspace with name 1:
+2019年07月28日 22时06分22秒 - This is not an in-place restart, copying root window contents to a pixmap
+2019年07月28日 22时06分22秒 - auto-starting compton -b #开机自启 
+2019年07月28日 22时06分22秒 - executing: compton -b #开机自启 
+2019年07月28日 22时06分22秒 - auto-starting xset dpms 600 800 900
+2019年07月28日 22时06分22秒 - executing: xset dpms 600 800 900
+2019年07月28日 22时06分22秒 - auto-starting xrandr --output eDP1 --mode 1920x1080 --same-as HDMI2
+2019年07月28日 22时06分22秒 - executing: xrandr --output eDP1 --mode 1920x1080 --same-as HDMI2
+2019年07月28日 22时06分22秒 - auto-starting (always!) feh --bg-scale "/home/wjh/Pictures/v2-2fb11ef71385fabc6596fcd75e3b9f68_r.jpg"
+2019年07月28日 22时06分22秒 - executing: feh --bg-scale "/home/wjh/Pictures/v2-2fb11ef71385fabc6596fcd75e3b9f68_r.jpg"
+2019年07月28日 22时06分22秒 - auto-starting (always!) $HOME/.config/polybar/launch.sh
+2019年07月28日 22时06分22秒 - executing: $HOME/.config/polybar/launch.sh
+xrandr: cannot find mode 1920x1080
+Bars launched...
+polybar|error: Undefined bar: example
+[ 2019年07月28日 22:06:22.189 register_cm FATAL ERROR ] Another composite manager is already running
+2019年07月28日 22时06分27秒 - startup id = i3/rofi/5449-0-archlinux_TIME2459529
+2019年07月28日 22时06分27秒 - executing: rofi -show run
+2019年07月28日 22时06分27秒 - Not a managed window, ignoring UnmapNotify event
+2019年07月28日 22时06分30秒 - WM_CLASS changed to code-oss (instance), code-oss (class)
+2019年07月28日 22时06分30秒 - WM_NAME changed to "Code - OSS"
+2019年07月28日 22时06分30秒 - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+2019年07月28日 22时06分30秒 - _NET_WM_NAME changed to "Code - OSS"
+2019年07月28日 22时06分30秒 - WM_WINDOW_ROLE changed to "browser-window"
+2019年07月28日 22时06分30秒 - Checking window 0x00e00001 (class code-oss)
+2019年07月28日 22时06分30秒 - dock status does not match
+2019年07月28日 22时06分30秒 - Checking window 0x00e00001 (class code-oss)
+2019年07月28日 22时06分30秒 - dock status does not match
+2019年07月28日 22时06分30秒 - workspace visible? fs = 0x563fddcfda40, ws = 0x563fddcfda40
+2019年07月28日 22时06分30秒 - workspace visible? fs = 0x563fddcfda40, ws = 0x563fddcfda40
+2019年07月28日 22时06分30秒 - workspace visible? fs = 0x563fddcfda40, ws = 0x563fddcfda40
+2019年07月28日 22时06分30秒 - workspace visible? fs = 0x563fddcf9ac0, ws = 0x563fddcf9ac0
+2019年07月28日 22时06分30秒 - ClientMessage for window 0x00e00001
+2019年07月28日 22时06分30秒 - workspace visible? fs = 0x563fddcfda40, ws = 0x563fddcfda40
+2019年07月28日 22时06分30秒 - ClientMessage for window 0x00e00001
+2019年07月28日 22时06分30秒 - workspace visible? fs = 0x563fddcfda40, ws = 0x563fddcfda40
+2019年07月28日 22时06分31秒 - _NET_WM_NAME changed to "Welcome - Code - OSS"
+2019年07月28日 22时06分32秒 - ClientMessage for window 0x00e00016
+2019年07月28日 22时06分33秒 - Not a managed window, ignoring UnmapNotify event
+2019年07月28日 22时06分33秒 - ClientMessage for window 0x00c0000b
+2019年07月28日 22时06分33秒 - WM_CLASS changed to electron (instance), Electron (class)
+2019年07月28日 22时06分33秒 - WM_NAME changed to "Open File"
+2019年07月28日 22时06分33秒 - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+2019年07月28日 22时06分33秒 - _NET_WM_NAME changed to "Open File"
+2019年07月28日 22时06分33秒 - WM_WINDOW_ROLE changed to "GtkFileChooserDialog"
+2019年07月28日 22时06分33秒 - WM_HINTS.input changed to "1"
+2019年07月28日 22时06分33秒 - Checking window 0x00c0000b (class Electron)
+2019年07月28日 22时06分33秒 - dock status does not match
+2019年07月28日 22时06分33秒 - Checking window 0x00c0000b (class Electron)
+2019年07月28日 22时06分33秒 - dock status does not match
+2019年07月28日 22时06分33秒 - workspace visible? fs = 0x563fddcfda40, ws = 0x563fddcfda40
+2019年07月28日 22时06分33秒 - This window is a dialog window, setting floating
+2019年07月28日 22时06分33秒 - This window is transient for another window, setting floating
+2019年07月28日 22时06分33秒 - workspace visible? fs = 0x563fddcfda40, ws = 0x563fddcfda40
+2019年07月28日 22时06分33秒 - workspace visible? fs = 0x563fddcfda40, ws = 0x563fddcfda40
+2019年07月28日 22时06分33秒 - workspace visible? fs = 0x563fddcf9ac0, ws = 0x563fddcf9ac0
+2019年07月28日 22时06分33秒 - ClientMessage for window 0x00c0000b
+2019年07月28日 22时06分33秒 - workspace visible? fs = 0x563fddcfda40, ws = 0x563fddcfda40
+2019年07月28日 22时06分44秒 - Not a managed window, ignoring UnmapNotify event
+2019年07月28日 22时06分44秒 - expose event for unknown window, ignoring
+2019年07月28日 22时06分44秒 - Not a managed window, ignoring UnmapNotify event
+2019年07月28日 22时06分44秒 - Not a managed window, ignoring UnmapNotify event
+2019年07月28日 22时06分44秒 - Not a managed window, ignoring UnmapNotify event
+2019年07月28日 22时06分44秒 - Not a managed window, ignoring UnmapNotify event
+2019年07月28日 22时06分44秒 - Not a managed window, ignoring UnmapNotify event
+2019年07月28日 22时06分44秒 - Not a managed window, ignoring UnmapNotify event
+2019年07月28日 22时06分44秒 - Not a managed window, ignoring UnmapNotify event
+2019年07月28日 22时06分44秒 - ClientMessage for window 0x00e00001
+2019年07月28日 22时06分44秒 - workspace visible? fs = 0x563fddcfda40, ws = 0x563fddcfda40
+2019年07月28日 22时06分44秒 - _NET_WM_NAME changed to "i3log-2019-07-28-22-06-22 - Code - OSS"
+2019年07月28日 22时07分10秒 - ClientMessage for window 0x00e00020
+2019年07月28日 22时07分10秒 - Not a managed window, ignoring UnmapNotify event
+2019年07月28日 22时07分12秒 - ClientMessage for window 0x00e00022
+2019年07月28日 22时07分14秒 - Not a managed window, ignoring UnmapNotify event
+2019年07月28日 22时07分14秒 - ClientMessage for window 0x00c01bea
+2019年07月28日 22时07分14秒 - WM_CLASS changed to electron (instance), Electron (class)
+2019年07月28日 22时07分14秒 - WM_NAME changed to "Open File"
+2019年07月28日 22时07分14秒 - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+2019年07月28日 22时07分14秒 - _NET_WM_NAME changed to "Open File"
+2019年07月28日 22时07分14秒 - WM_WINDOW_ROLE changed to "GtkFileChooserDialog"
+2019年07月28日 22时07分14秒 - WM_HINTS.input changed to "1"
+2019年07月28日 22时07分14秒 - Checking window 0x00c01bea (class Electron)
+2019年07月28日 22时07分14秒 - dock status does not match
+2019年07月28日 22时07分14秒 - Checking window 0x00c01bea (class Electron)
+2019年07月28日 22时07分14秒 - dock status does not match
+2019年07月28日 22时07分14秒 - workspace visible? fs = 0x563fddcfda40, ws = 0x563fddcfda40
+2019年07月28日 22时07分14秒 - This window is a dialog window, setting floating
+2019年07月28日 22时07分14秒 - This window is transient for another window, setting floating
+2019年07月28日 22时07分14秒 - workspace visible? fs = 0x563fddcfda40, ws = 0x563fddcfda40
+2019年07月28日 22时07分14秒 - workspace visible? fs = 0x563fddcfda40, ws = 0x563fddcfda40
+2019年07月28日 22时07分14秒 - workspace visible? fs = 0x563fddcf9ac0, ws = 0x563fddcf9ac0
+2019年07月28日 22时07分14秒 - ClientMessage for window 0x00c01bea
+2019年07月28日 22时07分14秒 - workspace visible? fs = 0x563fddcfda40, ws = 0x563fddcfda40
+2019年07月28日 22时07分22秒 - Not a managed window, ignoring UnmapNotify event
+2019年07月28日 22时07分22秒 - expose event for unknown window, ignoring
+2019年07月28日 22时07分22秒 - Not a managed window, ignoring UnmapNotify event
+2019年07月28日 22时07分22秒 - Not a managed window, ignoring UnmapNotify event
+2019年07月28日 22时07分22秒 - Not a managed window, ignoring UnmapNotify event
+2019年07月28日 22时07分22秒 - Not a managed window, ignoring UnmapNotify event
+2019年07月28日 22时07分22秒 - Not a managed window, ignoring UnmapNotify event
+2019年07月28日 22时07分22秒 - Not a managed window, ignoring UnmapNotify event
+2019年07月28日 22时07分22秒 - Not a managed window, ignoring UnmapNotify event
+2019年07月28日 22时07分22秒 - ClientMessage for window 0x00e00001
+2019年07月28日 22时07分22秒 - workspace visible? fs = 0x563fddcfda40, ws = 0x563fddcfda40
+2019年07月28日 22时07分22秒 - _NET_WM_NAME changed to "config - Code - OSS"
+2019年07月28日 22时07分38秒 - startup id = i3/rofi/5449-1-archlinux_TIME2530817
+2019年07月28日 22时07分38秒 - executing: rofi -show run
+2019年07月28日 22时07分38秒 - Not a managed window, ignoring UnmapNotify event
+2019年07月28日 22时07分41秒 - ClientMessage for window 0x01800003
+2019年07月28日 22时07分41秒 - WM_CLASS changed to Navigator (instance), firefox (class)
+2019年07月28日 22时07分41秒 - WM_NAME changed to "Mozilla Firefox"
+2019年07月28日 22时07分41秒 - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+2019年07月28日 22时07分41秒 - _NET_WM_NAME changed to "Mozilla Firefox"
+2019年07月28日 22时07分41秒 - WM_WINDOW_ROLE changed to "browser"
+2019年07月28日 22时07分41秒 - WM_HINTS.input changed to "1"
+2019年07月28日 22时07分41秒 - Checking window 0x01800003 (class firefox)
+2019年07月28日 22时07分41秒 - dock status does not match
+2019年07月28日 22时07分41秒 - Checking window 0x01800003 (class firefox)
+2019年07月28日 22时07分41秒 - dock status does not match
+2019年07月28日 22时07分41秒 - workspace visible? fs = 0x563fddcfda40, ws = 0x563fddcfda40
+2019年07月28日 22时07分41秒 - workspace visible? fs = 0x563fddcfda40, ws = 0x563fddcfda40
+2019年07月28日 22时07分41秒 - workspace visible? fs = 0x563fddcfda40, ws = 0x563fddcfda40
+2019年07月28日 22时07分41秒 - workspace visible? fs = 0x563fddcf9ac0, ws = 0x563fddcf9ac0
+2019年07月28日 22时07分41秒 - WM_HINTS.input changed to "1"
+2019年07月28日 22时07分41秒 - _NET_WM_NAME changed to "Restore Session - Mozilla Firefox"
+2019年07月28日 22时07分42秒 - WM_HINTS.input changed to "1"
+2019年07月28日 22时07分44秒 - _NET_WM_NAME changed to "Mozilla Firefox"
+2019年07月28日 22时07分45秒 - ClientMessage for window 0x01800044
+2019年07月28日 22时07分46秒 - Not a managed window, ignoring UnmapNotify event
+2019年07月28日 22时07分47秒 - _NET_WM_NAME changed to "百度一下，你就知道 - Mozilla Firefox"
+2019年07月28日 22时07分48秒 - ClientMessage for window 0x00e00020
+2019年07月28日 22时07分48秒 - Not a managed window, ignoring UnmapNotify event
+2019年07月28日 22时07分48秒 - _NET_WM_NAME changed to "i3log-2019-07-28-22-06-22 - Code - OSS"
+2019年07月28日 22时07分51秒 - WM_HINTS.input changed to "1"
+2019年07月28日 22时07分55秒 - ClientMessage for window 0x0180005f
+2019年07月28日 22时07分56秒 - Not a managed window, ignoring UnmapNotify event
+2019年07月28日 22时07分58秒 - ClientMessage for window 0x00e0002c
+2019年07月28日 22时08分00秒 - Not a managed window, ignoring UnmapNotify event
+2019年07月28日 22时08分00秒 - WM_HINTS.input changed to "1"
+2019年07月28日 22时08分01秒 - ClientMessage for window 0x0180005f
+2019年07月28日 22时08分02秒 - Not a managed window, ignoring UnmapNotify event
+2019年07月28日 22时08分12秒 - _NET_WM_NAME changed to "polybar bar: example_百度搜索 - Mozilla Firefox"
+2019年07月28日 22时08分22秒 - _NET_WM_NAME changed to "config - Code - OSS"
+2019年07月28日 22时08分23秒 - ClientMessage for window 0x00e00020
+2019年07月28日 22时08分23秒 - Not a managed window, ignoring UnmapNotify event
+2019年07月28日 22时08分37秒 - ClientMessage for window 0x00e00020
+2019年07月28日 22时08分37秒 - Not a managed window, ignoring UnmapNotify event
+2019年07月28日 22时08分38秒 - Not a managed window, ignoring UnmapNotify event
+2019年07月28日 22时08分56秒 - _NET_WM_NAME changed to "● config - Code - OSS"
+2019年07月28日 22时08分59秒 - _NET_WM_NAME changed to "config - Code - OSS"
+2019年07月28日 22时09分06秒 - WM_HINTS.input changed to "1"
+2019年07月28日 22时09分18秒 - _NET_WM_NAME changed to "i3log-2019-07-28-22-06-22 - Code - OSS"
+2019年07月28日 22时09分20秒 - _NET_WM_NAME changed to "config - Code - OSS"
+2019年07月28日 22时09分22秒 - ClientMessage for window 0x00e00031
+2019年07月28日 22时09分25秒 - Not a managed window, ignoring UnmapNotify event
+2019年07月28日 22时09分25秒 - ClientMessage for window 0x00c0347d
+2019年07月28日 22时09分25秒 - WM_CLASS changed to electron (instance), Electron (class)
+2019年07月28日 22时09分25秒 - WM_NAME changed to "Open File"
+2019年07月28日 22时09分25秒 - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+2019年07月28日 22时09分25秒 - _NET_WM_NAME changed to "Open File"
+2019年07月28日 22时09分25秒 - WM_WINDOW_ROLE changed to "GtkFileChooserDialog"
+2019年07月28日 22时09分25秒 - WM_HINTS.input changed to "1"
+2019年07月28日 22时09分25秒 - Checking window 0x00c0347d (class Electron)
+2019年07月28日 22时09分25秒 - dock status does not match
+2019年07月28日 22时09分25秒 - Checking window 0x00c0347d (class Electron)
+2019年07月28日 22时09分25秒 - dock status does not match
+2019年07月28日 22时09分25秒 - workspace visible? fs = 0x563fddcfda40, ws = 0x563fddcfda40
+2019年07月28日 22时09分25秒 - This window is a dialog window, setting floating
+2019年07月28日 22时09分25秒 - This window is transient for another window, setting floating
+2019年07月28日 22时09分25秒 - workspace visible? fs = 0x563fddcfda40, ws = 0x563fddcfda40
+2019年07月28日 22时09分25秒 - workspace visible? fs = 0x563fddcfda40, ws = 0x563fddcfda40
+2019年07月28日 22时09分25秒 - workspace visible? fs = 0x563fddcf9ac0, ws = 0x563fddcf9ac0
+2019年07月28日 22时09分25秒 - ClientMessage for window 0x00c0347d
+2019年07月28日 22时09分25秒 - workspace visible? fs = 0x563fddcfda40, ws = 0x563fddcfda40
+2019年07月28日 22时09分38秒 - Not a managed window, ignoring UnmapNotify event
+2019年07月28日 22时09分38秒 - expose event for unknown window, ignoring
+2019年07月28日 22时09分38秒 - Not a managed window, ignoring UnmapNotify event
+2019年07月28日 22时09分38秒 - Not a managed window, ignoring UnmapNotify event
+2019年07月28日 22时09分38秒 - Not a managed window, ignoring UnmapNotify event
+2019年07月28日 22时09分38秒 - Not a managed window, ignoring UnmapNotify event
+2019年07月28日 22时09分38秒 - Not a managed window, ignoring UnmapNotify event
+2019年07月28日 22时09分38秒 - Not a managed window, ignoring UnmapNotify event
+2019年07月28日 22时09分38秒 - Not a managed window, ignoring UnmapNotify event
+2019年07月28日 22时09分38秒 - ClientMessage for window 0x00e00001
+2019年07月28日 22时09分38秒 - workspace visible? fs = 0x563fddcfda40, ws = 0x563fddcfda40
+2019年07月28日 22时09分38秒 - _NET_WM_NAME changed to ".polybar - Code - OSS"
+2019年07月28日 22时10分04秒 - ClientMessage for window 0x00e00032
+2019年07月28日 22时10分04秒 - Not a managed window, ignoring UnmapNotify event
+2019年07月28日 22时10分04秒 - ClientMessage for window 0x00e00033
+2019年07月28日 22时10分04秒 - Not a managed window, ignoring UnmapNotify event
+2019年07月28日 22时10分04秒 - ClientMessage for window 0x00e00034
+2019年07月28日 22时10分06秒 - Not a managed window, ignoring UnmapNotify event
+2019年07月28日 22时10分06秒 - ClientMessage for window 0x00e00035
+2019年07月28日 22时10分06秒 - Not a managed window, ignoring UnmapNotify event
+2019年07月28日 22时10分06秒 - ClientMessage for window 0x00e00036
+2019年07月28日 22时10分06秒 - Not a managed window, ignoring UnmapNotify event
+2019年07月28日 22时10分06秒 - ClientMessage for window 0x00e00037
+2019年07月28日 22时10分07秒 - Not a managed window, ignoring UnmapNotify event
+2019年07月28日 22时10分07秒 - ClientMessage for window 0x00e00038
+2019年07月28日 22时10分07秒 - Not a managed window, ignoring UnmapNotify event
+2019年07月28日 22时10分07秒 - ClientMessage for window 0x00e00039
+2019年07月28日 22时10分08秒 - Not a managed window, ignoring UnmapNotify event
+2019年07月28日 22时10分08秒 - ClientMessage for window 0x00e0003a
+2019年07月28日 22时10分09秒 - Not a managed window, ignoring UnmapNotify event
+2019年07月28日 22时10分09秒 - ClientMessage for window 0x00e0003b
+2019年07月28日 22时10分10秒 - Not a managed window, ignoring UnmapNotify event
+2019年07月28日 22时10分10秒 - ClientMessage for window 0x00e0003c
+2019年07月28日 22时10分10秒 - Not a managed window, ignoring UnmapNotify event
+2019年07月28日 22时10分10秒 - ClientMessage for window 0x00e0003d
+2019年07月28日 22时10分10秒 - Not a managed window, ignoring UnmapNotify event
+2019年07月28日 22时10分10秒 - ClientMessage for window 0x00e0003e
+2019年07月28日 22时10分10秒 - Not a managed window, ignoring UnmapNotify event
+2019年07月28日 22时10分10秒 - ClientMessage for window 0x00e0003f
+2019年07月28日 22时10分13秒 - Not a managed window, ignoring UnmapNotify event
+2019年07月28日 22时10分21秒 - ClientMessage for window 0x00e00040
+2019年07月28日 22时10分23秒 - Not a managed window, ignoring UnmapNotify event
+2019年07月28日 22时10分23秒 - ClientMessage for window 0x00c04eb0
+2019年07月28日 22时10分23秒 - WM_CLASS changed to electron (instance), Electron (class)
+2019年07月28日 22时10分23秒 - WM_NAME changed to "Open File"
+2019年07月28日 22时10分23秒 - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+2019年07月28日 22时10分23秒 - _NET_WM_NAME changed to "Open File"
+2019年07月28日 22时10分23秒 - WM_WINDOW_ROLE changed to "GtkFileChooserDialog"
+2019年07月28日 22时10分23秒 - WM_HINTS.input changed to "1"
+2019年07月28日 22时10分23秒 - Checking window 0x00c04eb0 (class Electron)
+2019年07月28日 22时10分23秒 - dock status does not match
+2019年07月28日 22时10分23秒 - Checking window 0x00c04eb0 (class Electron)
+2019年07月28日 22时10分23秒 - dock status does not match
+2019年07月28日 22时10分23秒 - workspace visible? fs = 0x563fddcfda40, ws = 0x563fddcfda40
+2019年07月28日 22时10分23秒 - This window is a dialog window, setting floating
+2019年07月28日 22时10分23秒 - This window is transient for another window, setting floating
+2019年07月28日 22时10分23秒 - workspace visible? fs = 0x563fddcfda40, ws = 0x563fddcfda40
+2019年07月28日 22时10分23秒 - workspace visible? fs = 0x563fddcfda40, ws = 0x563fddcfda40
+2019年07月28日 22时10分23秒 - workspace visible? fs = 0x563fddcf9ac0, ws = 0x563fddcf9ac0
+2019年07月28日 22时10分23秒 - ClientMessage for window 0x00c04eb0
+2019年07月28日 22时10分23秒 - workspace visible? fs = 0x563fddcfda40, ws = 0x563fddcfda40
+2019年07月28日 22时10分41秒 - Not a managed window, ignoring UnmapNotify event
+2019年07月28日 22时10分41秒 - expose event for unknown window, ignoring
+2019年07月28日 22时10分41秒 - Not a managed window, ignoring UnmapNotify event
+2019年07月28日 22时10分41秒 - Not a managed window, ignoring UnmapNotify event
+2019年07月28日 22时10分41秒 - Not a managed window, ignoring UnmapNotify event
+2019年07月28日 22时10分41秒 - Not a managed window, ignoring UnmapNotify event
+2019年07月28日 22时10分41秒 - Not a managed window, ignoring UnmapNotify event
+2019年07月28日 22时10分41秒 - Not a managed window, ignoring UnmapNotify event
+2019年07月28日 22时10分41秒 - Not a managed window, ignoring UnmapNotify event
+2019年07月28日 22时10分41秒 - ClientMessage for window 0x00e00001
+2019年07月28日 22时10分41秒 - workspace visible? fs = 0x563fddcfda40, ws = 0x563fddcfda40
+2019年07月28日 22时10分41秒 - _NET_WM_NAME changed to "config - Code - OSS"
+2019年07月28日 22时11分06秒 - ClientMessage for window 0x00e00020
+2019年07月28日 22时11分06秒 - Not a managed window, ignoring UnmapNotify event
+2019年07月28日 22时11分06秒 - _NET_WM_NAME changed to ".polybar - Code - OSS"
+2019年07月28日 22时11分12秒 - _NET_WM_NAME changed to "● .polybar - Code - OSS"
+2019年07月28日 22时11分29秒 - _NET_WM_NAME changed to ".polybar - Code - OSS"
+2019年07月28日 22时11分35秒 - restarting i3
+2019年07月28日 22时11分35秒 - restarting "i3"...
+2019年07月28日 22时11分35秒 - Autostart disabled using -a
+2019年07月28日 22时11分35秒 - i3 4.16.1 (2019-01-27) starting
+2019年07月28日 22时11分35秒 - Parsing configfile /home/wjh/.config/i3/config
+2019年07月28日 22时11分35秒 - deciding for version 4 due to this line: # i3 config file (v4)
+2019年07月28日 22时11分35秒 - [libi3] ../i3-4.16.1/../i3-4.16.1/libi3/font.c Using Pango font monospace, size 8
+2019年07月28日 22时11分35秒 - Trying to restore the layout from "/run/user/1000/i3/restart-state.5449".
+2019年07月28日 22时11分35秒 - start of map, last_key = (null)
+2019年07月28日 22时11分35秒 - key: id
+2019年07月28日 22时11分35秒 - int 94832304290800 for key id
+2019年07月28日 22时11分35秒 - key: type
+2019年07月28日 22时11分35秒 - string: root for key type
+2019年07月28日 22时11分35秒 - key: orientation
+2019年07月28日 22时11分35秒 - string: horizontal for key orientation
+2019年07月28日 22时11分35秒 - key: scratchpad_state
+2019年07月28日 22时11分35秒 - string: none for key scratchpad_state
+2019年07月28日 22时11分35秒 - key: percent
+2019年07月28日 22时11分35秒 - key: urgent
+2019年07月28日 22时11分35秒 - bool 0 for key urgent
+2019年07月28日 22时11分35秒 - key: focused
+2019年07月28日 22时11分35秒 - bool 0 for key focused
+2019年07月28日 22时11分35秒 - key: layout
+2019年07月28日 22时11分35秒 - string: splith for key layout
+2019年07月28日 22时11分35秒 - key: workspace_layout
+2019年07月28日 22时11分35秒 - string: default for key workspace_layout
+2019年07月28日 22时11分35秒 - key: last_split_layout
+2019年07月28日 22时11分35秒 - string: splith for key last_split_layout
+2019年07月28日 22时11分35秒 - key: border
+2019年07月28日 22时11分35秒 - string: pixel for key border
+2019年07月28日 22时11分35秒 - key: current_border_width
+2019年07月28日 22时11分35秒 - int -1 for key current_border_width
+2019年07月28日 22时11分35秒 - key: rect
+2019年07月28日 22时11分35秒 - start of map, last_key = rect
+2019年07月28日 22时11分35秒 - key: x
+2019年07月28日 22时11分35秒 - int 0 for key x
+2019年07月28日 22时11分35秒 - key: y
+2019年07月28日 22时11分35秒 - int 0 for key y
+2019年07月28日 22时11分35秒 - key: width
+2019年07月28日 22时11分35秒 - int 1366 for key width
+2019年07月28日 22时11分35秒 - key: height
+2019年07月28日 22时11分35秒 - int 768 for key height
+2019年07月28日 22时11分35秒 - end of map
+2019年07月28日 22时11分35秒 - key: deco_rect
+2019年07月28日 22时11分35秒 - start of map, last_key = deco_rect
+2019年07月28日 22时11分35秒 - key: x
+2019年07月28日 22时11分35秒 - int 0 for key x
+2019年07月28日 22时11分35秒 - key: y
+2019年07月28日 22时11分35秒 - int 0 for key y
+2019年07月28日 22时11分35秒 - key: width
+2019年07月28日 22时11分35秒 - int 0 for key width
+2019年07月28日 22时11分35秒 - key: height
+2019年07月28日 22时11分35秒 - int 0 for key height
+2019年07月28日 22时11分35秒 - end of map
+2019年07月28日 22时11分35秒 - key: window_rect
+2019年07月28日 22时11分35秒 - start of map, last_key = window_rect
+2019年07月28日 22时11分35秒 - key: x
+2019年07月28日 22时11分35秒 - int 0 for key x
+2019年07月28日 22时11分35秒 - key: y
+2019年07月28日 22时11分35秒 - int 0 for key y
+2019年07月28日 22时11分35秒 - key: width
+2019年07月28日 22时11分35秒 - int 0 for key width
+2019年07月28日 22时11分35秒 - key: height
+2019年07月28日 22时11分35秒 - int 0 for key height
+2019年07月28日 22时11分35秒 - end of map
+2019年07月28日 22时11分35秒 - key: geometry
+2019年07月28日 22时11分35秒 - start of map, last_key = geometry
+2019年07月28日 22时11分35秒 - key: x
+2019年07月28日 22时11分35秒 - int 0 for key x
+2019年07月28日 22时11分35秒 - key: y
+2019年07月28日 22时11分35秒 - int 0 for key y
+2019年07月28日 22时11分35秒 - key: width
+2019年07月28日 22时11分35秒 - int 0 for key width
+2019年07月28日 22时11分35秒 - key: height
+2019年07月28日 22时11分35秒 - int 0 for key height
+2019年07月28日 22时11分35秒 - end of map
+2019年07月28日 22时11分35秒 - key: name
+2019年07月28日 22时11分35秒 - string: root for key name
+2019年07月28日 22时11分35秒 - key: window
+2019年07月28日 22时11分35秒 - key: nodes
+2019年07月28日 22时11分35秒 - start of map, last_key = nodes
+2019年07月28日 22时11分35秒 - key: id
+2019年07月28日 22时11分35秒 - int 94832304292448 for key id
+2019年07月28日 22时11分35秒 - key: type
+2019年07月28日 22时11分35秒 - string: output for key type
+2019年07月28日 22时11分35秒 - key: orientation
+2019年07月28日 22时11分35秒 - string: none for key orientation
+2019年07月28日 22时11分35秒 - key: scratchpad_state
+2019年07月28日 22时11分35秒 - string: none for key scratchpad_state
+2019年07月28日 22时11分35秒 - key: percent
+2019年07月28日 22时11分35秒 - double 0.500000 for key percent
+2019年07月28日 22时11分35秒 - key: urgent
+2019年07月28日 22时11分35秒 - bool 0 for key urgent
+2019年07月28日 22时11分35秒 - key: focused
+2019年07月28日 22时11分35秒 - bool 0 for key focused
+2019年07月28日 22时11分35秒 - key: layout
+2019年07月28日 22时11分35秒 - string: output for key layout
+2019年07月28日 22时11分35秒 - key: workspace_layout
+2019年07月28日 22时11分35秒 - string: default for key workspace_layout
+2019年07月28日 22时11分35秒 - key: last_split_layout
+2019年07月28日 22时11分35秒 - string: splith for key last_split_layout
+2019年07月28日 22时11分35秒 - key: border
+2019年07月28日 22时11分35秒 - string: pixel for key border
+2019年07月28日 22时11分35秒 - key: current_border_width
+2019年07月28日 22时11分35秒 - int -1 for key current_border_width
+2019年07月28日 22时11分35秒 - key: rect
+2019年07月28日 22时11分35秒 - start of map, last_key = rect
+2019年07月28日 22时11分35秒 - key: x
+2019年07月28日 22时11分35秒 - int 0 for key x
+2019年07月28日 22时11分35秒 - key: y
+2019年07月28日 22时11分35秒 - int 0 for key y
+2019年07月28日 22时11分35秒 - key: width
+2019年07月28日 22时11分35秒 - int 1366 for key width
+2019年07月28日 22时11分35秒 - key: height
+2019年07月28日 22时11分35秒 - int 768 for key height
+2019年07月28日 22时11分35秒 - end of map
+2019年07月28日 22时11分35秒 - key: deco_rect
+2019年07月28日 22时11分35秒 - start of map, last_key = deco_rect
+2019年07月28日 22时11分35秒 - key: x
+2019年07月28日 22时11分35秒 - int 0 for key x
+2019年07月28日 22时11分35秒 - key: y
+2019年07月28日 22时11分35秒 - int 0 for key y
+2019年07月28日 22时11分35秒 - key: width
+2019年07月28日 22时11分35秒 - int 0 for key width
+2019年07月28日 22时11分35秒 - key: height
+2019年07月28日 22时11分35秒 - int 0 for key height
+2019年07月28日 22时11分35秒 - end of map
+2019年07月28日 22时11分35秒 - key: window_rect
+2019年07月28日 22时11分35秒 - start of map, last_key = window_rect
+2019年07月28日 22时11分35秒 - key: x
+2019年07月28日 22时11分35秒 - int 0 for key x
+2019年07月28日 22时11分35秒 - key: y
+2019年07月28日 22时11分35秒 - int 0 for key y
+2019年07月28日 22时11分35秒 - key: width
+2019年07月28日 22时11分35秒 - int 0 for key width
+2019年07月28日 22时11分35秒 - key: height
+2019年07月28日 22时11分35秒 - int 0 for key height
+2019年07月28日 22时11分35秒 - end of map
+2019年07月28日 22时11分35秒 - key: geometry
+2019年07月28日 22时11分35秒 - start of map, last_key = geometry
+2019年07月28日 22时11分35秒 - key: x
+2019年07月28日 22时11分35秒 - int 0 for key x
+2019年07月28日 22时11分35秒 - key: y
+2019年07月28日 22时11分35秒 - int 0 for key y
+2019年07月28日 22时11分35秒 - key: width
+2019年07月28日 22时11分35秒 - int 0 for key width
+2019年07月28日 22时11分35秒 - key: height
+2019年07月28日 22时11分35秒 - int 0 for key height
+2019年07月28日 22时11分35秒 - end of map
+2019年07月28日 22时11分35秒 - key: name
+2019年07月28日 22时11分35秒 - string: __i3 for key name
+2019年07月28日 22时11分35秒 - key: window
+2019年07月28日 22时11分35秒 - key: nodes
+2019年07月28日 22时11分35秒 - start of map, last_key = nodes
+2019年07月28日 22时11分35秒 - key: id
+2019年07月28日 22时11分35秒 - int 94832304295552 for key id
+2019年07月28日 22时11分35秒 - key: type
+2019年07月28日 22时11分35秒 - string: con for key type
+2019年07月28日 22时11分35秒 - key: orientation
+2019年07月28日 22时11分35秒 - string: horizontal for key orientation
+2019年07月28日 22时11分35秒 - key: scratchpad_state
+2019年07月28日 22时11分35秒 - string: none for key scratchpad_state
+2019年07月28日 22时11分35秒 - key: percent
+2019年07月28日 22时11分35秒 - key: urgent
+2019年07月28日 22时11分35秒 - bool 0 for key urgent
+2019年07月28日 22时11分35秒 - key: focused
+2019年07月28日 22时11分35秒 - bool 0 for key focused
+2019年07月28日 22时11分35秒 - key: output
+2019年07月28日 22时11分35秒 - string: __i3 for key output
+2019年07月28日 22时11分35秒 - key: layout
+2019年07月28日 22时11分35秒 - string: splith for key layout
+2019年07月28日 22时11分35秒 - key: workspace_layout
+2019年07月28日 22时11分35秒 - string: default for key workspace_layout
+2019年07月28日 22时11分35秒 - key: last_split_layout
+2019年07月28日 22时11分35秒 - string: splith for key last_split_layout
+2019年07月28日 22时11分35秒 - key: border
+2019年07月28日 22时11分35秒 - string: pixel for key border
+2019年07月28日 22时11分35秒 - key: current_border_width
+2019年07月28日 22时11分35秒 - int -1 for key current_border_width
+2019年07月28日 22时11分35秒 - key: rect
+2019年07月28日 22时11分35秒 - start of map, last_key = rect
+2019年07月28日 22时11分35秒 - key: x
+2019年07月28日 22时11分35秒 - int 0 for key x
+2019年07月28日 22时11分35秒 - key: y
+2019年07月28日 22时11分35秒 - int 0 for key y
+2019年07月28日 22时11分35秒 - key: width
+2019年07月28日 22时11分35秒 - int 0 for key width
+2019年07月28日 22时11分35秒 - key: height
+2019年07月28日 22时11分35秒 - int 0 for key height
+2019年07月28日 22时11分35秒 - end of map
+2019年07月28日 22时11分35秒 - key: deco_rect
+2019年07月28日 22时11分35秒 - start of map, last_key = deco_rect
+2019年07月28日 22时11分35秒 - key: x
+2019年07月28日 22时11分35秒 - int 0 for key x
+2019年07月28日 22时11分35秒 - key: y
+2019年07月28日 22时11分35秒 - int 0 for key y
+2019年07月28日 22时11分35秒 - key: width
+2019年07月28日 22时11分35秒 - int 0 for key width
+2019年07月28日 22时11分35秒 - key: height
+2019年07月28日 22时11分35秒 - int 0 for key height
+2019年07月28日 22时11分35秒 - end of map
+2019年07月28日 22时11分35秒 - key: window_rect
+2019年07月28日 22时11分35秒 - start of map, last_key = window_rect
+2019年07月28日 22时11分35秒 - key: x
+2019年07月28日 22时11分35秒 - int 0 for key x
+2019年07月28日 22时11分35秒 - key: y
+2019年07月28日 22时11分35秒 - int 0 for key y
+2019年07月28日 22时11分35秒 - key: width
+2019年07月28日 22时11分35秒 - int 0 for key width
+2019年07月28日 22时11分35秒 - key: height
+2019年07月28日 22时11分35秒 - int 0 for key height
+2019年07月28日 22时11分35秒 - end of map
+2019年07月28日 22时11分35秒 - key: geometry
+2019年07月28日 22时11分35秒 - start of map, last_key = geometry
+2019年07月28日 22时11分35秒 - key: x
+2019年07月28日 22时11分35秒 - int 0 for key x
+2019年07月28日 22时11分35秒 - key: y
+2019年07月28日 22时11分35秒 - int 0 for key y
+2019年07月28日 22时11分35秒 - key: width
+2019年07月28日 22时11分35秒 - int 0 for key width
+2019年07月28日 22时11分35秒 - key: height
+2019年07月28日 22时11分35秒 - int 0 for key height
+2019年07月28日 22时11分35秒 - end of map
+2019年07月28日 22时11分35秒 - key: name
+2019年07月28日 22时11分35秒 - string: content for key name
+2019年07月28日 22时11分35秒 - key: window
+2019年07月28日 22时11分35秒 - key: nodes
+2019年07月28日 22时11分35秒 - start of map, last_key = nodes
+2019年07月28日 22时11分35秒 - key: id
+2019年07月28日 22时11分35秒 - int 94832304298688 for key id
+2019年07月28日 22时11分35秒 - key: type
+2019年07月28日 22时11分35秒 - string: workspace for key type
+2019年07月28日 22时11分35秒 - key: orientation
+2019年07月28日 22时11分35秒 - string: none for key orientation
+2019年07月28日 22时11分35秒 - key: scratchpad_state
+2019年07月28日 22时11分35秒 - string: none for key scratchpad_state
+2019年07月28日 22时11分35秒 - key: percent
+2019年07月28日 22时11分35秒 - key: urgent
+2019年07月28日 22时11分35秒 - bool 0 for key urgent
+2019年07月28日 22时11分35秒 - key: focused
+2019年07月28日 22时11分35秒 - bool 0 for key focused
+2019年07月28日 22时11分35秒 - key: output
+2019年07月28日 22时11分35秒 - string: __i3 for key output
+2019年07月28日 22时11分35秒 - key: layout
+2019年07月28日 22时11分35秒 - string: splith for key layout
+2019年07月28日 22时11分35秒 - key: workspace_layout
+2019年07月28日 22时11分35秒 - string: default for key workspace_layout
+2019年07月28日 22时11分35秒 - key: last_split_layout
+2019年07月28日 22时11分35秒 - string: splith for key last_split_layout
+2019年07月28日 22时11分35秒 - key: border
+2019年07月28日 22时11分35秒 - string: pixel for key border
+2019年07月28日 22时11分35秒 - key: current_border_width
+2019年07月28日 22时11分35秒 - int -1 for key current_border_width
+2019年07月28日 22时11分35秒 - key: rect
+2019年07月28日 22时11分35秒 - start of map, last_key = rect
+2019年07月28日 22时11分35秒 - key: x
+2019年07月28日 22时11分35秒 - int 0 for key x
+2019年07月28日 22时11分35秒 - key: y
+2019年07月28日 22时11分35秒 - int 0 for key y
+2019年07月28日 22时11分35秒 - key: width
+2019年07月28日 22时11分35秒 - int 0 for key width
+2019年07月28日 22时11分35秒 - key: height
+2019年07月28日 22时11分35秒 - int 0 for key height
+2019年07月28日 22时11分35秒 - end of map
+2019年07月28日 22时11分35秒 - key: deco_rect
+2019年07月28日 22时11分35秒 - start of map, last_key = deco_rect
+2019年07月28日 22时11分35秒 - key: x
+2019年07月28日 22时11分35秒 - int 0 for key x
+2019年07月28日 22时11分35秒 - key: y
+2019年07月28日 22时11分35秒 - int 0 for key y
+2019年07月28日 22时11分35秒 - key: width
+2019年07月28日 22时11分35秒 - int 0 for key width
+2019年07月28日 22时11分35秒 - key: height
+2019年07月28日 22时11分35秒 - int 0 for key height
+2019年07月28日 22时11分35秒 - end of map
+2019年07月28日 22时11分35秒 - key: window_rect
+2019年07月28日 22时11分35秒 - start of map, last_key = window_rect
+2019年07月28日 22时11分35秒 - key: x
+2019年07月28日 22时11分35秒 - int 0 for key x
+2019年07月28日 22时11分35秒 - key: y
+2019年07月28日 22时11分35秒 - int 0 for key y
+2019年07月28日 22时11分35秒 - key: width
+2019年07月28日 22时11分35秒 - int 0 for key width
+2019年07月28日 22时11分35秒 - key: height
+2019年07月28日 22时11分35秒 - int 0 for key height
+2019年07月28日 22时11分35秒 - end of map
+2019年07月28日 22时11分35秒 - key: geometry
+2019年07月28日 22时11分35秒 - start of map, last_key = geometry
+2019年07月28日 22时11分35秒 - key: x
+2019年07月28日 22时11分35秒 - int 0 for key x
+2019年07月28日 22时11分35秒 - key: y
+2019年07月28日 22时11分35秒 - int 0 for key y
+2019年07月28日 22时11分35秒 - key: width
+2019年07月28日 22时11分35秒 - int 0 for key width
+2019年07月28日 22时11分35秒 - key: height
+2019年07月28日 22时11分35秒 - int 0 for key height
+2019年07月28日 22时11分35秒 - end of map
+2019年07月28日 22时11分35秒 - key: name
+2019年07月28日 22时11分35秒 - string: __i3_scratch for key name
+2019年07月28日 22时11分35秒 - key: num
+2019年07月28日 22时11分35秒 - int -1 for key num
+2019年07月28日 22时11分35秒 - key: gaps
+2019年07月28日 22时11分35秒 - start of map, last_key = gaps
+2019年07月28日 22时11分35秒 - key: inner
+2019年07月28日 22时11分35秒 - int 0 for key inner
+2019年07月28日 22时11分35秒 - key: outer
+2019年07月28日 22时11分35秒 - int 0 for key outer
+2019年07月28日 22时11分35秒 - end of map
+2019年07月28日 22时11分35秒 - key: window
+2019年07月28日 22时11分35秒 - key: nodes
+2019年07月28日 22时11分35秒 - end of array
+2019年07月28日 22时11分35秒 - key: floating_nodes
+2019年07月28日 22时11分35秒 - end of array
+2019年07月28日 22时11分35秒 - key: focus
+2019年07月28日 22时11分35秒 - end of array
+2019年07月28日 22时11分35秒 - key: fullscreen_mode
+2019年07月28日 22时11分35秒 - int 1 for key fullscreen_mode
+2019年07月28日 22时11分35秒 - key: sticky
+2019年07月28日 22时11分35秒 - bool 0 for key sticky
+2019年07月28日 22时11分35秒 - key: floating
+2019年07月28日 22时11分35秒 - string: auto_off for key floating
+2019年07月28日 22时11分35秒 - key: swallows
+2019年07月28日 22时11分35秒 - end of array
+2019年07月28日 22时11分35秒 - end of map
+2019年07月28日 22时11分35秒 - attaching
+2019年07月28日 22时11分35秒 - Creating window
+2019年07月28日 22时11分35秒 - end of array
+2019年07月28日 22时11分35秒 - key: floating_nodes
+2019年07月28日 22时11分35秒 - end of array
+2019年07月28日 22时11分35秒 - key: focus
+2019年07月28日 22时11分35秒 - int 94832304298688 for key focus
+2019年07月28日 22时11分35秒 - end of array
+2019年07月28日 22时11分35秒 - focus (reverse) -573596992
+2019年07月28日 22时11分35秒 - got it! 0x55e9941e1dd0
+2019年07月28日 22时11分35秒 - key: fullscreen_mode
+2019年07月28日 22时11分35秒 - int 0 for key fullscreen_mode
+2019年07月28日 22时11分35秒 - key: sticky
+2019年07月28日 22时11分35秒 - bool 0 for key sticky
+2019年07月28日 22时11分35秒 - key: floating
+2019年07月28日 22时11分35秒 - string: auto_off for key floating
+2019年07月28日 22时11分35秒 - key: swallows
+2019年07月28日 22时11分35秒 - end of array
+2019年07月28日 22时11分35秒 - end of map
+2019年07月28日 22时11分35秒 - attaching
+2019年07月28日 22时11分35秒 - Creating window
+2019年07月28日 22时11分35秒 - end of array
+2019年07月28日 22时11分35秒 - key: floating_nodes
+2019年07月28日 22时11分35秒 - end of array
+2019年07月28日 22时11分35秒 - key: focus
+2019年07月28日 22时11分35秒 - int 94832304295552 for key focus
+2019年07月28日 22时11分35秒 - end of array
+2019年07月28日 22时11分35秒 - focus (reverse) -573600128
+2019年07月28日 22时11分35秒 - got it! 0x55e9941e1be0
+2019年07月28日 22时11分35秒 - key: fullscreen_mode
+2019年07月28日 22时11分35秒 - int 0 for key fullscreen_mode
+2019年07月28日 22时11分35秒 - key: sticky
+2019年07月28日 22时11分35秒 - bool 0 for key sticky
+2019年07月28日 22时11分35秒 - key: floating
+2019年07月28日 22时11分35秒 - string: auto_off for key floating
+2019年07月28日 22时11分35秒 - key: swallows
+2019年07月28日 22时11分35秒 - end of array
+2019年07月28日 22时11分35秒 - end of map
+2019年07月28日 22时11分35秒 - attaching
+2019年07月28日 22时11分35秒 - Creating window
+2019年07月28日 22时11分35秒 - start of map, last_key = swallows
+2019年07月28日 22时11分35秒 - key: id
+2019年07月28日 22时11分35秒 - int 94832304302080 for key id
+2019年07月28日 22时11分35秒 - key: type
+2019年07月28日 22时11分35秒 - string: output for key type
+2019年07月28日 22时11分35秒 - key: orientation
+2019年07月28日 22时11分35秒 - string: none for key orientation
+2019年07月28日 22时11分35秒 - key: scratchpad_state
+2019年07月28日 22时11分35秒 - string: none for key scratchpad_state
+2019年07月28日 22时11分35秒 - key: percent
+2019年07月28日 22时11分35秒 - double 0.500000 for key percent
+2019年07月28日 22时11分35秒 - key: urgent
+2019年07月28日 22时11分35秒 - bool 0 for key urgent
+2019年07月28日 22时11分35秒 - key: focused
+2019年07月28日 22时11分35秒 - bool 0 for key focused
+2019年07月28日 22时11分35秒 - key: layout
+2019年07月28日 22时11分35秒 - string: output for key layout
+2019年07月28日 22时11分35秒 - key: workspace_layout
+2019年07月28日 22时11分35秒 - string: default for key workspace_layout
+2019年07月28日 22时11分35秒 - key: last_split_layout
+2019年07月28日 22时11分35秒 - string: splith for key last_split_layout
+2019年07月28日 22时11分35秒 - key: border
+2019年07月28日 22时11分35秒 - string: pixel for key border
+2019年07月28日 22时11分35秒 - key: current_border_width
+2019年07月28日 22时11分35秒 - int -1 for key current_border_width
+2019年07月28日 22时11分35秒 - key: rect
+2019年07月28日 22时11分35秒 - start of map, last_key = rect
+2019年07月28日 22时11分35秒 - key: x
+2019年07月28日 22时11分35秒 - int 0 for key x
+2019年07月28日 22时11分35秒 - key: y
+2019年07月28日 22时11分35秒 - int 0 for key y
+2019年07月28日 22时11分35秒 - key: width
+2019年07月28日 22时11分35秒 - int 1366 for key width
+2019年07月28日 22时11分35秒 - key: height
+2019年07月28日 22时11分35秒 - int 768 for key height
+2019年07月28日 22时11分35秒 - end of map
+2019年07月28日 22时11分35秒 - key: deco_rect
+2019年07月28日 22时11分35秒 - start of map, last_key = deco_rect
+2019年07月28日 22时11分35秒 - key: x
+2019年07月28日 22时11分35秒 - int 0 for key x
+2019年07月28日 22时11分35秒 - key: y
+2019年07月28日 22时11分35秒 - int 0 for key y
+2019年07月28日 22时11分35秒 - key: width
+2019年07月28日 22时11分35秒 - int 0 for key width
+2019年07月28日 22时11分35秒 - key: height
+2019年07月28日 22时11分35秒 - int 0 for key height
+2019年07月28日 22时11分35秒 - end of map
+2019年07月28日 22时11分35秒 - key: window_rect
+2019年07月28日 22时11分35秒 - start of map, last_key = window_rect
+2019年07月28日 22时11分35秒 - key: x
+2019年07月28日 22时11分35秒 - int 0 for key x
+2019年07月28日 22时11分35秒 - key: y
+2019年07月28日 22时11分35秒 - int 0 for key y
+2019年07月28日 22时11分35秒 - key: width
+2019年07月28日 22时11分35秒 - int 0 for key width
+2019年07月28日 22时11分35秒 - key: height
+2019年07月28日 22时11分35秒 - int 0 for key height
+2019年07月28日 22时11分35秒 - end of map
+2019年07月28日 22时11分35秒 - key: geometry
+2019年07月28日 22时11分35秒 - start of map, last_key = geometry
+2019年07月28日 22时11分35秒 - key: x
+2019年07月28日 22时11分35秒 - int 0 for key x
+2019年07月28日 22时11分35秒 - key: y
+2019年07月28日 22时11分35秒 - int 0 for key y
+2019年07月28日 22时11分35秒 - key: width
+2019年07月28日 22时11分35秒 - int 0 for key width
+2019年07月28日 22时11分35秒 - key: height
+2019年07月28日 22时11分35秒 - int 0 for key height
+2019年07月28日 22时11分35秒 - end of map
+2019年07月28日 22时11分35秒 - key: name
+2019年07月28日 22时11分35秒 - string: eDP1 for key name
+2019年07月28日 22时11分35秒 - key: window
+2019年07月28日 22时11分35秒 - key: nodes
+2019年07月28日 22时11分35秒 - start of map, last_key = nodes
+2019年07月28日 22时11分35秒 - key: id
+2019年07月28日 22时11分35秒 - int 94832304305248 for key id
+2019年07月28日 22时11分35秒 - key: type
+2019年07月28日 22时11分35秒 - string: dockarea for key type
+2019年07月28日 22时11分35秒 - key: orientation
+2019年07月28日 22时11分35秒 - string: none for key orientation
+2019年07月28日 22时11分35秒 - key: scratchpad_state
+2019年07月28日 22时11分35秒 - string: none for key scratchpad_state
+2019年07月28日 22时11分35秒 - key: percent
+2019年07月28日 22时11分35秒 - key: urgent
+2019年07月28日 22时11分35秒 - bool 0 for key urgent
+2019年07月28日 22时11分35秒 - key: focused
+2019年07月28日 22时11分35秒 - bool 0 for key focused
+2019年07月28日 22时11分35秒 - key: output
+2019年07月28日 22时11分35秒 - string: eDP1 for key output
+2019年07月28日 22时11分35秒 - key: layout
+2019年07月28日 22时11分35秒 - string: dockarea for key layout
+2019年07月28日 22时11分35秒 - key: workspace_layout
+2019年07月28日 22时11分35秒 - string: default for key workspace_layout
+2019年07月28日 22时11分35秒 - key: last_split_layout
+2019年07月28日 22时11分35秒 - string: splith for key last_split_layout
+2019年07月28日 22时11分35秒 - key: border
+2019年07月28日 22时11分35秒 - string: pixel for key border
+2019年07月28日 22时11分35秒 - key: current_border_width
+2019年07月28日 22时11分35秒 - int -1 for key current_border_width
+2019年07月28日 22时11分35秒 - key: rect
+2019年07月28日 22时11分35秒 - start of map, last_key = rect
+2019年07月28日 22时11分35秒 - key: x
+2019年07月28日 22时11分35秒 - int 0 for key x
+2019年07月28日 22时11分35秒 - key: y
+2019年07月28日 22时11分35秒 - int 0 for key y
+2019年07月28日 22时11分35秒 - key: width
+2019年07月28日 22时11分35秒 - int 1366 for key width
+2019年07月28日 22时11分35秒 - key: height
+2019年07月28日 22时11分35秒 - int 0 for key height
+2019年07月28日 22时11分35秒 - end of map
+2019年07月28日 22时11分35秒 - key: deco_rect
+2019年07月28日 22时11分35秒 - start of map, last_key = deco_rect
+2019年07月28日 22时11分35秒 - key: x
+2019年07月28日 22时11分35秒 - int 0 for key x
+2019年07月28日 22时11分35秒 - key: y
+2019年07月28日 22时11分35秒 - int 0 for key y
+2019年07月28日 22时11分35秒 - key: width
+2019年07月28日 22时11分35秒 - int 0 for key width
+2019年07月28日 22时11分35秒 - key: height
+2019年07月28日 22时11分35秒 - int 0 for key height
+2019年07月28日 22时11分35秒 - end of map
+2019年07月28日 22时11分35秒 - key: window_rect
+2019年07月28日 22时11分35秒 - start of map, last_key = window_rect
+2019年07月28日 22时11分35秒 - key: x
+2019年07月28日 22时11分35秒 - int 0 for key x
+2019年07月28日 22时11分35秒 - key: y
+2019年07月28日 22时11分35秒 - int 0 for key y
+2019年07月28日 22时11分35秒 - key: width
+2019年07月28日 22时11分35秒 - int 0 for key width
+2019年07月28日 22时11分35秒 - key: height
+2019年07月28日 22时11分35秒 - int 0 for key height
+2019年07月28日 22时11分35秒 - end of map
+2019年07月28日 22时11分35秒 - key: geometry
+2019年07月28日 22时11分35秒 - start of map, last_key = geometry
+2019年07月28日 22时11分35秒 - key: x
+2019年07月28日 22时11分35秒 - int 0 for key x
+2019年07月28日 22时11分35秒 - key: y
+2019年07月28日 22时11分35秒 - int 0 for key y
+2019年07月28日 22时11分35秒 - key: width
+2019年07月28日 22时11分35秒 - int 0 for key width
+2019年07月28日 22时11分35秒 - key: height
+2019年07月28日 22时11分35秒 - int 0 for key height
+2019年07月28日 22时11分35秒 - end of map
+2019年07月28日 22时11分35秒 - key: name
+2019年07月28日 22时11分35秒 - string: topdock for key name
+2019年07月28日 22时11分35秒 - key: window
+2019年07月28日 22时11分35秒 - key: nodes
+2019年07月28日 22时11分35秒 - end of array
+2019年07月28日 22时11分35秒 - key: floating_nodes
+2019年07月28日 22时11分35秒 - end of array
+2019年07月28日 22时11分35秒 - key: focus
+2019年07月28日 22时11分35秒 - end of array
+2019年07月28日 22时11分35秒 - key: fullscreen_mode
+2019年07月28日 22时11分35秒 - int 0 for key fullscreen_mode
+2019年07月28日 22时11分35秒 - key: sticky
+2019年07月28日 22时11分35秒 - bool 0 for key sticky
+2019年07月28日 22时11分35秒 - key: floating
+2019年07月28日 22时11分35秒 - string: auto_off for key floating
+2019年07月28日 22时11分35秒 - key: swallows
+2019年07月28日 22时11分35秒 - start of map, last_key = swallows
+2019年07月28日 22时11分35秒 - creating new swallow
+2019年07月28日 22时11分35秒 - key: dock
+2019年07月28日 22时11分35秒 - int 2 for key dock
+2019年07月28日 22时11分35秒 - key: insert_where
+2019年07月28日 22时11分35秒 - int 2 for key insert_where
+2019年07月28日 22时11分35秒 - end of map
+2019年07月28日 22时11分35秒 - end of array
+2019年07月28日 22时11分35秒 - end of map
+2019年07月28日 22时11分35秒 - attaching
+2019年07月28日 22时11分35秒 - Creating window
+2019年07月28日 22时11分35秒 - start of map, last_key = insert_where
+2019年07月28日 22时11分35秒 - key: id
+2019年07月28日 22时11分35秒 - int 94832304308496 for key id
+2019年07月28日 22时11分35秒 - key: type
+2019年07月28日 22时11分35秒 - string: con for key type
+2019年07月28日 22时11分35秒 - key: orientation
+2019年07月28日 22时11分35秒 - string: horizontal for key orientation
+2019年07月28日 22时11分35秒 - key: scratchpad_state
+2019年07月28日 22时11分35秒 - string: none for key scratchpad_state
+2019年07月28日 22时11分35秒 - key: percent
+2019年07月28日 22时11分35秒 - key: urgent
+2019年07月28日 22时11分35秒 - bool 0 for key urgent
+2019年07月28日 22时11分35秒 - key: focused
+2019年07月28日 22时11分35秒 - bool 0 for key focused
+2019年07月28日 22时11分35秒 - key: output
+2019年07月28日 22时11分35秒 - string: eDP1 for key output
+2019年07月28日 22时11分35秒 - key: layout
+2019年07月28日 22时11分35秒 - string: splith for key layout
+2019年07月28日 22时11分35秒 - key: workspace_layout
+2019年07月28日 22时11分35秒 - string: default for key workspace_layout
+2019年07月28日 22时11分35秒 - key: last_split_layout
+2019年07月28日 22时11分35秒 - string: splith for key last_split_layout
+2019年07月28日 22时11分35秒 - key: border
+2019年07月28日 22时11分35秒 - string: pixel for key border
+2019年07月28日 22时11分35秒 - key: current_border_width
+2019年07月28日 22时11分35秒 - int -1 for key current_border_width
+2019年07月28日 22时11分35秒 - key: rect
+2019年07月28日 22时11分35秒 - start of map, last_key = rect
+2019年07月28日 22时11分35秒 - key: x
+2019年07月28日 22时11分35秒 - int 0 for key x
+2019年07月28日 22时11分35秒 - key: y
+2019年07月28日 22时11分35秒 - int 0 for key y
+2019年07月28日 22时11分35秒 - key: width
+2019年07月28日 22时11分35秒 - int 1366 for key width
+2019年07月28日 22时11分35秒 - key: height
+2019年07月28日 22时11分35秒 - int 768 for key height
+2019年07月28日 22时11分35秒 - end of map
+2019年07月28日 22时11分35秒 - key: deco_rect
+2019年07月28日 22时11分35秒 - start of map, last_key = deco_rect
+2019年07月28日 22时11分35秒 - key: x
+2019年07月28日 22时11分35秒 - int 0 for key x
+2019年07月28日 22时11分35秒 - key: y
+2019年07月28日 22时11分35秒 - int 0 for key y
+2019年07月28日 22时11分35秒 - key: width
+2019年07月28日 22时11分35秒 - int 0 for key width
+2019年07月28日 22时11分35秒 - key: height
+2019年07月28日 22时11分35秒 - int 0 for key height
+2019年07月28日 22时11分35秒 - end of map
+2019年07月28日 22时11分35秒 - key: window_rect
+2019年07月28日 22时11分35秒 - start of map, last_key = window_rect
+2019年07月28日 22时11分35秒 - key: x
+2019年07月28日 22时11分35秒 - int 0 for key x
+2019年07月28日 22时11分35秒 - key: y
+2019年07月28日 22时11分35秒 - int 0 for key y
+2019年07月28日 22时11分35秒 - key: width
+2019年07月28日 22时11分35秒 - int 0 for key width
+2019年07月28日 22时11分35秒 - key: height
+2019年07月28日 22时11分35秒 - int 0 for key height
+2019年07月28日 22时11分35秒 - end of map
+2019年07月28日 22时11分35秒 - key: geometry
+2019年07月28日 22时11分35秒 - start of map, last_key = geometry
+2019年07月28日 22时11分35秒 - key: x
+2019年07月28日 22时11分35秒 - int 0 for key x
+2019年07月28日 22时11分35秒 - key: y
+2019年07月28日 22时11分35秒 - int 0 for key y
+2019年07月28日 22时11分35秒 - key: width
+2019年07月28日 22时11分35秒 - int 0 for key width
+2019年07月28日 22时11分35秒 - key: height
+2019年07月28日 22时11分35秒 - int 0 for key height
+2019年07月28日 22时11分35秒 - end of map
+2019年07月28日 22时11分35秒 - key: name
+2019年07月28日 22时11分35秒 - string: content for key name
+2019年07月28日 22时11分35秒 - key: window
+2019年07月28日 22时11分35秒 - key: nodes
+2019年07月28日 22时11分35秒 - start of map, last_key = nodes
+2019年07月28日 22时11分35秒 - key: id
+2019年07月28日 22时11分35秒 - int 94832304314944 for key id
+2019年07月28日 22时11分35秒 - key: type
+2019年07月28日 22时11分35秒 - string: workspace for key type
+2019年07月28日 22时11分35秒 - key: orientation
+2019年07月28日 22时11分35秒 - string: horizontal for key orientation
+2019年07月28日 22时11分35秒 - key: scratchpad_state
+2019年07月28日 22时11分35秒 - string: none for key scratchpad_state
+2019年07月28日 22时11分35秒 - key: percent
+2019年07月28日 22时11分35秒 - key: urgent
+2019年07月28日 22时11分35秒 - bool 0 for key urgent
+2019年07月28日 22时11分35秒 - key: focused
+2019年07月28日 22时11分35秒 - bool 0 for key focused
+2019年07月28日 22时11分35秒 - key: output
+2019年07月28日 22时11分35秒 - string: eDP1 for key output
+2019年07月28日 22时11分35秒 - key: layout
+2019年07月28日 22时11分35秒 - string: splith for key layout
+2019年07月28日 22时11分35秒 - key: workspace_layout
+2019年07月28日 22时11分35秒 - string: default for key workspace_layout
+2019年07月28日 22时11分35秒 - key: last_split_layout
+2019年07月28日 22时11分35秒 - string: splith for key last_split_layout
+2019年07月28日 22时11分35秒 - key: border
+2019年07月28日 22时11分35秒 - string: pixel for key border
+2019年07月28日 22时11分35秒 - key: current_border_width
+2019年07月28日 22时11分35秒 - int -1 for key current_border_width
+2019年07月28日 22时11分35秒 - key: rect
+2019年07月28日 22时11分35秒 - start of map, last_key = rect
+2019年07月28日 22时11分35秒 - key: x
+2019年07月28日 22时11分35秒 - int 0 for key x
+2019年07月28日 22时11分35秒 - key: y
+2019年07月28日 22时11分35秒 - int 0 for key y
+2019年07月28日 22时11分35秒 - key: width
+2019年07月28日 22时11分35秒 - int 1366 for key width
+2019年07月28日 22时11分35秒 - key: height
+2019年07月28日 22时11分35秒 - int 768 for key height
+2019年07月28日 22时11分35秒 - end of map
+2019年07月28日 22时11分35秒 - key: deco_rect
+2019年07月28日 22时11分35秒 - start of map, last_key = deco_rect
+2019年07月28日 22时11分35秒 - key: x
+2019年07月28日 22时11分35秒 - int 0 for key x
+2019年07月28日 22时11分35秒 - key: y
+2019年07月28日 22时11分35秒 - int 0 for key y
+2019年07月28日 22时11分35秒 - key: width
+2019年07月28日 22时11分35秒 - int 0 for key width
+2019年07月28日 22时11分35秒 - key: height
+2019年07月28日 22时11分35秒 - int 0 for key height
+2019年07月28日 22时11分35秒 - end of map
+2019年07月28日 22时11分35秒 - key: window_rect
+2019年07月28日 22时11分35秒 - start of map, last_key = window_rect
+2019年07月28日 22时11分35秒 - key: x
+2019年07月28日 22时11分35秒 - int 0 for key x
+2019年07月28日 22时11分35秒 - key: y
+2019年07月28日 22时11分35秒 - int 0 for key y
+2019年07月28日 22时11分35秒 - key: width
+2019年07月28日 22时11分35秒 - int 0 for key width
+2019年07月28日 22时11分35秒 - key: height
+2019年07月28日 22时11分35秒 - int 0 for key height
+2019年07月28日 22时11分35秒 - end of map
+2019年07月28日 22时11分35秒 - key: geometry
+2019年07月28日 22时11分35秒 - start of map, last_key = geometry
+2019年07月28日 22时11分35秒 - key: x
+2019年07月28日 22时11分35秒 - int 0 for key x
+2019年07月28日 22时11分35秒 - key: y
+2019年07月28日 22时11分35秒 - int 0 for key y
+2019年07月28日 22时11分35秒 - key: width
+2019年07月28日 22时11分35秒 - int 0 for key width
+2019年07月28日 22时11分35秒 - key: height
+2019年07月28日 22时11分35秒 - int 0 for key height
+2019年07月28日 22时11分35秒 - end of map
+2019年07月28日 22时11分35秒 - key: name
+2019年07月28日 22时11分35秒 - string: 1: for key name
+2019年07月28日 22时11分35秒 - key: num
+2019年07月28日 22时11分35秒 - int 1 for key num
+2019年07月28日 22时11分35秒 - key: gaps
+2019年07月28日 22时11分35秒 - start of map, last_key = gaps
+2019年07月28日 22时11分35秒 - key: inner
+2019年07月28日 22时11分35秒 - int 0 for key inner
+2019年07月28日 22时11分35秒 - key: outer
+2019年07月28日 22时11分35秒 - int 0 for key outer
+2019年07月28日 22时11分35秒 - end of map
+2019年07月28日 22时11分35秒 - key: window
+2019年07月28日 22时11分35秒 - key: nodes
+2019年07月28日 22时11分35秒 - start of map, last_key = nodes
+2019年07月28日 22时11分35秒 - key: id
+2019年07月28日 22时11分35秒 - int 94832303804992 for key id
+2019年07月28日 22时11分35秒 - key: type
+2019年07月28日 22时11分35秒 - string: con for key type
+2019年07月28日 22时11分35秒 - key: orientation
+2019年07月28日 22时11分35秒 - string: none for key orientation
+2019年07月28日 22时11分35秒 - key: scratchpad_state
+2019年07月28日 22时11分35秒 - string: none for key scratchpad_state
+2019年07月28日 22时11分35秒 - key: percent
+2019年07月28日 22时11分35秒 - double 0.500000 for key percent
+2019年07月28日 22时11分35秒 - key: urgent
+2019年07月28日 22时11分35秒 - bool 0 for key urgent
+2019年07月28日 22时11分35秒 - key: focused
+2019年07月28日 22时11分35秒 - bool 1 for key focused
+2019年07月28日 22时11分35秒 - key: output
+2019年07月28日 22时11分35秒 - string: eDP1 for key output
+2019年07月28日 22时11分35秒 - key: layout
+2019年07月28日 22时11分35秒 - string: splith for key layout
+2019年07月28日 22时11分35秒 - key: workspace_layout
+2019年07月28日 22时11分35秒 - string: default for key workspace_layout
+2019年07月28日 22时11分35秒 - key: last_split_layout
+2019年07月28日 22时11分35秒 - string: splith for key last_split_layout
+2019年07月28日 22时11分35秒 - key: border
+2019年07月28日 22时11分35秒 - string: pixel for key border
+2019年07月28日 22时11分35秒 - key: current_border_width
+2019年07月28日 22时11分35秒 - int 0 for key current_border_width
+2019年07月28日 22时11分35秒 - key: rect
+2019年07月28日 22时11分35秒 - start of map, last_key = rect
+2019年07月28日 22时11分35秒 - key: x
+2019年07月28日 22时11分35秒 - int 15 for key x
+2019年07月28日 22时11分35秒 - key: y
+2019年07月28日 22时11分35秒 - int 15 for key y
+2019年07月28日 22时11分35秒 - key: width
+2019年07月28日 22时11分35秒 - int 663 for key width
+2019年07月28日 22时11分35秒 - key: height
+2019年07月28日 22时11分35秒 - int 738 for key height
+2019年07月28日 22时11分35秒 - end of map
+2019年07月28日 22时11分35秒 - key: deco_rect
+2019年07月28日 22时11分35秒 - start of map, last_key = deco_rect
+2019年07月28日 22时11分35秒 - key: x
+2019年07月28日 22时11分35秒 - int 0 for key x
+2019年07月28日 22时11分35秒 - key: y
+2019年07月28日 22时11分35秒 - int 0 for key y
+2019年07月28日 22时11分35秒 - key: width
+2019年07月28日 22时11分35秒 - int 0 for key width
+2019年07月28日 22时11分35秒 - key: height
+2019年07月28日 22时11分35秒 - int 0 for key height
+2019年07月28日 22时11分35秒 - end of map
+2019年07月28日 22时11分35秒 - key: window_rect
+2019年07月28日 22时11分35秒 - start of map, last_key = window_rect
+2019年07月28日 22时11分35秒 - key: x
+2019年07月28日 22时11分35秒 - int 0 for key x
+2019年07月28日 22时11分35秒 - key: y
+2019年07月28日 22时11分35秒 - int 0 for key y
+2019年07月28日 22时11分35秒 - key: width
+2019年07月28日 22时11分35秒 - int 663 for key width
+2019年07月28日 22时11分35秒 - key: height
+2019年07月28日 22时11分35秒 - int 738 for key height
+2019年07月28日 22时11分35秒 - end of map
+2019年07月28日 22时11分35秒 - key: geometry
+2019年07月28日 22时11分35秒 - start of map, last_key = geometry
+2019年07月28日 22时11分35秒 - key: x
+2019年07月28日 22时11分35秒 - int 171 for key x
+2019年07月28日 22时11分35秒 - key: y
+2019年07月28日 22时11分35秒 - int 0 for key y
+2019年07月28日 22时11分35秒 - key: width
+2019年07月28日 22时11分35秒 - int 1024 for key width
+2019年07月28日 22时11分35秒 - key: height
+2019年07月28日 22时11分35秒 - int 768 for key height
+2019年07月28日 22时11分35秒 - end of map
+2019年07月28日 22时11分35秒 - key: name
+2019年07月28日 22时11分35秒 - string: .polybar - Code - OSS for key name
+2019年07月28日 22时11分35秒 - key: window
+2019年07月28日 22时11分35秒 - int 14680065 for key window
+2019年07月28日 22时11分35秒 - key: nodes
+2019年07月28日 22时11分35秒 - end of array
+2019年07月28日 22时11分35秒 - key: floating_nodes
+2019年07月28日 22时11分35秒 - end of array
+2019年07月28日 22时11分35秒 - key: focus
+2019年07月28日 22时11分35秒 - end of array
+2019年07月28日 22时11分35秒 - key: fullscreen_mode
+2019年07月28日 22时11分35秒 - int 0 for key fullscreen_mode
+2019年07月28日 22时11分35秒 - key: sticky
+2019年07月28日 22时11分35秒 - bool 0 for key sticky
+2019年07月28日 22时11分35秒 - key: floating
+2019年07月28日 22时11分35秒 - string: auto_off for key floating
+2019年07月28日 22时11分35秒 - key: swallows
+2019年07月28日 22时11分35秒 - start of map, last_key = swallows
+2019年07月28日 22时11分35秒 - creating new swallow
+2019年07月28日 22时11分35秒 - key: id
+2019年07月28日 22时11分35秒 - int 14680065 for key id
+2019年07月28日 22时11分35秒 - key: restart_mode
+2019年07月28日 22时11分35秒 - bool 1 for key restart_mode
+2019年07月28日 22时11分35秒 - end of map
+2019年07月28日 22时11分35秒 - end of array
+2019年07月28日 22时11分35秒 - key: depth
+2019年07月28日 22时11分35秒 - int 24 for key depth
+2019年07月28日 22时11分35秒 - end of map
+2019年07月28日 22时11分35秒 - attaching
+2019年07月28日 22时11分35秒 - Creating window
+2019年07月28日 22时11分35秒 - start of map, last_key = depth
+2019年07月28日 22时11分35秒 - key: id
+2019年07月28日 22时11分35秒 - int 94832304236112 for key id
+2019年07月28日 22时11分35秒 - key: type
+2019年07月28日 22时11分35秒 - string: con for key type
+2019年07月28日 22时11分35秒 - key: orientation
+2019年07月28日 22时11分35秒 - string: none for key orientation
+2019年07月28日 22时11分35秒 - key: scratchpad_state
+2019年07月28日 22时11分35秒 - string: none for key scratchpad_state
+2019年07月28日 22时11分35秒 - key: percent
+2019年07月28日 22时11分35秒 - double 0.500000 for key percent
+2019年07月28日 22时11分35秒 - key: urgent
+2019年07月28日 22时11分35秒 - bool 0 for key urgent
+2019年07月28日 22时11分35秒 - key: focused
+2019年07月28日 22时11分35秒 - bool 0 for key focused
+2019年07月28日 22时11分35秒 - key: output
+2019年07月28日 22时11分35秒 - string: eDP1 for key output
+2019年07月28日 22时11分35秒 - key: layout
+2019年07月28日 22时11分35秒 - string: splith for key layout
+2019年07月28日 22时11分35秒 - key: workspace_layout
+2019年07月28日 22时11分35秒 - string: default for key workspace_layout
+2019年07月28日 22时11分35秒 - key: last_split_layout
+2019年07月28日 22时11分35秒 - string: splith for key last_split_layout
+2019年07月28日 22时11分35秒 - key: border
+2019年07月28日 22时11分35秒 - string: pixel for key border
+2019年07月28日 22时11分35秒 - key: current_border_width
+2019年07月28日 22时11分35秒 - int 0 for key current_border_width
+2019年07月28日 22时11分35秒 - key: rect
+2019年07月28日 22时11分35秒 - start of map, last_key = rect
+2019年07月28日 22时11分35秒 - key: x
+2019年07月28日 22时11分35秒 - int 688 for key x
+2019年07月28日 22时11分35秒 - key: y
+2019年07月28日 22时11分35秒 - int 15 for key y
+2019年07月28日 22时11分35秒 - key: width
+2019年07月28日 22时11分35秒 - int 663 for key width
+2019年07月28日 22时11分35秒 - key: height
+2019年07月28日 22时11分35秒 - int 738 for key height
+2019年07月28日 22时11分35秒 - end of map
+2019年07月28日 22时11分35秒 - key: deco_rect
+2019年07月28日 22时11分35秒 - start of map, last_key = deco_rect
+2019年07月28日 22时11分35秒 - key: x
+2019年07月28日 22时11分35秒 - int 0 for key x
+2019年07月28日 22时11分35秒 - key: y
+2019年07月28日 22时11分35秒 - int 0 for key y
+2019年07月28日 22时11分35秒 - key: width
+2019年07月28日 22时11分35秒 - int 0 for key width
+2019年07月28日 22时11分35秒 - key: height
+2019年07月28日 22时11分35秒 - int 0 for key height
+2019年07月28日 22时11分35秒 - end of map
+2019年07月28日 22时11分35秒 - key: window_rect
+2019年07月28日 22时11分35秒 - start of map, last_key = window_rect
+2019年07月28日 22时11分35秒 - key: x
+2019年07月28日 22时11分35秒 - int 0 for key x
+2019年07月28日 22时11分35秒 - key: y
+2019年07月28日 22时11分35秒 - int 0 for key y
+2019年07月28日 22时11分35秒 - key: width
+2019年07月28日 22时11分35秒 - int 663 for key width
+2019年07月28日 22时11分35秒 - key: height
+2019年07月28日 22时11分35秒 - int 738 for key height
+2019年07月28日 22时11分35秒 - end of map
+2019年07月28日 22时11分35秒 - key: geometry
+2019年07月28日 22时11分35秒 - start of map, last_key = geometry
+2019年07月28日 22时11分35秒 - key: x
+2019年07月28日 22时11分35秒 - int 0 for key x
+2019年07月28日 22时11分35秒 - key: y
+2019年07月28日 22时11分35秒 - int 0 for key y
+2019年07月28日 22时11分35秒 - key: width
+2019年07月28日 22时11分35秒 - int 436 for key width
+2019年07月28日 22时11分35秒 - key: height
+2019年07月28日 22时11分35秒 - int 738 for key height
+2019年07月28日 22时11分35秒 - end of map
+2019年07月28日 22时11分35秒 - key: name
+2019年07月28日 22时11分35秒 - string: polybar bar: example_百度搜索 - Mozilla Firefox for key name
+2019年07月28日 22时11分35秒 - key: window
+2019年07月28日 22时11分35秒 - int 25165827 for key window
+2019年07月28日 22时11分35秒 - key: nodes
+2019年07月28日 22时11分35秒 - end of array
+2019年07月28日 22时11分35秒 - key: floating_nodes
+2019年07月28日 22时11分35秒 - end of array
+2019年07月28日 22时11分35秒 - key: focus
+2019年07月28日 22时11分35秒 - end of array
+2019年07月28日 22时11分35秒 - key: fullscreen_mode
+2019年07月28日 22时11分35秒 - int 0 for key fullscreen_mode
+2019年07月28日 22时11分35秒 - key: sticky
+2019年07月28日 22时11分35秒 - bool 0 for key sticky
+2019年07月28日 22时11分35秒 - key: floating
+2019年07月28日 22时11分35秒 - string: auto_off for key floating
+2019年07月28日 22时11分35秒 - key: swallows
+2019年07月28日 22时11分35秒 - start of map, last_key = swallows
+2019年07月28日 22时11分35秒 - creating new swallow
+2019年07月28日 22时11分35秒 - key: id
+2019年07月28日 22时11分35秒 - int 25165827 for key id
+2019年07月28日 22时11分35秒 - key: restart_mode
+2019年07月28日 22时11分35秒 - bool 1 for key restart_mode
+2019年07月28日 22时11分35秒 - end of map
+2019年07月28日 22时11分35秒 - end of array
+2019年07月28日 22时11分35秒 - key: depth
+2019年07月28日 22时11分35秒 - int 24 for key depth
+2019年07月28日 22时11分35秒 - end of map
+2019年07月28日 22时11分35秒 - attaching
+2019年07月28日 22时11分35秒 - Creating window
+2019年07月28日 22时11分35秒 - end of array
+2019年07月28日 22时11分35秒 - key: floating_nodes
+2019年07月28日 22时11分35秒 - end of array
+2019年07月28日 22时11分35秒 - key: focus
+2019年07月28日 22时11分35秒 - int 94832303804992 for key focus
+2019年07月28日 22时11分35秒 - int 94832304236112 for key focus
+2019年07月28日 22时11分35秒 - end of array
+2019年07月28日 22时11分35秒 - focus (reverse) -573659568
+2019年07月28日 22时11分35秒 - got it! 0x55e9941e5d00
+2019年07月28日 22时11分35秒 - focus (reverse) -574090688
+2019年07月28日 22时11分35秒 - got it! 0x55e9941e50c0
+2019年07月28日 22时11分35秒 - key: fullscreen_mode
+2019年07月28日 22时11分35秒 - int 1 for key fullscreen_mode
+2019年07月28日 22时11分35秒 - key: sticky
+2019年07月28日 22时11分35秒 - bool 0 for key sticky
+2019年07月28日 22时11分35秒 - key: floating
+2019年07月28日 22时11分35秒 - string: auto_off for key floating
+2019年07月28日 22时11分35秒 - key: swallows
+2019年07月28日 22时11分35秒 - end of array
+2019年07月28日 22时11分35秒 - end of map
+2019年07月28日 22时11分35秒 - attaching
+2019年07月28日 22时11分35秒 - Creating window
+2019年07月28日 22时11分35秒 - end of array
+2019年07月28日 22时11分35秒 - key: floating_nodes
+2019年07月28日 22时11分35秒 - end of array
+2019年07月28日 22时11分35秒 - key: focus
+2019年07月28日 22时11分35秒 - int 94832304314944 for key focus
+2019年07月28日 22时11分35秒 - end of array
+2019年07月28日 22时11分35秒 - focus (reverse) -573580736
+2019年07月28日 22时11分35秒 - got it! 0x55e9941e4ed0
+2019年07月28日 22时11分35秒 - key: fullscreen_mode
+2019年07月28日 22时11分35秒 - int 0 for key fullscreen_mode
+2019年07月28日 22时11分35秒 - key: sticky
+2019年07月28日 22时11分35秒 - bool 0 for key sticky
+2019年07月28日 22时11分35秒 - key: floating
+2019年07月28日 22时11分35秒 - string: auto_off for key floating
+2019年07月28日 22时11分35秒 - key: swallows
+2019年07月28日 22时11分35秒 - end of array
+2019年07月28日 22时11分35秒 - end of map
+2019年07月28日 22时11分35秒 - attaching
+2019年07月28日 22时11分35秒 - Creating window
+2019年07月28日 22时11分35秒 - start of map, last_key = swallows
+2019年07月28日 22时11分35秒 - key: id
+2019年07月28日 22时11分35秒 - int 94832304311696 for key id
+2019年07月28日 22时11分35秒 - key: type
+2019年07月28日 22时11分35秒 - string: dockarea for key type
+2019年07月28日 22时11分35秒 - key: orientation
+2019年07月28日 22时11分35秒 - string: none for key orientation
+2019年07月28日 22时11分35秒 - key: scratchpad_state
+2019年07月28日 22时11分35秒 - string: none for key scratchpad_state
+2019年07月28日 22时11分35秒 - key: percent
+2019年07月28日 22时11分35秒 - key: urgent
+2019年07月28日 22时11分35秒 - bool 0 for key urgent
+2019年07月28日 22时11分35秒 - key: focused
+2019年07月28日 22时11分35秒 - bool 0 for key focused
+2019年07月28日 22时11分35秒 - key: output
+2019年07月28日 22时11分35秒 - string: eDP1 for key output
+2019年07月28日 22时11分35秒 - key: layout
+2019年07月28日 22时11分35秒 - string: dockarea for key layout
+2019年07月28日 22时11分35秒 - key: workspace_layout
+2019年07月28日 22时11分35秒 - string: default for key workspace_layout
+2019年07月28日 22时11分35秒 - key: last_split_layout
+2019年07月28日 22时11分35秒 - string: splith for key last_split_layout
+2019年07月28日 22时11分35秒 - key: border
+2019年07月28日 22时11分35秒 - string: pixel for key border
+2019年07月28日 22时11分35秒 - key: current_border_width
+2019年07月28日 22时11分35秒 - int -1 for key current_border_width
+2019年07月28日 22时11分35秒 - key: rect
+2019年07月28日 22时11分35秒 - start of map, last_key = rect
+2019年07月28日 22时11分35秒 - key: x
+2019年07月28日 22时11分35秒 - int 0 for key x
+2019年07月28日 22时11分35秒 - key: y
+2019年07月28日 22时11分35秒 - int 768 for key y
+2019年07月28日 22时11分35秒 - key: width
+2019年07月28日 22时11分35秒 - int 1366 for key width
+2019年07月28日 22时11分35秒 - key: height
+2019年07月28日 22时11分35秒 - int 0 for key height
+2019年07月28日 22时11分35秒 - end of map
+2019年07月28日 22时11分35秒 - key: deco_rect
+2019年07月28日 22时11分35秒 - start of map, last_key = deco_rect
+2019年07月28日 22时11分35秒 - key: x
+2019年07月28日 22时11分35秒 - int 0 for key x
+2019年07月28日 22时11分35秒 - key: y
+2019年07月28日 22时11分35秒 - int 0 for key y
+2019年07月28日 22时11分35秒 - key: width
+2019年07月28日 22时11分35秒 - int 0 for key width
+2019年07月28日 22时11分35秒 - key: height
+2019年07月28日 22时11分35秒 - int 0 for key height
+2019年07月28日 22时11分35秒 - end of map
+2019年07月28日 22时11分35秒 - key: window_rect
+2019年07月28日 22时11分35秒 - start of map, last_key = window_rect
+2019年07月28日 22时11分35秒 - key: x
+2019年07月28日 22时11分35秒 - int 0 for key x
+2019年07月28日 22时11分35秒 - key: y
+2019年07月28日 22时11分35秒 - int 0 for key y
+2019年07月28日 22时11分35秒 - key: width
+2019年07月28日 22时11分35秒 - int 0 for key width
+2019年07月28日 22时11分35秒 - key: height
+2019年07月28日 22时11分35秒 - int 0 for key height
+2019年07月28日 22时11分35秒 - end of map
+2019年07月28日 22时11分35秒 - key: geometry
+2019年07月28日 22时11分35秒 - start of map, last_key = geometry
+2019年07月28日 22时11分35秒 - key: x
+2019年07月28日 22时11分35秒 - int 0 for key x
+2019年07月28日 22时11分35秒 - key: y
+2019年07月28日 22时11分35秒 - int 0 for key y
+2019年07月28日 22时11分35秒 - key: width
+2019年07月28日 22时11分35秒 - int 0 for key width
+2019年07月28日 22时11分35秒 - key: height
+2019年07月28日 22时11分35秒 - int 0 for key height
+2019年07月28日 22时11分35秒 - end of map
+2019年07月28日 22时11分35秒 - key: name
+2019年07月28日 22时11分35秒 - string: bottomdock for key name
+2019年07月28日 22时11分35秒 - key: window
+2019年07月28日 22时11分35秒 - key: nodes
+2019年07月28日 22时11分35秒 - end of array
+2019年07月28日 22时11分35秒 - key: floating_nodes
+2019年07月28日 22时11分35秒 - end of array
+2019年07月28日 22时11分35秒 - key: focus
+2019年07月28日 22时11分35秒 - end of array
+2019年07月28日 22时11分35秒 - key: fullscreen_mode
+2019年07月28日 22时11分35秒 - int 0 for key fullscreen_mode
+2019年07月28日 22时11分35秒 - key: sticky
+2019年07月28日 22时11分35秒 - bool 0 for key sticky
+2019年07月28日 22时11分35秒 - key: floating
+2019年07月28日 22时11分35秒 - string: auto_off for key floating
+2019年07月28日 22时11分35秒 - key: swallows
+2019年07月28日 22时11分35秒 - start of map, last_key = swallows
+2019年07月28日 22时11分35秒 - creating new swallow
+2019年07月28日 22时11分35秒 - key: dock
+2019年07月28日 22时11分35秒 - int 3 for key dock
+2019年07月28日 22时11分35秒 - key: insert_where
+2019年07月28日 22时11分35秒 - int 2 for key insert_where
+2019年07月28日 22时11分35秒 - end of map
+2019年07月28日 22时11分35秒 - end of array
+2019年07月28日 22时11分35秒 - end of map
+2019年07月28日 22时11分35秒 - attaching
+2019年07月28日 22时11分35秒 - Creating window
+2019年07月28日 22时11分35秒 - end of array
+2019年07月28日 22时11分35秒 - key: floating_nodes
+2019年07月28日 22时11分35秒 - end of array
+2019年07月28日 22时11分35秒 - key: focus
+2019年07月28日 22时11分35秒 - int 94832304308496 for key focus
+2019年07月28日 22时11分35秒 - int 94832304305248 for key focus
+2019年07月28日 22时11分35秒 - int 94832304311696 for key focus
+2019年07月28日 22时11分35秒 - end of array
+2019年07月28日 22时11分35秒 - focus (reverse) -573583984
+2019年07月28日 22时11分35秒 - got it! 0x55e9941e7e00
+2019年07月28日 22时11分35秒 - focus (reverse) -573590432
+2019年07月28日 22时11分35秒 - got it! 0x55e9941e40a0
+2019年07月28日 22时11分35秒 - focus (reverse) -573587184
+2019年07月28日 22时11分35秒 - got it! 0x55e9941e4ce0
+2019年07月28日 22时11分35秒 - key: fullscreen_mode
+2019年07月28日 22时11分35秒 - int 0 for key fullscreen_mode
+2019年07月28日 22时11分35秒 - key: sticky
+2019年07月28日 22时11分35秒 - bool 0 for key sticky
+2019年07月28日 22时11分35秒 - key: floating
+2019年07月28日 22时11分35秒 - string: auto_off for key floating
+2019年07月28日 22时11分35秒 - key: swallows
+2019年07月28日 22时11分35秒 - end of array
+2019年07月28日 22时11分35秒 - end of map
+2019年07月28日 22时11分35秒 - attaching
+2019年07月28日 22时11分35秒 - Creating window
+2019年07月28日 22时11分35秒 - end of array
+2019年07月28日 22时11分35秒 - key: floating_nodes
+2019年07月28日 22时11分35秒 - end of array
+2019年07月28日 22时11分35秒 - key: focus
+2019年07月28日 22时11分35秒 - int 94832304302080 for key focus
+2019年07月28日 22时11分35秒 - int 94832304292448 for key focus
+2019年07月28日 22时11分35秒 - end of array
+2019年07月28日 22时11分35秒 - focus (reverse) -573603232
+2019年07月28日 22时11分35秒 - got it! 0x55e9941e11e0
+2019年07月28日 22时11分35秒 - focus (reverse) -573593600
+2019年07月28日 22时11分35秒 - got it! 0x55e9941e3eb0
+2019年07月28日 22时11分35秒 - key: fullscreen_mode
+2019年07月28日 22时11分35秒 - int 0 for key fullscreen_mode
+2019年07月28日 22时11分35秒 - key: sticky
+2019年07月28日 22时11分35秒 - bool 0 for key sticky
+2019年07月28日 22时11分35秒 - key: floating
+2019年07月28日 22时11分35秒 - string: auto_off for key floating
+2019年07月28日 22时11分35秒 - key: swallows
+2019年07月28日 22时11分35秒 - end of array
+2019年07月28日 22时11分35秒 - end of map
+2019年07月28日 22时11分35秒 - attaching
+2019年07月28日 22时11分35秒 - Creating window
+2019年07月28日 22时11分35秒 - _NET_WM_NAME changed to ".polybar - Code - OSS"
+2019年07月28日 22时11分35秒 - WM_HINTS.input changed to "0"
+2019年07月28日 22时11分35秒 - Checking window 0x00800000 (class (null))
+2019年07月28日 22时11分35秒 - dock status does not match
+2019年07月28日 22时11分35秒 - Checking window 0x00800000 (class (null))
+2019年07月28日 22时11分35秒 - match made by window id (8388608)
+2019年07月28日 22时11分35秒 - workspace visible? fs = 0x55e9941e4ed0, ws = 0x55e9941e4ed0
+2019年07月28日 22时11分35秒 - workspace visible? fs = 0x55e9941e4ed0, ws = 0x55e9941e4ed0
+2019年07月28日 22时11分35秒 - workspace visible? fs = 0x55e9941e4ed0, ws = 0x55e9941e4ed0
+2019年07月28日 22时11分35秒 - workspace visible? fs = 0x55e9941e1dd0, ws = 0x55e9941e1dd0
+2019年07月28日 22时11分35秒 - _NET_WM_NAME changed to "polybar bar: example_百度搜索 - Mozilla Firefox"
+2019年07月28日 22时11分35秒 - WM_HINTS.input changed to "0"
+2019年07月28日 22时11分35秒 - Checking window 0x00800001 (class (null))
+2019年07月28日 22时11分35秒 - dock status does not match
+2019年07月28日 22时11分35秒 - Checking window 0x00800001 (class (null))
+2019年07月28日 22时11分35秒 - window id does not match
+2019年07月28日 22时11分35秒 - Checking window 0x00800001 (class (null))
+2019年07月28日 22时11分35秒 - match made by window id (8388609)
+2019年07月28日 22时11分35秒 - workspace visible? fs = 0x55e9941e4ed0, ws = 0x55e9941e4ed0
+2019年07月28日 22时11分35秒 - workspace visible? fs = 0x55e9941e4ed0, ws = 0x55e9941e4ed0
+2019年07月28日 22时11分35秒 - Urgency flag changed to 1
+2019年07月28日 22时11分35秒 - workspace visible? fs = 0x55e9941e4ed0, ws = 0x55e9941e4ed0
+2019年07月28日 22时11分35秒 - workspace visible? fs = 0x55e9941e1dd0, ws = 0x55e9941e1dd0
+2019年07月28日 22时11分35秒 - WM_CLASS changed to code-oss (instance), code-oss (class)
+2019年07月28日 22时11分35秒 - WM_NAME changed to ".polybar - Code - OSS"
+2019年07月28日 22时11分35秒 - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+2019年07月28日 22时11分35秒 - _NET_WM_NAME changed to ".polybar - Code - OSS"
+2019年07月28日 22时11分35秒 - WM_WINDOW_ROLE changed to "browser-window"
+2019年07月28日 22时11分35秒 - Checking window 0x00e00001 (class code-oss)
+2019年07月28日 22时11分35秒 - dock status does not match
+2019年07月28日 22时11分35秒 - Checking window 0x00e00001 (class code-oss)
+2019年07月28日 22时11分35秒 - match made by window id (14680065)
+2019年07月28日 22时11分35秒 - workspace visible? fs = 0x55e9941e4ed0, ws = 0x55e9941e4ed0
+2019年07月28日 22时11分35秒 - workspace visible? fs = 0x55e9941e4ed0, ws = 0x55e9941e4ed0
+2019年07月28日 22时11分35秒 - workspace visible? fs = 0x55e9941e4ed0, ws = 0x55e9941e4ed0
+2019年07月28日 22时11分35秒 - workspace visible? fs = 0x55e9941e1dd0, ws = 0x55e9941e1dd0
+2019年07月28日 22时11分35秒 - WM_CLASS changed to Navigator (instance), firefox (class)
+2019年07月28日 22时11分35秒 - WM_NAME changed to "polybar bar: example_$(BI4EYYS:w(B - Mozilla Firefox"
+2019年07月28日 22时11分35秒 - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+2019年07月28日 22时11分35秒 - _NET_WM_NAME changed to "polybar bar: example_百度搜索 - Mozilla Firefox"
+2019年07月28日 22时11分35秒 - WM_WINDOW_ROLE changed to "browser"
+2019年07月28日 22时11分35秒 - WM_HINTS.input changed to "1"
+2019年07月28日 22时11分35秒 - Checking window 0x01800003 (class firefox)
+2019年07月28日 22时11分35秒 - dock status does not match
+2019年07月28日 22时11分35秒 - Checking window 0x01800003 (class firefox)
+2019年07月28日 22时11分35秒 - match made by window id (25165827)
+2019年07月28日 22时11分35秒 - workspace visible? fs = 0x55e9941e4ed0, ws = 0x55e9941e4ed0
+2019年07月28日 22时11分35秒 - workspace visible? fs = 0x55e9941e4ed0, ws = 0x55e9941e4ed0
+2019年07月28日 22时11分35秒 - Urgency flag changed to 0
+2019年07月28日 22时11分35秒 - workspace visible? fs = 0x55e9941e4ed0, ws = 0x55e9941e4ed0
+2019年07月28日 22时11分35秒 - workspace visible? fs = 0x55e9941e1dd0, ws = 0x55e9941e1dd0
+2019年07月28日 22时11分35秒 - auto-starting (always!) feh --bg-scale "/home/wjh/Pictures/v2-2fb11ef71385fabc6596fcd75e3b9f68_r.jpg"
+2019年07月28日 22时11分35秒 - executing: feh --bg-scale "/home/wjh/Pictures/v2-2fb11ef71385fabc6596fcd75e3b9f68_r.jpg"
+2019年07月28日 22时11分35秒 - auto-starting (always!) $HOME/.config/polybar/launch.sh
+2019年07月28日 22时11分35秒 - executing: $HOME/.config/polybar/launch.sh
+2019年07月28日 22时11分35秒 - ERROR: Received ExposeEvent for unknown window 0x00800000
+2019年07月28日 22时11分35秒 - ERROR: Received ConfigureNotify for unknown window 0x00800000
+2019年07月28日 22时11分35秒 - ERROR: Received ExposeEvent for unknown window 0x00800001
+2019年07月28日 22时11分35秒 - ERROR: Received ConfigureNotify for unknown window 0x00800001
+2019年07月28日 22时11分35秒 - Not a managed window, ignoring UnmapNotify event
+2019年07月28日 22时11分35秒 - Not a managed window, ignoring UnmapNotify event
+2019年07月28日 22时11分35秒 - Not a managed window, ignoring UnmapNotify event
+2019年07月28日 22时11分35秒 - Not a managed window, ignoring UnmapNotify event
+2019年07月28日 22时11分35秒 - Not a managed window, ignoring UnmapNotify event
+2019年07月28日 22时11分35秒 - Not a managed window, ignoring UnmapNotify event
+2019年07月28日 22时11分35秒 - Not a managed window, ignoring UnmapNotify event
+2019年07月28日 22时11分35秒 - Not a managed window, ignoring UnmapNotify event
+Bars launched...
+polybar|error: Undefined bar: example
+2019年07月28日 22时11分44秒 - _NET_WM_NAME changed to "config - Code - OSS"
+2019年07月28日 22时11分49秒 - _NET_WM_NAME changed to ".polybar - Code - OSS"
+2019年07月28日 22时12分06秒 - _NET_WM_NAME changed to "● .polybar - Code - OSS"
+2019年07月28日 22时12分12秒 - _NET_WM_NAME changed to ".polybar - Code - OSS"
+2019年07月28日 22时12分16秒 - restarting i3
+2019年07月28日 22时12分16秒 - restarting "i3"...
+2019年07月28日 22时12分16秒 - Autostart disabled using -a
+2019年07月28日 22时12分16秒 - i3 4.16.1 (2019-01-27) starting
+2019年07月28日 22时12分16秒 - Parsing configfile /home/wjh/.config/i3/config
+2019年07月28日 22时12分16秒 - deciding for version 4 due to this line: # i3 config file (v4)
+2019年07月28日 22时12分16秒 - [libi3] ../i3-4.16.1/../i3-4.16.1/libi3/font.c Using Pango font monospace, size 8
+2019年07月28日 22时12分16秒 - Trying to restore the layout from "/run/user/1000/i3/restart-state.5449".
+2019年07月28日 22时12分16秒 - start of map, last_key = (null)
+2019年07月28日 22时12分16秒 - key: id
+2019年07月28日 22时12分16秒 - int 94461700738896 for key id
+2019年07月28日 22时12分16秒 - key: type
+2019年07月28日 22时12分16秒 - string: root for key type
+2019年07月28日 22时12分16秒 - key: orientation
+2019年07月28日 22时12分16秒 - string: horizontal for key orientation
+2019年07月28日 22时12分16秒 - key: scratchpad_state
+2019年07月28日 22时12分16秒 - string: none for key scratchpad_state
+2019年07月28日 22时12分16秒 - key: percent
+2019年07月28日 22时12分16秒 - double 1.000000 for key percent
+2019年07月28日 22时12分16秒 - key: urgent
+2019年07月28日 22时12分16秒 - bool 0 for key urgent
+2019年07月28日 22时12分16秒 - key: focused
+2019年07月28日 22时12分16秒 - bool 0 for key focused
+2019年07月28日 22时12分16秒 - key: layout
+2019年07月28日 22时12分16秒 - string: splith for key layout
+2019年07月28日 22时12分16秒 - key: workspace_layout
+2019年07月28日 22时12分16秒 - string: default for key workspace_layout
+2019年07月28日 22时12分16秒 - key: last_split_layout
+2019年07月28日 22时12分16秒 - string: splith for key last_split_layout
+2019年07月28日 22时12分16秒 - key: border
+2019年07月28日 22时12分16秒 - string: pixel for key border
+2019年07月28日 22时12分16秒 - key: current_border_width
+2019年07月28日 22时12分16秒 - int -1 for key current_border_width
+2019年07月28日 22时12分16秒 - key: rect
+2019年07月28日 22时12分16秒 - start of map, last_key = rect
+2019年07月28日 22时12分16秒 - key: x
+2019年07月28日 22时12分16秒 - int 0 for key x
+2019年07月28日 22时12分16秒 - key: y
+2019年07月28日 22时12分16秒 - int 0 for key y
+2019年07月28日 22时12分16秒 - key: width
+2019年07月28日 22时12分16秒 - int 1366 for key width
+2019年07月28日 22时12分16秒 - key: height
+2019年07月28日 22时12分16秒 - int 768 for key height
+2019年07月28日 22时12分16秒 - end of map
+2019年07月28日 22时12分16秒 - key: deco_rect
+2019年07月28日 22时12分16秒 - start of map, last_key = deco_rect
+2019年07月28日 22时12分16秒 - key: x
+2019年07月28日 22时12分16秒 - int 0 for key x
+2019年07月28日 22时12分16秒 - key: y
+2019年07月28日 22时12分16秒 - int 0 for key y
+2019年07月28日 22时12分16秒 - key: width
+2019年07月28日 22时12分16秒 - int 0 for key width
+2019年07月28日 22时12分16秒 - key: height
+2019年07月28日 22时12分16秒 - int 0 for key height
+2019年07月28日 22时12分16秒 - end of map
+2019年07月28日 22时12分16秒 - key: window_rect
+2019年07月28日 22时12分16秒 - start of map, last_key = window_rect
+2019年07月28日 22时12分16秒 - key: x
+2019年07月28日 22时12分16秒 - int 0 for key x
+2019年07月28日 22时12分16秒 - key: y
+2019年07月28日 22时12分16秒 - int 0 for key y
+2019年07月28日 22时12分16秒 - key: width
+2019年07月28日 22时12分16秒 - int 0 for key width
+2019年07月28日 22时12分16秒 - key: height
+2019年07月28日 22时12分16秒 - int 0 for key height
+2019年07月28日 22时12分16秒 - end of map
+2019年07月28日 22时12分16秒 - key: geometry
+2019年07月28日 22时12分16秒 - start of map, last_key = geometry
+2019年07月28日 22时12分16秒 - key: x
+2019年07月28日 22时12分16秒 - int 0 for key x
+2019年07月28日 22时12分16秒 - key: y
+2019年07月28日 22时12分16秒 - int 0 for key y
+2019年07月28日 22时12分16秒 - key: width
+2019年07月28日 22时12分16秒 - int 0 for key width
+2019年07月28日 22时12分16秒 - key: height
+2019年07月28日 22时12分16秒 - int 0 for key height
+2019年07月28日 22时12分16秒 - end of map
+2019年07月28日 22时12分16秒 - key: name
+2019年07月28日 22时12分16秒 - string: root for key name
+2019年07月28日 22时12分16秒 - key: window
+2019年07月28日 22时12分16秒 - key: nodes
+2019年07月28日 22时12分16秒 - start of map, last_key = nodes
+2019年07月28日 22时12分16秒 - key: id
+2019年07月28日 22时12分16秒 - int 94461700739552 for key id
+2019年07月28日 22时12分16秒 - key: type
+2019年07月28日 22时12分16秒 - string: output for key type
+2019年07月28日 22时12分16秒 - key: orientation
+2019年07月28日 22时12分16秒 - string: none for key orientation
+2019年07月28日 22时12分16秒 - key: scratchpad_state
+2019年07月28日 22时12分16秒 - string: none for key scratchpad_state
+2019年07月28日 22时12分16秒 - key: percent
+2019年07月28日 22时12分16秒 - double 0.500000 for key percent
+2019年07月28日 22时12分16秒 - key: urgent
+2019年07月28日 22时12分16秒 - bool 0 for key urgent
+2019年07月28日 22时12分16秒 - key: focused
+2019年07月28日 22时12分16秒 - bool 0 for key focused
+2019年07月28日 22时12分16秒 - key: layout
+2019年07月28日 22时12分16秒 - string: output for key layout
+2019年07月28日 22时12分16秒 - key: workspace_layout
+2019年07月28日 22时12分16秒 - string: default for key workspace_layout
+2019年07月28日 22时12分16秒 - key: last_split_layout
+2019年07月28日 22时12分16秒 - string: splith for key last_split_layout
+2019年07月28日 22时12分16秒 - key: border
+2019年07月28日 22时12分16秒 - string: pixel for key border
+2019年07月28日 22时12分16秒 - key: current_border_width
+2019年07月28日 22时12分16秒 - int -1 for key current_border_width
+2019年07月28日 22时12分16秒 - key: rect
+2019年07月28日 22时12分16秒 - start of map, last_key = rect
+2019年07月28日 22时12分16秒 - key: x
+2019年07月28日 22时12分16秒 - int 0 for key x
+2019年07月28日 22时12分16秒 - key: y
+2019年07月28日 22时12分16秒 - int 0 for key y
+2019年07月28日 22时12分16秒 - key: width
+2019年07月28日 22时12分16秒 - int 1366 for key width
+2019年07月28日 22时12分16秒 - key: height
+2019年07月28日 22时12分16秒 - int 768 for key height
+2019年07月28日 22时12分16秒 - end of map
+2019年07月28日 22时12分16秒 - key: deco_rect
+2019年07月28日 22时12分16秒 - start of map, last_key = deco_rect
+2019年07月28日 22时12分16秒 - key: x
+2019年07月28日 22时12分16秒 - int 0 for key x
+2019年07月28日 22时12分16秒 - key: y
+2019年07月28日 22时12分16秒 - int 0 for key y
+2019年07月28日 22时12分16秒 - key: width
+2019年07月28日 22时12分16秒 - int 0 for key width
+2019年07月28日 22时12分16秒 - key: height
+2019年07月28日 22时12分16秒 - int 0 for key height
+2019年07月28日 22时12分16秒 - end of map
+2019年07月28日 22时12分16秒 - key: window_rect
+2019年07月28日 22时12分16秒 - start of map, last_key = window_rect
+2019年07月28日 22时12分16秒 - key: x
+2019年07月28日 22时12分16秒 - int 0 for key x
+2019年07月28日 22时12分16秒 - key: y
+2019年07月28日 22时12分16秒 - int 0 for key y
+2019年07月28日 22时12分16秒 - key: width
+2019年07月28日 22时12分16秒 - int 0 for key width
+2019年07月28日 22时12分16秒 - key: height
+2019年07月28日 22时12分16秒 - int 0 for key height
+2019年07月28日 22时12分16秒 - end of map
+2019年07月28日 22时12分16秒 - key: geometry
+2019年07月28日 22时12分16秒 - start of map, last_key = geometry
+2019年07月28日 22时12分16秒 - key: x
+2019年07月28日 22时12分16秒 - int 0 for key x
+2019年07月28日 22时12分16秒 - key: y
+2019年07月28日 22时12分16秒 - int 0 for key y
+2019年07月28日 22时12分16秒 - key: width
+2019年07月28日 22时12分16秒 - int 0 for key width
+2019年07月28日 22时12分16秒 - key: height
+2019年07月28日 22时12分16秒 - int 0 for key height
+2019年07月28日 22时12分16秒 - end of map
+2019年07月28日 22时12分16秒 - key: name
+2019年07月28日 22时12分16秒 - string: __i3 for key name
+2019年07月28日 22时12分16秒 - key: window
+2019年07月28日 22时12分16秒 - key: nodes
+2019年07月28日 22时12分16秒 - start of map, last_key = nodes
+2019年07月28日 22时12分16秒 - key: id
+2019年07月28日 22时12分16秒 - int 94461700742112 for key id
+2019年07月28日 22时12分16秒 - key: type
+2019年07月28日 22时12分16秒 - string: con for key type
+2019年07月28日 22时12分16秒 - key: orientation
+2019年07月28日 22时12分16秒 - string: horizontal for key orientation
+2019年07月28日 22时12分16秒 - key: scratchpad_state
+2019年07月28日 22时12分16秒 - string: none for key scratchpad_state
+2019年07月28日 22时12分16秒 - key: percent
+2019年07月28日 22时12分16秒 - double 1.000000 for key percent
+2019年07月28日 22时12分16秒 - key: urgent
+2019年07月28日 22时12分16秒 - bool 0 for key urgent
+2019年07月28日 22时12分16秒 - key: focused
+2019年07月28日 22时12分16秒 - bool 0 for key focused
+2019年07月28日 22时12分16秒 - key: output
+2019年07月28日 22时12分16秒 - string: __i3 for key output
+2019年07月28日 22时12分16秒 - key: layout
+2019年07月28日 22时12分16秒 - string: splith for key layout
+2019年07月28日 22时12分16秒 - key: workspace_layout
+2019年07月28日 22时12分16秒 - string: default for key workspace_layout
+2019年07月28日 22时12分16秒 - key: last_split_layout
+2019年07月28日 22时12分16秒 - string: splith for key last_split_layout
+2019年07月28日 22时12分16秒 - key: border
+2019年07月28日 22时12分16秒 - string: pixel for key border
+2019年07月28日 22时12分16秒 - key: current_border_width
+2019年07月28日 22时12分16秒 - int -1 for key current_border_width
+2019年07月28日 22时12分16秒 - key: rect
+2019年07月28日 22时12分16秒 - start of map, last_key = rect
+2019年07月28日 22时12分16秒 - key: x
+2019年07月28日 22时12分16秒 - int 0 for key x
+2019年07月28日 22时12分16秒 - key: y
+2019年07月28日 22时12分16秒 - int 0 for key y
+2019年07月28日 22时12分16秒 - key: width
+2019年07月28日 22时12分16秒 - int 0 for key width
+2019年07月28日 22时12分16秒 - key: height
+2019年07月28日 22时12分16秒 - int 0 for key height
+2019年07月28日 22时12分16秒 - end of map
+2019年07月28日 22时12分16秒 - key: deco_rect
+2019年07月28日 22时12分16秒 - start of map, last_key = deco_rect
+2019年07月28日 22时12分16秒 - key: x
+2019年07月28日 22时12分16秒 - int 0 for key x
+2019年07月28日 22时12分16秒 - key: y
+2019年07月28日 22时12分16秒 - int 0 for key y
+2019年07月28日 22时12分16秒 - key: width
+2019年07月28日 22时12分16秒 - int 0 for key width
+2019年07月28日 22时12分16秒 - key: height
+2019年07月28日 22时12分16秒 - int 0 for key height
+2019年07月28日 22时12分16秒 - end of map
+2019年07月28日 22时12分16秒 - key: window_rect
+2019年07月28日 22时12分16秒 - start of map, last_key = window_rect
+2019年07月28日 22时12分16秒 - key: x
+2019年07月28日 22时12分16秒 - int 0 for key x
+2019年07月28日 22时12分16秒 - key: y
+2019年07月28日 22时12分16秒 - int 0 for key y
+2019年07月28日 22时12分16秒 - key: width
+2019年07月28日 22时12分16秒 - int 0 for key width
+2019年07月28日 22时12分16秒 - key: height
+2019年07月28日 22时12分16秒 - int 0 for key height
+2019年07月28日 22时12分16秒 - end of map
+2019年07月28日 22时12分16秒 - key: geometry
+2019年07月28日 22时12分16秒 - start of map, last_key = geometry
+2019年07月28日 22时12分16秒 - key: x
+2019年07月28日 22时12分16秒 - int 0 for key x
+2019年07月28日 22时12分16秒 - key: y
+2019年07月28日 22时12分16秒 - int 0 for key y
+2019年07月28日 22时12分16秒 - key: width
+2019年07月28日 22时12分16秒 - int 0 for key width
+2019年07月28日 22时12分16秒 - key: height
+2019年07月28日 22时12分16秒 - int 0 for key height
+2019年07月28日 22时12分16秒 - end of map
+2019年07月28日 22时12分16秒 - key: name
+2019年07月28日 22时12分16秒 - string: content for key name
+2019年07月28日 22时12分16秒 - key: window
+2019年07月28日 22时12分16秒 - key: nodes
+2019年07月28日 22时12分16秒 - start of map, last_key = nodes
+2019年07月28日 22时12分16秒 - key: id
+2019年07月28日 22时12分16秒 - int 94461700742608 for key id
+2019年07月28日 22时12分16秒 - key: type
+2019年07月28日 22时12分16秒 - string: workspace for key type
+2019年07月28日 22时12分16秒 - key: orientation
+2019年07月28日 22时12分16秒 - string: none for key orientation
+2019年07月28日 22时12分16秒 - key: scratchpad_state
+2019年07月28日 22时12分16秒 - string: none for key scratchpad_state
+2019年07月28日 22时12分16秒 - key: percent
+2019年07月28日 22时12分16秒 - double 1.000000 for key percent
+2019年07月28日 22时12分16秒 - key: urgent
+2019年07月28日 22时12分16秒 - bool 0 for key urgent
+2019年07月28日 22时12分16秒 - key: focused
+2019年07月28日 22时12分16秒 - bool 0 for key focused
+2019年07月28日 22时12分16秒 - key: output
+2019年07月28日 22时12分16秒 - string: __i3 for key output
+2019年07月28日 22时12分16秒 - key: layout
+2019年07月28日 22时12分16秒 - string: splith for key layout
+2019年07月28日 22时12分16秒 - key: workspace_layout
+2019年07月28日 22时12分16秒 - string: default for key workspace_layout
+2019年07月28日 22时12分16秒 - key: last_split_layout
+2019年07月28日 22时12分16秒 - string: splith for key last_split_layout
+2019年07月28日 22时12分16秒 - key: border
+2019年07月28日 22时12分16秒 - string: pixel for key border
+2019年07月28日 22时12分16秒 - key: current_border_width
+2019年07月28日 22时12分16秒 - int -1 for key current_border_width
+2019年07月28日 22时12分16秒 - key: rect
+2019年07月28日 22时12分16秒 - start of map, last_key = rect
+2019年07月28日 22时12分16秒 - key: x
+2019年07月28日 22时12分16秒 - int 0 for key x
+2019年07月28日 22时12分16秒 - key: y
+2019年07月28日 22时12分16秒 - int 0 for key y
+2019年07月28日 22时12分16秒 - key: width
+2019年07月28日 22时12分16秒 - int 0 for key width
+2019年07月28日 22时12分16秒 - key: height
+2019年07月28日 22时12分16秒 - int 0 for key height
+2019年07月28日 22时12分16秒 - end of map
+2019年07月28日 22时12分16秒 - key: deco_rect
+2019年07月28日 22时12分16秒 - start of map, last_key = deco_rect
+2019年07月28日 22时12分16秒 - key: x
+2019年07月28日 22时12分16秒 - int 0 for key x
+2019年07月28日 22时12分16秒 - key: y
+2019年07月28日 22时12分16秒 - int 0 for key y
+2019年07月28日 22时12分16秒 - key: width
+2019年07月28日 22时12分16秒 - int 0 for key width
+2019年07月28日 22时12分16秒 - key: height
+2019年07月28日 22时12分16秒 - int 0 for key height
+2019年07月28日 22时12分16秒 - end of map
+2019年07月28日 22时12分16秒 - key: window_rect
+2019年07月28日 22时12分16秒 - start of map, last_key = window_rect
+2019年07月28日 22时12分16秒 - key: x
+2019年07月28日 22时12分16秒 - int 0 for key x
+2019年07月28日 22时12分16秒 - key: y
+2019年07月28日 22时12分16秒 - int 0 for key y
+2019年07月28日 22时12分16秒 - key: width
+2019年07月28日 22时12分16秒 - int 0 for key width
+2019年07月28日 22时12分16秒 - key: height
+2019年07月28日 22时12分16秒 - int 0 for key height
+2019年07月28日 22时12分16秒 - end of map
+2019年07月28日 22时12分16秒 - key: geometry
+2019年07月28日 22时12分16秒 - start of map, last_key = geometry
+2019年07月28日 22时12分16秒 - key: x
+2019年07月28日 22时12分16秒 - int 0 for key x
+2019年07月28日 22时12分16秒 - key: y
+2019年07月28日 22时12分16秒 - int 0 for key y
+2019年07月28日 22时12分16秒 - key: width
+2019年07月28日 22时12分16秒 - int 0 for key width
+2019年07月28日 22时12分16秒 - key: height
+2019年07月28日 22时12分16秒 - int 0 for key height
+2019年07月28日 22时12分16秒 - end of map
+2019年07月28日 22时12分16秒 - key: name
+2019年07月28日 22时12分16秒 - string: __i3_scratch for key name
+2019年07月28日 22时12分16秒 - key: num
+2019年07月28日 22时12分16秒 - int -1 for key num
+2019年07月28日 22时12分16秒 - key: gaps
+2019年07月28日 22时12分16秒 - start of map, last_key = gaps
+2019年07月28日 22时12分16秒 - key: inner
+2019年07月28日 22时12分16秒 - int 0 for key inner
+2019年07月28日 22时12分16秒 - key: outer
+2019年07月28日 22时12分16秒 - int 0 for key outer
+2019年07月28日 22时12分16秒 - end of map
+2019年07月28日 22时12分16秒 - key: window
+2019年07月28日 22时12分16秒 - key: nodes
+2019年07月28日 22时12分16秒 - end of array
+2019年07月28日 22时12分16秒 - key: floating_nodes
+2019年07月28日 22时12分16秒 - end of array
+2019年07月28日 22时12分16秒 - key: focus
+2019年07月28日 22时12分16秒 - end of array
+2019年07月28日 22时12分16秒 - key: fullscreen_mode
+2019年07月28日 22时12分16秒 - int 1 for key fullscreen_mode
+2019年07月28日 22时12分16秒 - key: sticky
+2019年07月28日 22时12分16秒 - bool 0 for key sticky
+2019年07月28日 22时12分16秒 - key: floating
+2019年07月28日 22时12分16秒 - string: auto_off for key floating
+2019年07月28日 22时12分16秒 - key: swallows
+2019年07月28日 22时12分16秒 - end of array
+2019年07月28日 22时12分16秒 - end of map
+2019年07月28日 22时12分16秒 - attaching
+2019年07月28日 22时12分16秒 - Creating window
+2019年07月28日 22时12分16秒 - end of array
+2019年07月28日 22时12分16秒 - key: floating_nodes
+2019年07月28日 22时12分16秒 - end of array
+2019年07月28日 22时12分16秒 - key: focus
+2019年07月28日 22时12分16秒 - int 94461700742608 for key focus
+2019年07月28日 22时12分16秒 - end of array
+2019年07月28日 22时12分16秒 - focus (reverse) -1809965616
+2019年07月28日 22时12分16秒 - got it! 0x55b2406694e0
+2019年07月28日 22时12分16秒 - key: fullscreen_mode
+2019年07月28日 22时12分16秒 - int 0 for key fullscreen_mode
+2019年07月28日 22时12分16秒 - key: sticky
+2019年07月28日 22时12分16秒 - bool 0 for key sticky
+2019年07月28日 22时12分16秒 - key: floating
+2019年07月28日 22时12分16秒 - string: auto_off for key floating
+2019年07月28日 22时12分16秒 - key: swallows
+2019年07月28日 22时12分16秒 - end of array
+2019年07月28日 22时12分16秒 - end of map
+2019年07月28日 22时12分16秒 - attaching
+2019年07月28日 22时12分16秒 - Creating window
+2019年07月28日 22时12分16秒 - end of array
+2019年07月28日 22时12分16秒 - key: floating_nodes
+2019年07月28日 22时12分16秒 - end of array
+2019年07月28日 22时12分16秒 - key: focus
+2019年07月28日 22时12分16秒 - int 94461700742112 for key focus
+2019年07月28日 22时12分16秒 - end of array
+2019年07月28日 22时12分16秒 - focus (reverse) -1809966112
+2019年07月28日 22时12分16秒 - got it! 0x55b2406692f0
+2019年07月28日 22时12分16秒 - key: fullscreen_mode
+2019年07月28日 22时12分16秒 - int 0 for key fullscreen_mode
+2019年07月28日 22时12分16秒 - key: sticky
+2019年07月28日 22时12分16秒 - bool 0 for key sticky
+2019年07月28日 22时12分16秒 - key: floating
+2019年07月28日 22时12分16秒 - string: auto_off for key floating
+2019年07月28日 22时12分16秒 - key: swallows
+2019年07月28日 22时12分16秒 - end of array
+2019年07月28日 22时12分16秒 - end of map
+2019年07月28日 22时12分16秒 - attaching
+2019年07月28日 22时12分16秒 - Creating window
+2019年07月28日 22时12分16秒 - start of map, last_key = swallows
+2019年07月28日 22时12分16秒 - key: id
+2019年07月28日 22时12分16秒 - int 94461700751024 for key id
+2019年07月28日 22时12分16秒 - key: type
+2019年07月28日 22时12分16秒 - string: output for key type
+2019年07月28日 22时12分16秒 - key: orientation
+2019年07月28日 22时12分16秒 - string: none for key orientation
+2019年07月28日 22时12分16秒 - key: scratchpad_state
+2019年07月28日 22时12分16秒 - string: none for key scratchpad_state
+2019年07月28日 22时12分16秒 - key: percent
+2019年07月28日 22时12分16秒 - double 0.500000 for key percent
+2019年07月28日 22时12分16秒 - key: urgent
+2019年07月28日 22时12分16秒 - bool 0 for key urgent
+2019年07月28日 22时12分16秒 - key: focused
+2019年07月28日 22时12分16秒 - bool 0 for key focused
+2019年07月28日 22时12分16秒 - key: layout
+2019年07月28日 22时12分16秒 - string: output for key layout
+2019年07月28日 22时12分16秒 - key: workspace_layout
+2019年07月28日 22时12分16秒 - string: default for key workspace_layout
+2019年07月28日 22时12分16秒 - key: last_split_layout
+2019年07月28日 22时12分16秒 - string: splith for key last_split_layout
+2019年07月28日 22时12分16秒 - key: border
+2019年07月28日 22时12分16秒 - string: pixel for key border
+2019年07月28日 22时12分16秒 - key: current_border_width
+2019年07月28日 22时12分16秒 - int -1 for key current_border_width
+2019年07月28日 22时12分16秒 - key: rect
+2019年07月28日 22时12分16秒 - start of map, last_key = rect
+2019年07月28日 22时12分16秒 - key: x
+2019年07月28日 22时12分16秒 - int 0 for key x
+2019年07月28日 22时12分16秒 - key: y
+2019年07月28日 22时12分16秒 - int 0 for key y
+2019年07月28日 22时12分16秒 - key: width
+2019年07月28日 22时12分16秒 - int 1366 for key width
+2019年07月28日 22时12分16秒 - key: height
+2019年07月28日 22时12分16秒 - int 768 for key height
+2019年07月28日 22时12分16秒 - end of map
+2019年07月28日 22时12分16秒 - key: deco_rect
+2019年07月28日 22时12分16秒 - start of map, last_key = deco_rect
+2019年07月28日 22时12分16秒 - key: x
+2019年07月28日 22时12分16秒 - int 0 for key x
+2019年07月28日 22时12分16秒 - key: y
+2019年07月28日 22时12分16秒 - int 0 for key y
+2019年07月28日 22时12分16秒 - key: width
+2019年07月28日 22时12分16秒 - int 0 for key width
+2019年07月28日 22时12分16秒 - key: height
+2019年07月28日 22时12分16秒 - int 0 for key height
+2019年07月28日 22时12分16秒 - end of map
+2019年07月28日 22时12分16秒 - key: window_rect
+2019年07月28日 22时12分16秒 - start of map, last_key = window_rect
+2019年07月28日 22时12分16秒 - key: x
+2019年07月28日 22时12分16秒 - int 0 for key x
+2019年07月28日 22时12分16秒 - key: y
+2019年07月28日 22时12分16秒 - int 0 for key y
+2019年07月28日 22时12分16秒 - key: width
+2019年07月28日 22时12分16秒 - int 0 for key width
+2019年07月28日 22时12分16秒 - key: height
+2019年07月28日 22时12分16秒 - int 0 for key height
+2019年07月28日 22时12分16秒 - end of map
+2019年07月28日 22时12分16秒 - key: geometry
+2019年07月28日 22时12分16秒 - start of map, last_key = geometry
+2019年07月28日 22时12分16秒 - key: x
+2019年07月28日 22时12分16秒 - int 0 for key x
+2019年07月28日 22时12分16秒 - key: y
+2019年07月28日 22时12分16秒 - int 0 for key y
+2019年07月28日 22时12分16秒 - key: width
+2019年07月28日 22时12分16秒 - int 0 for key width
+2019年07月28日 22时12分16秒 - key: height
+2019年07月28日 22时12分16秒 - int 0 for key height
+2019年07月28日 22时12分16秒 - end of map
+2019年07月28日 22时12分16秒 - key: name
+2019年07月28日 22时12分16秒 - string: eDP1 for key name
+2019年07月28日 22时12分16秒 - key: window
+2019年07月28日 22时12分16秒 - key: nodes
+2019年07月28日 22时12分16秒 - start of map, last_key = nodes
+2019年07月28日 22时12分16秒 - key: id
+2019年07月28日 22时12分16秒 - int 94461700751520 for key id
+2019年07月28日 22时12分16秒 - key: type
+2019年07月28日 22时12分16秒 - string: dockarea for key type
+2019年07月28日 22时12分16秒 - key: orientation
+2019年07月28日 22时12分16秒 - string: none for key orientation
+2019年07月28日 22时12分16秒 - key: scratchpad_state
+2019年07月28日 22时12分16秒 - string: none for key scratchpad_state
+2019年07月28日 22时12分16秒 - key: percent
+2019年07月28日 22时12分16秒 - double 0.333333 for key percent
+2019年07月28日 22时12分16秒 - key: urgent
+2019年07月28日 22时12分16秒 - bool 0 for key urgent
+2019年07月28日 22时12分16秒 - key: focused
+2019年07月28日 22时12分16秒 - bool 0 for key focused
+2019年07月28日 22时12分16秒 - key: output
+2019年07月28日 22时12分16秒 - string: eDP1 for key output
+2019年07月28日 22时12分16秒 - key: layout
+2019年07月28日 22时12分16秒 - string: dockarea for key layout
+2019年07月28日 22时12分16秒 - key: workspace_layout
+2019年07月28日 22时12分16秒 - string: default for key workspace_layout
+2019年07月28日 22时12分16秒 - key: last_split_layout
+2019年07月28日 22时12分16秒 - string: splith for key last_split_layout
+2019年07月28日 22时12分16秒 - key: border
+2019年07月28日 22时12分16秒 - string: pixel for key border
+2019年07月28日 22时12分16秒 - key: current_border_width
+2019年07月28日 22时12分16秒 - int -1 for key current_border_width
+2019年07月28日 22时12分16秒 - key: rect
+2019年07月28日 22时12分16秒 - start of map, last_key = rect
+2019年07月28日 22时12分16秒 - key: x
+2019年07月28日 22时12分16秒 - int 0 for key x
+2019年07月28日 22时12分16秒 - key: y
+2019年07月28日 22时12分16秒 - int 0 for key y
+2019年07月28日 22时12分16秒 - key: width
+2019年07月28日 22时12分16秒 - int 1366 for key width
+2019年07月28日 22时12分16秒 - key: height
+2019年07月28日 22时12分16秒 - int 0 for key height
+2019年07月28日 22时12分16秒 - end of map
+2019年07月28日 22时12分16秒 - key: deco_rect
+2019年07月28日 22时12分16秒 - start of map, last_key = deco_rect
+2019年07月28日 22时12分16秒 - key: x
+2019年07月28日 22时12分16秒 - int 0 for key x
+2019年07月28日 22时12分16秒 - key: y
+2019年07月28日 22时12分16秒 - int 0 for key y
+2019年07月28日 22时12分16秒 - key: width
+2019年07月28日 22时12分16秒 - int 0 for key width
+2019年07月28日 22时12分16秒 - key: height
+2019年07月28日 22时12分16秒 - int 0 for key height
+2019年07月28日 22时12分16秒 - end of map
+2019年07月28日 22时12分16秒 - key: window_rect
+2019年07月28日 22时12分16秒 - start of map, last_key = window_rect
+2019年07月28日 22时12分16秒 - key: x
+2019年07月28日 22时12分16秒 - int 0 for key x
+2019年07月28日 22时12分16秒 - key: y
+2019年07月28日 22时12分16秒 - int 0 for key y
+2019年07月28日 22时12分16秒 - key: width
+2019年07月28日 22时12分16秒 - int 0 for key width
+2019年07月28日 22时12分16秒 - key: height
+2019年07月28日 22时12分16秒 - int 0 for key height
+2019年07月28日 22时12分16秒 - end of map
+2019年07月28日 22时12分16秒 - key: geometry
+2019年07月28日 22时12分16秒 - start of map, last_key = geometry
+2019年07月28日 22时12分16秒 - key: x
+2019年07月28日 22时12分16秒 - int 0 for key x
+2019年07月28日 22时12分16秒 - key: y
+2019年07月28日 22时12分16秒 - int 0 for key y
+2019年07月28日 22时12分16秒 - key: width
+2019年07月28日 22时12分16秒 - int 0 for key width
+2019年07月28日 22时12分16秒 - key: height
+2019年07月28日 22时12分16秒 - int 0 for key height
+2019年07月28日 22时12分16秒 - end of map
+2019年07月28日 22时12分16秒 - key: name
+2019年07月28日 22时12分16秒 - string: topdock for key name
+2019年07月28日 22时12分16秒 - key: window
+2019年07月28日 22时12分16秒 - key: nodes
+2019年07月28日 22时12分16秒 - end of array
+2019年07月28日 22时12分16秒 - key: floating_nodes
+2019年07月28日 22时12分16秒 - end of array
+2019年07月28日 22时12分16秒 - key: focus
+2019年07月28日 22时12分16秒 - end of array
+2019年07月28日 22时12分16秒 - key: fullscreen_mode
+2019年07月28日 22时12分16秒 - int 0 for key fullscreen_mode
+2019年07月28日 22时12分16秒 - key: sticky
+2019年07月28日 22时12分16秒 - bool 0 for key sticky
+2019年07月28日 22时12分16秒 - key: floating
+2019年07月28日 22时12分16秒 - string: auto_off for key floating
+2019年07月28日 22时12分16秒 - key: swallows
+2019年07月28日 22时12分16秒 - start of map, last_key = swallows
+2019年07月28日 22时12分16秒 - creating new swallow
+2019年07月28日 22时12分16秒 - key: dock
+2019年07月28日 22时12分16秒 - int 2 for key dock
+2019年07月28日 22时12分16秒 - key: insert_where
+2019年07月28日 22时12分16秒 - int 2 for key insert_where
+2019年07月28日 22时12分16秒 - end of map
+2019年07月28日 22时12分16秒 - end of array
+2019年07月28日 22时12分16秒 - end of map
+2019年07月28日 22时12分16秒 - attaching
+2019年07月28日 22时12分16秒 - Creating window
+2019年07月28日 22时12分16秒 - start of map, last_key = insert_where
+2019年07月28日 22时12分16秒 - key: id
+2019年07月28日 22时12分16秒 - int 94461700754656 for key id
+2019年07月28日 22时12分16秒 - key: type
+2019年07月28日 22时12分16秒 - string: con for key type
+2019年07月28日 22时12分16秒 - key: orientation
+2019年07月28日 22时12分16秒 - string: horizontal for key orientation
+2019年07月28日 22时12分16秒 - key: scratchpad_state
+2019年07月28日 22时12分16秒 - string: none for key scratchpad_state
+2019年07月28日 22时12分16秒 - key: percent
+2019年07月28日 22时12分16秒 - double 0.333333 for key percent
+2019年07月28日 22时12分16秒 - key: urgent
+2019年07月28日 22时12分16秒 - bool 0 for key urgent
+2019年07月28日 22时12分16秒 - key: focused
+2019年07月28日 22时12分16秒 - bool 0 for key focused
+2019年07月28日 22时12分16秒 - key: output
+2019年07月28日 22时12分16秒 - string: eDP1 for key output
+2019年07月28日 22时12分16秒 - key: layout
+2019年07月28日 22时12分16秒 - string: splith for key layout
+2019年07月28日 22时12分16秒 - key: workspace_layout
+2019年07月28日 22时12分16秒 - string: default for key workspace_layout
+2019年07月28日 22时12分16秒 - key: last_split_layout
+2019年07月28日 22时12分16秒 - string: splith for key last_split_layout
+2019年07月28日 22时12分16秒 - key: border
+2019年07月28日 22时12分16秒 - string: pixel for key border
+2019年07月28日 22时12分16秒 - key: current_border_width
+2019年07月28日 22时12分16秒 - int -1 for key current_border_width
+2019年07月28日 22时12分16秒 - key: rect
+2019年07月28日 22时12分16秒 - start of map, last_key = rect
+2019年07月28日 22时12分16秒 - key: x
+2019年07月28日 22时12分16秒 - int 0 for key x
+2019年07月28日 22时12分16秒 - key: y
+2019年07月28日 22时12分16秒 - int 0 for key y
+2019年07月28日 22时12分16秒 - key: width
+2019年07月28日 22时12分16秒 - int 1366 for key width
+2019年07月28日 22时12分16秒 - key: height
+2019年07月28日 22时12分16秒 - int 768 for key height
+2019年07月28日 22时12分16秒 - end of map
+2019年07月28日 22时12分16秒 - key: deco_rect
+2019年07月28日 22时12分16秒 - start of map, last_key = deco_rect
+2019年07月28日 22时12分16秒 - key: x
+2019年07月28日 22时12分16秒 - int 0 for key x
+2019年07月28日 22时12分16秒 - key: y
+2019年07月28日 22时12分16秒 - int 0 for key y
+2019年07月28日 22时12分16秒 - key: width
+2019年07月28日 22时12分16秒 - int 0 for key width
+2019年07月28日 22时12分16秒 - key: height
+2019年07月28日 22时12分16秒 - int 0 for key height
+2019年07月28日 22时12分16秒 - end of map
+2019年07月28日 22时12分16秒 - key: window_rect
+2019年07月28日 22时12分16秒 - start of map, last_key = window_rect
+2019年07月28日 22时12分16秒 - key: x
+2019年07月28日 22时12分16秒 - int 0 for key x
+2019年07月28日 22时12分16秒 - key: y
+2019年07月28日 22时12分16秒 - int 0 for key y
+2019年07月28日 22时12分16秒 - key: width
+2019年07月28日 22时12分16秒 - int 0 for key width
+2019年07月28日 22时12分16秒 - key: height
+2019年07月28日 22时12分16秒 - int 0 for key height
+2019年07月28日 22时12分16秒 - end of map
+2019年07月28日 22时12分16秒 - key: geometry
+2019年07月28日 22时12分16秒 - start of map, last_key = geometry
+2019年07月28日 22时12分16秒 - key: x
+2019年07月28日 22时12分16秒 - int 0 for key x
+2019年07月28日 22时12分16秒 - key: y
+2019年07月28日 22时12分16秒 - int 0 for key y
+2019年07月28日 22时12分16秒 - key: width
+2019年07月28日 22时12分16秒 - int 0 for key width
+2019年07月28日 22时12分16秒 - key: height
+2019年07月28日 22时12分16秒 - int 0 for key height
+2019年07月28日 22时12分16秒 - end of map
+2019年07月28日 22时12分16秒 - key: name
+2019年07月28日 22时12分16秒 - string: content for key name
+2019年07月28日 22时12分16秒 - key: window
+2019年07月28日 22时12分16秒 - key: nodes
+2019年07月28日 22时12分16秒 - start of map, last_key = nodes
+2019年07月28日 22时12分16秒 - key: id
+2019年07月28日 22时12分16秒 - int 94461700755152 for key id
+2019年07月28日 22时12分16秒 - key: type
+2019年07月28日 22时12分16秒 - string: workspace for key type
+2019年07月28日 22时12分16秒 - key: orientation
+2019年07月28日 22时12分16秒 - string: horizontal for key orientation
+2019年07月28日 22时12分16秒 - key: scratchpad_state
+2019年07月28日 22时12分16秒 - string: none for key scratchpad_state
+2019年07月28日 22时12分16秒 - key: percent
+2019年07月28日 22时12分16秒 - double 1.000000 for key percent
+2019年07月28日 22时12分16秒 - key: urgent
+2019年07月28日 22时12分16秒 - bool 0 for key urgent
+2019年07月28日 22时12分16秒 - key: focused
+2019年07月28日 22时12分16秒 - bool 0 for key focused
+2019年07月28日 22时12分16秒 - key: output
+2019年07月28日 22时12分16秒 - string: eDP1 for key output
+2019年07月28日 22时12分16秒 - key: layout
+2019年07月28日 22时12分16秒 - string: splith for key layout
+2019年07月28日 22时12分16秒 - key: workspace_layout
+2019年07月28日 22时12分16秒 - string: default for key workspace_layout
+2019年07月28日 22时12分16秒 - key: last_split_layout
+2019年07月28日 22时12分16秒 - string: splith for key last_split_layout
+2019年07月28日 22时12分16秒 - key: border
+2019年07月28日 22时12分16秒 - string: pixel for key border
+2019年07月28日 22时12分16秒 - key: current_border_width
+2019年07月28日 22时12分16秒 - int -1 for key current_border_width
+2019年07月28日 22时12分16秒 - key: rect
+2019年07月28日 22时12分16秒 - start of map, last_key = rect
+2019年07月28日 22时12分16秒 - key: x
+2019年07月28日 22时12分16秒 - int 0 for key x
+2019年07月28日 22时12分16秒 - key: y
+2019年07月28日 22时12分16秒 - int 0 for key y
+2019年07月28日 22时12分16秒 - key: width
+2019年07月28日 22时12分16秒 - int 1366 for key width
+2019年07月28日 22时12分16秒 - key: height
+2019年07月28日 22时12分16秒 - int 768 for key height
+2019年07月28日 22时12分16秒 - end of map
+2019年07月28日 22时12分16秒 - key: deco_rect
+2019年07月28日 22时12分16秒 - start of map, last_key = deco_rect
+2019年07月28日 22时12分16秒 - key: x
+2019年07月28日 22时12分16秒 - int 0 for key x
+2019年07月28日 22时12分16秒 - key: y
+2019年07月28日 22时12分16秒 - int 0 for key y
+2019年07月28日 22时12分16秒 - key: width
+2019年07月28日 22时12分16秒 - int 0 for key width
+2019年07月28日 22时12分16秒 - key: height
+2019年07月28日 22时12分16秒 - int 0 for key height
+2019年07月28日 22时12分16秒 - end of map
+2019年07月28日 22时12分16秒 - key: window_rect
+2019年07月28日 22时12分16秒 - start of map, last_key = window_rect
+2019年07月28日 22时12分16秒 - key: x
+2019年07月28日 22时12分16秒 - int 0 for key x
+2019年07月28日 22时12分16秒 - key: y
+2019年07月28日 22时12分16秒 - int 0 for key y
+2019年07月28日 22时12分16秒 - key: width
+2019年07月28日 22时12分16秒 - int 0 for key width
+2019年07月28日 22时12分16秒 - key: height
+2019年07月28日 22时12分16秒 - int 0 for key height
+2019年07月28日 22时12分16秒 - end of map
+2019年07月28日 22时12分16秒 - key: geometry
+2019年07月28日 22时12分16秒 - start of map, last_key = geometry
+2019年07月28日 22时12分16秒 - key: x
+2019年07月28日 22时12分16秒 - int 0 for key x
+2019年07月28日 22时12分16秒 - key: y
+2019年07月28日 22时12分16秒 - int 0 for key y
+2019年07月28日 22时12分16秒 - key: width
+2019年07月28日 22时12分16秒 - int 0 for key width
+2019年07月28日 22时12分16秒 - key: height
+2019年07月28日 22时12分16秒 - int 0 for key height
+2019年07月28日 22时12分16秒 - end of map
+2019年07月28日 22时12分16秒 - key: name
+2019年07月28日 22时12分16秒 - string: 1: for key name
+2019年07月28日 22时12分16秒 - key: num
+2019年07月28日 22时12分16秒 - int 1 for key num
+2019年07月28日 22时12分16秒 - key: gaps
+2019年07月28日 22时12分16秒 - start of map, last_key = gaps
+2019年07月28日 22时12分16秒 - key: inner
+2019年07月28日 22时12分16秒 - int 0 for key inner
+2019年07月28日 22时12分16秒 - key: outer
+2019年07月28日 22时12分16秒 - int 0 for key outer
+2019年07月28日 22时12分16秒 - end of map
+2019年07月28日 22时12分16秒 - key: window
+2019年07月28日 22时12分16秒 - key: nodes
+2019年07月28日 22时12分16秒 - start of map, last_key = nodes
+2019年07月28日 22时12分16秒 - key: id
+2019年07月28日 22时12分16秒 - int 94461700755648 for key id
+2019年07月28日 22时12分16秒 - key: type
+2019年07月28日 22时12分16秒 - string: con for key type
+2019年07月28日 22时12分16秒 - key: orientation
+2019年07月28日 22时12分16秒 - string: none for key orientation
+2019年07月28日 22时12分16秒 - key: scratchpad_state
+2019年07月28日 22时12分16秒 - string: none for key scratchpad_state
+2019年07月28日 22时12分16秒 - key: percent
+2019年07月28日 22时12分16秒 - double 0.500000 for key percent
+2019年07月28日 22时12分16秒 - key: urgent
+2019年07月28日 22时12分16秒 - bool 0 for key urgent
+2019年07月28日 22时12分16秒 - key: focused
+2019年07月28日 22时12分16秒 - bool 1 for key focused
+2019年07月28日 22时12分16秒 - key: output
+2019年07月28日 22时12分16秒 - string: eDP1 for key output
+2019年07月28日 22时12分16秒 - key: layout
+2019年07月28日 22时12分16秒 - string: splith for key layout
+2019年07月28日 22时12分16秒 - key: workspace_layout
+2019年07月28日 22时12分16秒 - string: default for key workspace_layout
+2019年07月28日 22时12分16秒 - key: last_split_layout
+2019年07月28日 22时12分16秒 - string: splith for key last_split_layout
+2019年07月28日 22时12分16秒 - key: border
+2019年07月28日 22时12分16秒 - string: pixel for key border
+2019年07月28日 22时12分16秒 - key: current_border_width
+2019年07月28日 22时12分16秒 - int 0 for key current_border_width
+2019年07月28日 22时12分16秒 - key: rect
+2019年07月28日 22时12分16秒 - start of map, last_key = rect
+2019年07月28日 22时12分16秒 - key: x
+2019年07月28日 22时12分16秒 - int 15 for key x
+2019年07月28日 22时12分16秒 - key: y
+2019年07月28日 22时12分16秒 - int 15 for key y
+2019年07月28日 22时12分16秒 - key: width
+2019年07月28日 22时12分16秒 - int 663 for key width
+2019年07月28日 22时12分16秒 - key: height
+2019年07月28日 22时12分16秒 - int 738 for key height
+2019年07月28日 22时12分16秒 - end of map
+2019年07月28日 22时12分16秒 - key: deco_rect
+2019年07月28日 22时12分16秒 - start of map, last_key = deco_rect
+2019年07月28日 22时12分16秒 - key: x
+2019年07月28日 22时12分16秒 - int 0 for key x
+2019年07月28日 22时12分16秒 - key: y
+2019年07月28日 22时12分16秒 - int 0 for key y
+2019年07月28日 22时12分16秒 - key: width
+2019年07月28日 22时12分16秒 - int 0 for key width
+2019年07月28日 22时12分16秒 - key: height
+2019年07月28日 22时12分16秒 - int 0 for key height
+2019年07月28日 22时12分16秒 - end of map
+2019年07月28日 22时12分16秒 - key: window_rect
+2019年07月28日 22时12分16秒 - start of map, last_key = window_rect
+2019年07月28日 22时12分16秒 - key: x
+2019年07月28日 22时12分16秒 - int 0 for key x
+2019年07月28日 22时12分16秒 - key: y
+2019年07月28日 22时12分16秒 - int 0 for key y
+2019年07月28日 22时12分16秒 - key: width
+2019年07月28日 22时12分16秒 - int 663 for key width
+2019年07月28日 22时12分16秒 - key: height
+2019年07月28日 22时12分16秒 - int 738 for key height
+2019年07月28日 22时12分16秒 - end of map
+2019年07月28日 22时12分16秒 - key: geometry
+2019年07月28日 22时12分16秒 - start of map, last_key = geometry
+2019年07月28日 22时12分16秒 - key: x
+2019年07月28日 22时12分16秒 - int 171 for key x
+2019年07月28日 22时12分16秒 - key: y
+2019年07月28日 22时12分16秒 - int 0 for key y
+2019年07月28日 22时12分16秒 - key: width
+2019年07月28日 22时12分16秒 - int 1024 for key width
+2019年07月28日 22时12分16秒 - key: height
+2019年07月28日 22时12分16秒 - int 768 for key height
+2019年07月28日 22时12分16秒 - end of map
+2019年07月28日 22时12分16秒 - key: name
+2019年07月28日 22时12分16秒 - string: .polybar - Code - OSS for key name
+2019年07月28日 22时12分16秒 - key: window
+2019年07月28日 22时12分16秒 - int 14680065 for key window
+2019年07月28日 22时12分16秒 - key: nodes
+2019年07月28日 22时12分16秒 - end of array
+2019年07月28日 22时12分16秒 - key: floating_nodes
+2019年07月28日 22时12分16秒 - end of array
+2019年07月28日 22时12分16秒 - key: focus
+2019年07月28日 22时12分16秒 - end of array
+2019年07月28日 22时12分16秒 - key: fullscreen_mode
+2019年07月28日 22时12分16秒 - int 0 for key fullscreen_mode
+2019年07月28日 22时12分16秒 - key: sticky
+2019年07月28日 22时12分16秒 - bool 0 for key sticky
+2019年07月28日 22时12分16秒 - key: floating
+2019年07月28日 22时12分16秒 - string: auto_off for key floating
+2019年07月28日 22时12分16秒 - key: swallows
+2019年07月28日 22时12分16秒 - start of map, last_key = swallows
+2019年07月28日 22时12分16秒 - creating new swallow
+2019年07月28日 22时12分16秒 - key: id
+2019年07月28日 22时12分16秒 - int 14680065 for key id
+2019年07月28日 22时12分16秒 - key: restart_mode
+2019年07月28日 22时12分16秒 - bool 1 for key restart_mode
+2019年07月28日 22时12分16秒 - end of map
+2019年07月28日 22时12分16秒 - end of array
+2019年07月28日 22时12分16秒 - key: depth
+2019年07月28日 22时12分16秒 - int 24 for key depth
+2019年07月28日 22时12分16秒 - end of map
+2019年07月28日 22时12分16秒 - attaching
+2019年07月28日 22时12分16秒 - Creating window
+2019年07月28日 22时12分16秒 - start of map, last_key = depth
+2019年07月28日 22时12分16秒 - key: id
+2019年07月28日 22时12分16秒 - int 94461700758784 for key id
+2019年07月28日 22时12分16秒 - key: type
+2019年07月28日 22时12分16秒 - string: con for key type
+2019年07月28日 22时12分16秒 - key: orientation
+2019年07月28日 22时12分16秒 - string: none for key orientation
+2019年07月28日 22时12分16秒 - key: scratchpad_state
+2019年07月28日 22时12分16秒 - string: none for key scratchpad_state
+2019年07月28日 22时12分16秒 - key: percent
+2019年07月28日 22时12分16秒 - double 0.500000 for key percent
+2019年07月28日 22时12分16秒 - key: urgent
+2019年07月28日 22时12分16秒 - bool 0 for key urgent
+2019年07月28日 22时12分16秒 - key: focused
+2019年07月28日 22时12分16秒 - bool 0 for key focused
+2019年07月28日 22时12分16秒 - key: output
+2019年07月28日 22时12分16秒 - string: eDP1 for key output
+2019年07月28日 22时12分16秒 - key: layout
+2019年07月28日 22时12分16秒 - string: splith for key layout
+2019年07月28日 22时12分16秒 - key: workspace_layout
+2019年07月28日 22时12分16秒 - string: default for key workspace_layout
+2019年07月28日 22时12分16秒 - key: last_split_layout
+2019年07月28日 22时12分16秒 - string: splith for key last_split_layout
+2019年07月28日 22时12分16秒 - key: border
+2019年07月28日 22时12分16秒 - string: pixel for key border
+2019年07月28日 22时12分16秒 - key: current_border_width
+2019年07月28日 22时12分16秒 - int 0 for key current_border_width
+2019年07月28日 22时12分16秒 - key: rect
+2019年07月28日 22时12分16秒 - start of map, last_key = rect
+2019年07月28日 22时12分16秒 - key: x
+2019年07月28日 22时12分16秒 - int 688 for key x
+2019年07月28日 22时12分16秒 - key: y
+2019年07月28日 22时12分16秒 - int 15 for key y
+2019年07月28日 22时12分16秒 - key: width
+2019年07月28日 22时12分16秒 - int 663 for key width
+2019年07月28日 22时12分16秒 - key: height
+2019年07月28日 22时12分16秒 - int 738 for key height
+2019年07月28日 22时12分16秒 - end of map
+2019年07月28日 22时12分16秒 - key: deco_rect
+2019年07月28日 22时12分16秒 - start of map, last_key = deco_rect
+2019年07月28日 22时12分16秒 - key: x
+2019年07月28日 22时12分16秒 - int 0 for key x
+2019年07月28日 22时12分16秒 - key: y
+2019年07月28日 22时12分16秒 - int 0 for key y
+2019年07月28日 22时12分16秒 - key: width
+2019年07月28日 22时12分16秒 - int 0 for key width
+2019年07月28日 22时12分16秒 - key: height
+2019年07月28日 22时12分16秒 - int 0 for key height
+2019年07月28日 22时12分16秒 - end of map
+2019年07月28日 22时12分16秒 - key: window_rect
+2019年07月28日 22时12分16秒 - start of map, last_key = window_rect
+2019年07月28日 22时12分16秒 - key: x
+2019年07月28日 22时12分16秒 - int 0 for key x
+2019年07月28日 22时12分16秒 - key: y
+2019年07月28日 22时12分16秒 - int 0 for key y
+2019年07月28日 22时12分16秒 - key: width
+2019年07月28日 22时12分16秒 - int 663 for key width
+2019年07月28日 22时12分16秒 - key: height
+2019年07月28日 22时12分16秒 - int 738 for key height
+2019年07月28日 22时12分16秒 - end of map
+2019年07月28日 22时12分16秒 - key: geometry
+2019年07月28日 22时12分16秒 - start of map, last_key = geometry
+2019年07月28日 22时12分16秒 - key: x
+2019年07月28日 22时12分16秒 - int 0 for key x
+2019年07月28日 22时12分16秒 - key: y
+2019年07月28日 22时12分16秒 - int 0 for key y
+2019年07月28日 22时12分16秒 - key: width
+2019年07月28日 22时12分16秒 - int 436 for key width
+2019年07月28日 22时12分16秒 - key: height
+2019年07月28日 22时12分16秒 - int 738 for key height
+2019年07月28日 22时12分16秒 - end of map
+2019年07月28日 22时12分16秒 - key: name
+2019年07月28日 22时12分16秒 - string: polybar bar: example_百度搜索 - Mozilla Firefox for key name
+2019年07月28日 22时12分16秒 - key: window
+2019年07月28日 22时12分16秒 - int 25165827 for key window
+2019年07月28日 22时12分16秒 - key: nodes
+2019年07月28日 22时12分16秒 - end of array
+2019年07月28日 22时12分16秒 - key: floating_nodes
+2019年07月28日 22时12分16秒 - end of array
+2019年07月28日 22时12分16秒 - key: focus
+2019年07月28日 22时12分16秒 - end of array
+2019年07月28日 22时12分16秒 - key: fullscreen_mode
+2019年07月28日 22时12分16秒 - int 0 for key fullscreen_mode
+2019年07月28日 22时12分16秒 - key: sticky
+2019年07月28日 22时12分16秒 - bool 0 for key sticky
+2019年07月28日 22时12分16秒 - key: floating
+2019年07月28日 22时12分16秒 - string: auto_off for key floating
+2019年07月28日 22时12分16秒 - key: swallows
+2019年07月28日 22时12分16秒 - start of map, last_key = swallows
+2019年07月28日 22时12分16秒 - creating new swallow
+2019年07月28日 22时12分16秒 - key: id
+2019年07月28日 22时12分16秒 - int 25165827 for key id
+2019年07月28日 22时12分16秒 - key: restart_mode
+2019年07月28日 22时12分16秒 - bool 1 for key restart_mode
+2019年07月28日 22时12分16秒 - end of map
+2019年07月28日 22时12分16秒 - end of array
+2019年07月28日 22时12分16秒 - key: depth
+2019年07月28日 22时12分16秒 - int 24 for key depth
+2019年07月28日 22时12分16秒 - end of map
+2019年07月28日 22时12分16秒 - attaching
+2019年07月28日 22时12分16秒 - Creating window
+2019年07月28日 22时12分16秒 - end of array
+2019年07月28日 22时12分16秒 - key: floating_nodes
+2019年07月28日 22时12分16秒 - end of array
+2019年07月28日 22时12分16秒 - key: focus
+2019年07月28日 22时12分16秒 - int 94461700755648 for key focus
+2019年07月28日 22时12分16秒 - int 94461700758784 for key focus
+2019年07月28日 22时12分16秒 - end of array
+2019年07月28日 22时12分16秒 - focus (reverse) -1809949440
+2019年07月28日 22时12分16秒 - got it! 0x55b24066d410
+2019年07月28日 22时12分16秒 - focus (reverse) -1809952576
+2019年07月28日 22时12分16秒 - got it! 0x55b24066c7d0
+2019年07月28日 22时12分16秒 - key: fullscreen_mode
+2019年07月28日 22时12分16秒 - int 1 for key fullscreen_mode
+2019年07月28日 22时12分16秒 - key: sticky
+2019年07月28日 22时12分16秒 - bool 0 for key sticky
+2019年07月28日 22时12分16秒 - key: floating
+2019年07月28日 22时12分16秒 - string: auto_off for key floating
+2019年07月28日 22时12分16秒 - key: swallows
+2019年07月28日 22时12分16秒 - end of array
+2019年07月28日 22时12分16秒 - end of map
+2019年07月28日 22时12分16秒 - attaching
+2019年07月28日 22时12分16秒 - Creating window
+2019年07月28日 22时12分16秒 - end of array
+2019年07月28日 22时12分16秒 - key: floating_nodes
+2019年07月28日 22时12分16秒 - end of array
+2019年07月28日 22时12分16秒 - key: focus
+2019年07月28日 22时12分16秒 - int 94461700755152 for key focus
+2019年07月28日 22时12分16秒 - end of array
+2019年07月28日 22时12分16秒 - focus (reverse) -1809953072
+2019年07月28日 22时12分16秒 - got it! 0x55b24066c5e0
+2019年07月28日 22时12分16秒 - key: fullscreen_mode
+2019年07月28日 22时12分16秒 - int 0 for key fullscreen_mode
+2019年07月28日 22时12分16秒 - key: sticky
+2019年07月28日 22时12分16秒 - bool 0 for key sticky
+2019年07月28日 22时12分16秒 - key: floating
+2019年07月28日 22时12分16秒 - string: auto_off for key floating
+2019年07月28日 22时12分16秒 - key: swallows
+2019年07月28日 22时12分16秒 - end of array
+2019年07月28日 22时12分16秒 - end of map
+2019年07月28日 22时12分16秒 - attaching
+2019年07月28日 22时12分16秒 - Creating window
+2019年07月28日 22时12分16秒 - start of map, last_key = swallows
+2019年07月28日 22时12分16秒 - key: id
+2019年07月28日 22时12分16秒 - int 94461700767232 for key id
+2019年07月28日 22时12分16秒 - key: type
+2019年07月28日 22时12分16秒 - string: dockarea for key type
+2019年07月28日 22时12分16秒 - key: orientation
+2019年07月28日 22时12分16秒 - string: none for key orientation
+2019年07月28日 22时12分16秒 - key: scratchpad_state
+2019年07月28日 22时12分16秒 - string: none for key scratchpad_state
+2019年07月28日 22时12分16秒 - key: percent
+2019年07月28日 22时12分16秒 - double 0.333333 for key percent
+2019年07月28日 22时12分16秒 - key: urgent
+2019年07月28日 22时12分16秒 - bool 0 for key urgent
+2019年07月28日 22时12分16秒 - key: focused
+2019年07月28日 22时12分16秒 - bool 0 for key focused
+2019年07月28日 22时12分16秒 - key: output
+2019年07月28日 22时12分16秒 - string: eDP1 for key output
+2019年07月28日 22时12分16秒 - key: layout
+2019年07月28日 22时12分16秒 - string: dockarea for key layout
+2019年07月28日 22时12分16秒 - key: workspace_layout
+2019年07月28日 22时12分16秒 - string: default for key workspace_layout
+2019年07月28日 22时12分16秒 - key: last_split_layout
+2019年07月28日 22时12分16秒 - string: splith for key last_split_layout
+2019年07月28日 22时12分16秒 - key: border
+2019年07月28日 22时12分16秒 - string: pixel for key border
+2019年07月28日 22时12分16秒 - key: current_border_width
+2019年07月28日 22时12分16秒 - int -1 for key current_border_width
+2019年07月28日 22时12分16秒 - key: rect
+2019年07月28日 22时12分16秒 - start of map, last_key = rect
+2019年07月28日 22时12分16秒 - key: x
+2019年07月28日 22时12分16秒 - int 0 for key x
+2019年07月28日 22时12分16秒 - key: y
+2019年07月28日 22时12分16秒 - int 768 for key y
+2019年07月28日 22时12分16秒 - key: width
+2019年07月28日 22时12分16秒 - int 1366 for key width
+2019年07月28日 22时12分16秒 - key: height
+2019年07月28日 22时12分16秒 - int 0 for key height
+2019年07月28日 22时12分16秒 - end of map
+2019年07月28日 22时12分16秒 - key: deco_rect
+2019年07月28日 22时12分16秒 - start of map, last_key = deco_rect
+2019年07月28日 22时12分16秒 - key: x
+2019年07月28日 22时12分16秒 - int 0 for key x
+2019年07月28日 22时12分16秒 - key: y
+2019年07月28日 22时12分16秒 - int 0 for key y
+2019年07月28日 22时12分16秒 - key: width
+2019年07月28日 22时12分16秒 - int 0 for key width
+2019年07月28日 22时12分16秒 - key: height
+2019年07月28日 22时12分16秒 - int 0 for key height
+2019年07月28日 22时12分16秒 - end of map
+2019年07月28日 22时12分16秒 - key: window_rect
+2019年07月28日 22时12分16秒 - start of map, last_key = window_rect
+2019年07月28日 22时12分16秒 - key: x
+2019年07月28日 22时12分16秒 - int 0 for key x
+2019年07月28日 22时12分16秒 - key: y
+2019年07月28日 22时12分16秒 - int 0 for key y
+2019年07月28日 22时12分16秒 - key: width
+2019年07月28日 22时12分16秒 - int 0 for key width
+2019年07月28日 22时12分16秒 - key: height
+2019年07月28日 22时12分16秒 - int 0 for key height
+2019年07月28日 22时12分16秒 - end of map
+2019年07月28日 22时12分16秒 - key: geometry
+2019年07月28日 22时12分16秒 - start of map, last_key = geometry
+2019年07月28日 22时12分16秒 - key: x
+2019年07月28日 22时12分16秒 - int 0 for key x
+2019年07月28日 22时12分16秒 - key: y
+2019年07月28日 22时12分16秒 - int 0 for key y
+2019年07月28日 22时12分16秒 - key: width
+2019年07月28日 22时12分16秒 - int 0 for key width
+2019年07月28日 22时12分16秒 - key: height
+2019年07月28日 22时12分16秒 - int 0 for key height
+2019年07月28日 22时12分16秒 - end of map
+2019年07月28日 22时12分16秒 - key: name
+2019年07月28日 22时12分16秒 - string: bottomdock for key name
+2019年07月28日 22时12分16秒 - key: window
+2019年07月28日 22时12分16秒 - key: nodes
+2019年07月28日 22时12分16秒 - end of array
+2019年07月28日 22时12分16秒 - key: floating_nodes
+2019年07月28日 22时12分16秒 - end of array
+2019年07月28日 22时12分16秒 - key: focus
+2019年07月28日 22时12分16秒 - end of array
+2019年07月28日 22时12分16秒 - key: fullscreen_mode
+2019年07月28日 22时12分16秒 - int 0 for key fullscreen_mode
+2019年07月28日 22时12分16秒 - key: sticky
+2019年07月28日 22时12分16秒 - bool 0 for key sticky
+2019年07月28日 22时12分16秒 - key: floating
+2019年07月28日 22时12分16秒 - string: auto_off for key floating
+2019年07月28日 22时12分16秒 - key: swallows
+2019年07月28日 22时12分16秒 - start of map, last_key = swallows
+2019年07月28日 22时12分16秒 - creating new swallow
+2019年07月28日 22时12分16秒 - key: dock
+2019年07月28日 22时12分16秒 - int 3 for key dock
+2019年07月28日 22时12分16秒 - key: insert_where
+2019年07月28日 22时12分16秒 - int 2 for key insert_where
+2019年07月28日 22时12分16秒 - end of map
+2019年07月28日 22时12分16秒 - end of array
+2019年07月28日 22时12分16秒 - end of map
+2019年07月28日 22时12分16秒 - attaching
+2019年07月28日 22时12分16秒 - Creating window
+2019年07月28日 22时12分16秒 - end of array
+2019年07月28日 22时12分16秒 - key: floating_nodes
+2019年07月28日 22时12分16秒 - end of array
+2019年07月28日 22时12分16秒 - key: focus
+2019年07月28日 22时12分16秒 - int 94461700754656 for key focus
+2019年07月28日 22时12分16秒 - int 94461700751520 for key focus
+2019年07月28日 22时12分16秒 - int 94461700767232 for key focus
+2019年07月28日 22时12分16秒 - end of array
+2019年07月28日 22时12分16秒 - focus (reverse) -1809940992
+2019年07月28日 22时12分16秒 - got it! 0x55b24066f510
+2019年07月28日 22时12分16秒 - focus (reverse) -1809956704
+2019年07月28日 22时12分16秒 - got it! 0x55b24066b7b0
+2019年07月28日 22时12分16秒 - focus (reverse) -1809953568
+2019年07月28日 22时12分16秒 - got it! 0x55b24066c3f0
+2019年07月28日 22时12分16秒 - key: fullscreen_mode
+2019年07月28日 22时12分16秒 - int 0 for key fullscreen_mode
+2019年07月28日 22时12分16秒 - key: sticky
+2019年07月28日 22时12分16秒 - bool 0 for key sticky
+2019年07月28日 22时12分16秒 - key: floating
+2019年07月28日 22时12分16秒 - string: auto_off for key floating
+2019年07月28日 22时12分16秒 - key: swallows
+2019年07月28日 22时12分16秒 - end of array
+2019年07月28日 22时12分16秒 - end of map
+2019年07月28日 22时12分16秒 - attaching
+2019年07月28日 22时12分16秒 - Creating window
+2019年07月28日 22时12分16秒 - end of array
+2019年07月28日 22时12分16秒 - key: floating_nodes
+2019年07月28日 22时12分16秒 - end of array
+2019年07月28日 22时12分16秒 - key: focus
+2019年07月28日 22时12分16秒 - int 94461700751024 for key focus
+2019年07月28日 22时12分16秒 - int 94461700739552 for key focus
+2019年07月28日 22时12分16秒 - end of array
+2019年07月28日 22时12分16秒 - focus (reverse) -1809968672
+2019年07月28日 22时12分16秒 - got it! 0x55b240669100
+2019年07月28日 22时12分16秒 - focus (reverse) -1809957200
+2019年07月28日 22时12分16秒 - got it! 0x55b24066b5c0
+2019年07月28日 22时12分16秒 - key: fullscreen_mode
+2019年07月28日 22时12分16秒 - int 0 for key fullscreen_mode
+2019年07月28日 22时12分16秒 - key: sticky
+2019年07月28日 22时12分16秒 - bool 0 for key sticky
+2019年07月28日 22时12分16秒 - key: floating
+2019年07月28日 22时12分16秒 - string: auto_off for key floating
+2019年07月28日 22时12分16秒 - key: swallows
+2019年07月28日 22时12分16秒 - end of array
+2019年07月28日 22时12分16秒 - end of map
+2019年07月28日 22时12分16秒 - attaching
+2019年07月28日 22时12分16秒 - Creating window
+2019年07月28日 22时12分16秒 - _NET_WM_NAME changed to ".polybar - Code - OSS"
+2019年07月28日 22时12分16秒 - WM_HINTS.input changed to "0"
+2019年07月28日 22时12分16秒 - Checking window 0x00800000 (class (null))
+2019年07月28日 22时12分16秒 - dock status does not match
+2019年07月28日 22时12分16秒 - Checking window 0x00800000 (class (null))
+2019年07月28日 22时12分16秒 - match made by window id (8388608)
+2019年07月28日 22时12分16秒 - workspace visible? fs = 0x55b24066c5e0, ws = 0x55b24066c5e0
+2019年07月28日 22时12分16秒 - workspace visible? fs = 0x55b24066c5e0, ws = 0x55b24066c5e0
+2019年07月28日 22时12分16秒 - workspace visible? fs = 0x55b24066c5e0, ws = 0x55b24066c5e0
+2019年07月28日 22时12分16秒 - workspace visible? fs = 0x55b2406694e0, ws = 0x55b2406694e0
+2019年07月28日 22时12分16秒 - _NET_WM_NAME changed to "polybar bar: example_百度搜索 - Mozilla Firefox"
+2019年07月28日 22时12分16秒 - WM_HINTS.input changed to "0"
+2019年07月28日 22时12分16秒 - Checking window 0x00800001 (class (null))
+2019年07月28日 22时12分16秒 - dock status does not match
+2019年07月28日 22时12分16秒 - Checking window 0x00800001 (class (null))
+2019年07月28日 22时12分16秒 - window id does not match
+2019年07月28日 22时12分16秒 - Checking window 0x00800001 (class (null))
+2019年07月28日 22时12分16秒 - match made by window id (8388609)
+2019年07月28日 22时12分16秒 - workspace visible? fs = 0x55b24066c5e0, ws = 0x55b24066c5e0
+2019年07月28日 22时12分16秒 - workspace visible? fs = 0x55b24066c5e0, ws = 0x55b24066c5e0
+2019年07月28日 22时12分16秒 - Urgency flag changed to 1
+2019年07月28日 22时12分16秒 - workspace visible? fs = 0x55b24066c5e0, ws = 0x55b24066c5e0
+2019年07月28日 22时12分16秒 - workspace visible? fs = 0x55b2406694e0, ws = 0x55b2406694e0
+2019年07月28日 22时12分16秒 - WM_CLASS changed to code-oss (instance), code-oss (class)
+2019年07月28日 22时12分16秒 - WM_NAME changed to ".polybar - Code - OSS"
+2019年07月28日 22时12分16秒 - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+2019年07月28日 22时12分16秒 - _NET_WM_NAME changed to ".polybar - Code - OSS"
+2019年07月28日 22时12分16秒 - WM_WINDOW_ROLE changed to "browser-window"
+2019年07月28日 22时12分16秒 - Checking window 0x00e00001 (class code-oss)
+2019年07月28日 22时12分16秒 - dock status does not match
+2019年07月28日 22时12分16秒 - Checking window 0x00e00001 (class code-oss)
+2019年07月28日 22时12分16秒 - match made by window id (14680065)
+2019年07月28日 22时12分16秒 - workspace visible? fs = 0x55b24066c5e0, ws = 0x55b24066c5e0
+2019年07月28日 22时12分16秒 - workspace visible? fs = 0x55b24066c5e0, ws = 0x55b24066c5e0
+2019年07月28日 22时12分16秒 - workspace visible? fs = 0x55b24066c5e0, ws = 0x55b24066c5e0
+2019年07月28日 22时12分16秒 - workspace visible? fs = 0x55b2406694e0, ws = 0x55b2406694e0
+2019年07月28日 22时12分16秒 - WM_CLASS changed to Navigator (instance), firefox (class)
+2019年07月28日 22时12分16秒 - WM_NAME changed to "polybar bar: example_$(BI4EYYS:w(B - Mozilla Firefox"
+2019年07月28日 22时12分16秒 - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+2019年07月28日 22时12分16秒 - _NET_WM_NAME changed to "polybar bar: example_百度搜索 - Mozilla Firefox"
+2019年07月28日 22时12分16秒 - WM_WINDOW_ROLE changed to "browser"
+2019年07月28日 22时12分16秒 - WM_HINTS.input changed to "1"
+2019年07月28日 22时12分16秒 - Checking window 0x01800003 (class firefox)
+2019年07月28日 22时12分16秒 - dock status does not match
+2019年07月28日 22时12分16秒 - Checking window 0x01800003 (class firefox)
+2019年07月28日 22时12分16秒 - match made by window id (25165827)
+2019年07月28日 22时12分16秒 - workspace visible? fs = 0x55b24066c5e0, ws = 0x55b24066c5e0
+2019年07月28日 22时12分16秒 - workspace visible? fs = 0x55b24066c5e0, ws = 0x55b24066c5e0
+2019年07月28日 22时12分16秒 - Urgency flag changed to 0
+2019年07月28日 22时12分16秒 - workspace visible? fs = 0x55b24066c5e0, ws = 0x55b24066c5e0
+2019年07月28日 22时12分16秒 - workspace visible? fs = 0x55b2406694e0, ws = 0x55b2406694e0
+2019年07月28日 22时12分16秒 - auto-starting (always!) feh --bg-scale "/home/wjh/Pictures/v2-2fb11ef71385fabc6596fcd75e3b9f68_r.jpg"
+2019年07月28日 22时12分16秒 - executing: feh --bg-scale "/home/wjh/Pictures/v2-2fb11ef71385fabc6596fcd75e3b9f68_r.jpg"
+2019年07月28日 22时12分16秒 - auto-starting (always!) $HOME/.config/polybar/launch.sh
+2019年07月28日 22时12分16秒 - executing: $HOME/.config/polybar/launch.sh
+2019年07月28日 22时12分16秒 - ERROR: Received ExposeEvent for unknown window 0x00800000
+2019年07月28日 22时12分16秒 - ERROR: Received ConfigureNotify for unknown window 0x00800000
+2019年07月28日 22时12分16秒 - ERROR: Received ExposeEvent for unknown window 0x00800001
+2019年07月28日 22时12分16秒 - ERROR: Received ConfigureNotify for unknown window 0x00800001
+2019年07月28日 22时12分16秒 - Not a managed window, ignoring UnmapNotify event
+2019年07月28日 22时12分16秒 - Not a managed window, ignoring UnmapNotify event
+2019年07月28日 22时12分16秒 - Not a managed window, ignoring UnmapNotify event
+2019年07月28日 22时12分16秒 - Not a managed window, ignoring UnmapNotify event
+2019年07月28日 22时12分16秒 - Not a managed window, ignoring UnmapNotify event
+2019年07月28日 22时12分16秒 - Not a managed window, ignoring UnmapNotify event
+2019年07月28日 22时12分16秒 - Not a managed window, ignoring UnmapNotify event
+2019年07月28日 22时12分16秒 - Not a managed window, ignoring UnmapNotify event
+Bars launched...
+polybar|error: Undefined bar: example
+2019年07月28日 22时12分20秒 - _NET_WM_NAME changed to "config - Code - OSS"
+2019年07月28日 22时12分20秒 - ClientMessage for window 0x00e00020
+2019年07月28日 22时12分20秒 - Not a managed window, ignoring UnmapNotify event
+2019年07月28日 22时12分24秒 - ClientMessage for window 0x00e00020
+2019年07月28日 22时12分24秒 - Not a managed window, ignoring UnmapNotify event
+2019年07月28日 22时13分24秒 - WM_HINTS.input changed to "1"
+2019年07月28日 22时13分42秒 - startup id = i3/i3-nagbar/5449-0-archlinux_TIME2894707
+2019年07月28日 22时13分42秒 - executing: i3-nagbar -t warning -m 'You pressed the exit shortcut. Do you really want to exit i3? This will end your X session.' -b 'Yes, exit i3' 'i3-msg exit'
+2019年07月28日 22时13分42秒 - Not a managed window, ignoring UnmapNotify event
+2019年07月28日 22时13分42秒 - This window is of type dock
+2019年07月28日 22时13分42秒 - Checking window 0x00a00006 (class (null))
+2019年07月28日 22时13分42秒 - dock status matches
+2019年07月28日 22时13分42秒 - workspace visible? fs = 0x55b24066c5e0, ws = 0x55b24066c5e0
+2019年07月28日 22时13分42秒 - workspace visible? fs = 0x55b2406694e0, ws = 0x55b2406694e0
+2019年07月28日 22时13分43秒 - WM_HINTS.input changed to "1"
+button with label *Yes, exit i3* and action *i3-msg exit*
+now 1 buttons
+[libi3] ../i3-4.16.1/../i3-4.16.1/libi3/font.c Using Pango font monospace, size 8
+button pressed on x = 1263, y = 7
+button released on x = 1263, y = 7
+argv0 = i3-nagbar
+terminal_cmd = i3-sensible-terminal -e /run/user/1000/i3/nagbar-cmd.5973.nagbar_cmd
+executing: i3-sensible-terminal -e /run/user/1000/i3/nagbar-cmd.5973.nagbar_cmd
+2019年07月28日 22时13分45秒 - WM_CLASS changed to urxvt (instance), URxvt (class)
+2019年07月28日 22时13分45秒 - WM_NAME changed to "nagbar-cmd.5973.nagbar_cmd"
+2019年07月28日 22时13分45秒 - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+2019年07月28日 22时13分45秒 - _NET_WM_NAME changed to "nagbar-cmd.5973.nagbar_cmd"
+2019年07月28日 22时13分45秒 - WM_HINTS.input changed to "1"
+2019年07月28日 22时13分45秒 - Checking window 0x0220000a (class URxvt)
+2019年07月28日 22时13分45秒 - dock status does not match
+2019年07月28日 22时13分45秒 - Checking window 0x0220000a (class URxvt)
+2019年07月28日 22时13分45秒 - dock status does not match
+2019年07月28日 22时13分45秒 - workspace visible? fs = 0x55b24066c5e0, ws = 0x55b24066c5e0
+2019年07月28日 22时13分45秒 - workspace visible? fs = 0x55b24066c5e0, ws = 0x55b24066c5e0
+2019年07月28日 22时13分45秒 - workspace visible? fs = 0x55b24066c5e0, ws = 0x55b24066c5e0
+2019年07月28日 22时13分45秒 - workspace visible? fs = 0x55b2406694e0, ws = 0x55b2406694e0
+2019年07月28日 22时13分45秒 - IPC: received: *exit*
+2019年07月28日 22时13分45秒 - Exiting due to user command.
+button with label *Yes, exit i3* and action *i3-msg exit*
+now 1 buttons
+[libi3] ../i3-4.16.1/../i3-4.16.1/libi3/font.c Using Pango font monospace, size 8
+button pressed on x = 1263, y = 7
+button released on x = 1263, y = 7
+argv0 = i3-nagbar
+terminal_cmd = i3-sensible-terminal -e /run/user/1000/i3/nagbar-cmd.5973.nagbar_cmd
+executing: i3-sensible-terminal -e /run/user/1000/i3/nagbar-cmd.5973.nagbar_cmd
+Gdk-Message: 22:13:45.308: /usr/lib/firefox/firefox: Fatal IO error 11 (资源暂时不可用) on X server :0.
+
+Gdk-Message: 22:13:45.313: /usr/lib/firefox/firefox: Fatal IO error 11 (资源暂时不可用) on X server :0.
+
+Gdk-Message: 22:13:45.316: /usr/lib/firefox/firefox: Fatal IO error 11 (资源暂时不可用) on X server :0.
+
+Gdk-Message: 22:13:45.316: firefox: Fatal IO error 11 (资源暂时不可用) on X server :0.
+

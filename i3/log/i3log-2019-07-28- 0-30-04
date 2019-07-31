@@ -1,0 +1,155 @@
+2019年07月28日 00时30分04秒 - i3 4.16.1 (2019-01-27) starting
+2019年07月28日 00时30分04秒 - Parsing configfile /home/wjh/.config/i3/config
+2019年07月28日 00时30分04秒 - deciding for version 4 due to this line: # i3 config file (v4)
+2019年07月28日 00时30分04秒 - [libi3] ../i3-4.16.1/../i3-4.16.1/libi3/font.c Using Pango font monospace, size 8
+2019年07月28日 00时30分04秒 - Used number 1 for workspace with name 1:
+2019年07月28日 00时30分04秒 - This is not an in-place restart, copying root window contents to a pixmap
+2019年07月28日 00时30分04秒 - auto-starting compton -b #开机自启 
+2019年07月28日 00时30分04秒 - executing: compton -b #开机自启 
+2019年07月28日 00时30分04秒 - auto-starting xset dpms 600 800 900
+2019年07月28日 00时30分04秒 - executing: xset dpms 600 800 900
+2019年07月28日 00时30分04秒 - auto-starting xrandr --output eDP1 --mode 1920x1080 --same-as HDMI2
+2019年07月28日 00时30分04秒 - executing: xrandr --output eDP1 --mode 1920x1080 --same-as HDMI2
+2019年07月28日 00时30分04秒 - auto-starting (always!) feh --bg-scale "/home/wjh/Pictures/v2-2fb11ef71385fabc6596fcd75e3b9f68_r.jpg"
+2019年07月28日 00时30分04秒 - executing: feh --bg-scale "/home/wjh/Pictures/v2-2fb11ef71385fabc6596fcd75e3b9f68_r.jpg"
+2019年07月28日 00时30分04秒 - auto-starting (always!) $HOME/.config/polybar/launch.sh
+2019年07月28日 00时30分04秒 - executing: $HOME/.config/polybar/launch.sh
+xrandr: cannot find mode 1920x1080
+Bars launched...
+[ 2019年07月28日 00:30:04.198 register_cm FATAL ERROR ] Another composite manager is already running
+polybar|error: Disabling module "i3" (reason: No built-in support for 'internal/i3')
+polybar|warn:  internal/volume is deprecated, use internal/alsa instead
+polybar|error: Disabling module "alsa" (reason: No built-in support for 'internal/alsa')
+2019年07月28日 00时30分04秒 - WM_CLASS changed to polybar (instance), Polybar (class)
+2019年07月28日 00时30分04秒 - WM_NAME changed to "polybar-example_eDP1"
+2019年07月28日 00时30分04秒 - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+2019年07月28日 00时30分04秒 - This window is of type dock
+2019年07月28日 00时30分04秒 - Checking window 0x00e00002 (class Polybar)
+2019年07月28日 00时30分04秒 - dock status matches
+2019年07月28日 00时30分04秒 - workspace visible? fs = 0x55d6df7eea40, ws = 0x55d6df7eea40
+2019年07月28日 00时30分04秒 - workspace visible? fs = 0x55d6df7eaac0, ws = 0x55d6df7eaac0
+polybar|warn:  Dropping unmatched character  (U+e1d8)
+polybar|warn:  Dropping unmatched character  (U+e1d8)
+2019年07月28日 00时30分05秒 - ClientMessage for window 0x00000197
+polybar|warn:  Dropping unmatched character  (U+e1d8)
+polybar|warn:  Dropping unmatched character  (U+e1d8)
+polybar|warn:  Dropping unmatched character  (U+e1d8)
+polybar|warn:  Dropping unmatched character  (U+e1d8)
+polybar|warn:  Dropping unmatched character  (U+e1d8)
+polybar|warn:  Dropping unmatched character  (U+e1d8)
+polybar|warn:  Dropping unmatched character  (U+e1d8)
+polybar|warn:  Dropping unmatched character  (U+e1d8)
+polybar|warn:  Dropping unmatched character  (U+e1d8)
+2019年07月28日 00时30分17秒 - startup id = i3/xfce4-terminal/29376-0-archlinux_TIME16421709
+2019年07月28日 00时30分17秒 - executing: xfce4-terminal
+2019年07月28日 00时30分17秒 - Not a managed window, ignoring UnmapNotify event
+无法连接到会话管理器：无法与会话管理器连接：SESSION_MANAGER environment variable not defined
+
+(xfce4-terminal:29407): Gtk-WARNING **: 00:30:17.909: Ignoring visual set on widget 'TerminalWindow' that is not on the correct screen.
+
+(xfce4-terminal:29407): Gtk-WARNING **: 00:30:17.909: Ignoring visual set on widget 'TerminalWindow' that is not on the correct screen.
+
+(xfce4-terminal:29407): Gtk-WARNING **: 00:30:17.952: Ignoring visual set on widget 'main-menu' that is not on the correct screen.
+2019年07月28日 00时30分17秒 - ClientMessage for window 0x00a00003
+2019年07月28日 00时30分17秒 - WM_CLASS changed to xfce4-terminal (instance), Xfce4-terminal (class)
+2019年07月28日 00时30分17秒 - WM_NAME changed to "Terminal $(AVU$(BC<(B - "
+2019年07月28日 00时30分17秒 - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+2019年07月28日 00时30分17秒 - _NET_WM_NAME changed to "Terminal 终端 - "
+2019年07月28日 00时30分17秒 - WM_WINDOW_ROLE changed to "xfce4-terminal-1564245017-1484739323"
+2019年07月28日 00时30分17秒 - WM_HINTS.input changed to "1"
+2019年07月28日 00时30分17秒 - Checking window 0x00a00003 (class Xfce4-terminal)
+2019年07月28日 00时30分17秒 - dock status does not match
+2019年07月28日 00时30分17秒 - Checking window 0x00a00003 (class Xfce4-terminal)
+2019年07月28日 00时30分17秒 - dock status does not match
+2019年07月28日 00时30分17秒 - workspace visible? fs = 0x55d6df7eea40, ws = 0x55d6df7eea40
+2019年07月28日 00时30分17秒 - workspace visible? fs = 0x55d6df7eea40, ws = 0x55d6df7eea40
+2019年07月28日 00时30分17秒 - workspace visible? fs = 0x55d6df7eea40, ws = 0x55d6df7eea40
+2019年07月28日 00时30分17秒 - workspace visible? fs = 0x55d6df7eaac0, ws = 0x55d6df7eaac0
+2019年07月28日 00时30分18秒 - _NET_WM_NAME changed to "Terminal 终端 - wjh@archlinux: ~"
+polybar|warn:  Dropping unmatched character  (U+e1d8)
+polybar|warn:  Dropping unmatched character  (U+e1d8)
+polybar|warn:  Dropping unmatched character  (U+e1d8)
+2019年07月28日 00时30分21秒 - ClientMessage for window 0x00a0003f
+polybar|warn:  Dropping unmatched character  (U+e1d8)
+2019年07月28日 00时30分23秒 - Not a managed window, ignoring UnmapNotify event
+2019年07月28日 00时30分23秒 - ClientMessage for window 0x00a0005c
+2019年07月28日 00时30分23秒 - WM_CLASS changed to xfce4-terminal (instance), Xfce4-terminal (class)
+2019年07月28日 00时30分23秒 - WM_NAME changed to "$(AVU$(BC<<s$(AQ!On"
+2019年07月28日 00时30分23秒 - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+2019年07月28日 00时30分23秒 - _NET_WM_NAME changed to "终端首选项"
+2019年07月28日 00时30分23秒 - WM_HINTS.input changed to "1"
+2019年07月28日 00时30分23秒 - Checking window 0x00a0005c (class Xfce4-terminal)
+2019年07月28日 00时30分23秒 - dock status does not match
+2019年07月28日 00时30分23秒 - Checking window 0x00a0005c (class Xfce4-terminal)
+2019年07月28日 00时30分23秒 - dock status does not match
+2019年07月28日 00时30分23秒 - workspace visible? fs = 0x55d6df7eea40, ws = 0x55d6df7eea40
+2019年07月28日 00时30分23秒 - This window is a dialog window, setting floating
+2019年07月28日 00时30分23秒 - This window is transient for another window, setting floating
+2019年07月28日 00时30分23秒 - workspace visible? fs = 0x55d6df7eea40, ws = 0x55d6df7eea40
+2019年07月28日 00时30分23秒 - workspace visible? fs = 0x55d6df7eea40, ws = 0x55d6df7eea40
+2019年07月28日 00时30分23秒 - workspace visible? fs = 0x55d6df7eaac0, ws = 0x55d6df7eaac0
+polybar|warn:  Dropping unmatched character  (U+e1d8)
+polybar|warn:  Dropping unmatched character  (U+e1d8)
+polybar|warn:  Dropping unmatched character  (U+e1d8)
+polybar|warn:  Dropping unmatched character  (U+e1d8)
+polybar|warn:  Dropping unmatched character  (U+e1d8)
+polybar|warn:  Dropping unmatched character  (U+e1d8)
+polybar|warn:  Dropping unmatched character  (U+e1d8)
+polybar|warn:  Dropping unmatched character  (U+e1d8)
+polybar|warn:  Dropping unmatched character  (U+e1d8)
+polybar|warn:  Dropping unmatched character  (U+e1d8)
+2019年07月28日 00时30分36秒 - Not a managed window, ignoring UnmapNotify event
+2019年07月28日 00时30分36秒 - expose event for unknown window, ignoring
+2019年07月28日 00时30分36秒 - Not a managed window, ignoring UnmapNotify event
+2019年07月28日 00时30分36秒 - Not a managed window, ignoring UnmapNotify event
+2019年07月28日 00时30分36秒 - Not a managed window, ignoring UnmapNotify event
+2019年07月28日 00时30分36秒 - Not a managed window, ignoring UnmapNotify event
+2019年07月28日 00时30分36秒 - Not a managed window, ignoring UnmapNotify event
+2019年07月28日 00时30分36秒 - Not a managed window, ignoring UnmapNotify event
+2019年07月28日 00时30分36秒 - Not a managed window, ignoring UnmapNotify event
+polybar|warn:  Dropping unmatched character  (U+e1d8)
+polybar|warn:  Dropping unmatched character  (U+e1d8)
+polybar|warn:  Dropping unmatched character  (U+e1d8)
+polybar|warn:  Dropping unmatched character  (U+e1d8)
+polybar|warn:  Dropping unmatched character  (U+e1d8)
+polybar|warn:  Dropping unmatched character  (U+e1d8)
+2019年07月28日 00时30分46秒 - startup id = i3/rofi/29376-1-archlinux_TIME16450930
+2019年07月28日 00时30分46秒 - executing: rofi -show run
+2019年07月28日 00时30分46秒 - Not a managed window, ignoring UnmapNotify event
+polybar|warn:  Dropping unmatched character  (U+e1d8)
+polybar|warn:  Dropping unmatched character  (U+e1d8)
+polybar|warn:  Dropping unmatched character  (U+e1d8)
+polybar|warn:  Dropping unmatched character  (U+e1d8)
+polybar|warn:  Dropping unmatched character  (U+e1d8)
+polybar|warn:  Dropping unmatched character  (U+e1d8)
+polybar|warn:  Dropping unmatched character  (U+e1d8)
+polybar|warn:  Dropping unmatched character  (U+e1d8)
+2019年07月28日 00时31分00秒 - _NET_WM_NAME changed to "Terminal 终端 - vim .config/i3/log"
+polybar|warn:  Dropping unmatched character  (U+e1d8)
+2019年07月28日 00时31分03秒 - _NET_WM_NAME changed to "Terminal 终端 - wjh@archlinux: ~"
+polybar|warn:  Dropping unmatched character  (U+e1d8)
+2019年07月28日 00时31分06秒 - _NET_WM_NAME changed to "Terminal 终端 - vim .config/i3/config"
+polybar|warn:  Dropping unmatched character  (U+e1d8)
+polybar|warn:  Dropping unmatched character  (U+e1d8)
+polybar|warn:  Dropping unmatched character  (U+e1d8)
+polybar|warn:  Dropping unmatched character  (U+e1d8)
+2019年07月28日 00时31分17秒 - Not a managed window, ignoring UnmapNotify event
+polybar|warn:  Dropping unmatched character  (U+e1d8)
+polybar|warn:  Dropping unmatched character  (U+e1d8)
+polybar|warn:  Dropping unmatched character  (U+e1d8)
+polybar|warn:  Dropping unmatched character  (U+e1d8)
+polybar|warn:  Dropping unmatched character  (U+e1d8)
+polybar|warn:  Dropping unmatched character  (U+e1d8)
+polybar|warn:  Dropping unmatched character  (U+e1d8)
+polybar|warn:  Dropping unmatched character  (U+e1d8)
+polybar|warn:  Dropping unmatched character  (U+e1d8)
+polybar|warn:  Dropping unmatched character  (U+e1d8)
+polybar|warn:  Dropping unmatched character  (U+e1d8)
+polybar|warn:  Dropping unmatched character  (U+e1d8)
+2019年07月28日 00时31分37秒 - _NET_WM_NAME changed to "Terminal 终端 - wjh@archlinux: ~"
+polybar|warn:  Dropping unmatched character  (U+e1d8)
+polybar|warn:  Dropping unmatched character  (U+e1d8)
+polybar|warn:  Dropping unmatched character  (U+e1d8)
+2019年07月28日 00时31分43秒 - _NET_WM_NAME changed to "Terminal 终端 - shutdown now"
+Gdk-Message: 00:31:43.626: xfce4-terminal: Fatal IO error 11 (资源暂时不可用) on X server :1.
+

@@ -1,0 +1,265 @@
+2019年07月28日 23时18分10秒 - i3 4.16.1 (2019-01-27) starting
+2019年07月28日 23时18分10秒 - Parsing configfile /home/wjh/.config/i3/config
+2019年07月28日 23时18分10秒 - deciding for version 4 due to this line: # i3 config file (v4)
+2019年07月28日 23时18分10秒 - [libi3] ../i3-4.16.1/../i3-4.16.1/libi3/font.c Using Pango font monospace, size 8
+2019年07月28日 23时18分10秒 - Used number 1 for workspace with name 1:
+2019年07月28日 23时18分10秒 - This is not an in-place restart, copying root window contents to a pixmap
+2019年07月28日 23时18分10秒 - auto-starting fcitx
+2019年07月28日 23时18分10秒 - startup id = i3/fcitx/1441-0-archlinux_TIME0
+2019年07月28日 23时18分10秒 - executing: fcitx
+2019年07月28日 23时18分10秒 - auto-starting compton -b #开机自启 
+2019年07月28日 23时18分10秒 - executing: compton -b #开机自启 
+2019年07月28日 23时18分10秒 - auto-starting xset dpms 600 800 900
+2019年07月28日 23时18分10秒 - executing: xset dpms 600 800 900
+2019年07月28日 23时18分10秒 - auto-starting xrandr --output eDP1 --mode 1920x1080 --same-as HDMI2
+2019年07月28日 23时18分10秒 - executing: xrandr --output eDP1 --mode 1920x1080 --same-as HDMI2
+2019年07月28日 23时18分10秒 - auto-starting (always!) feh --bg-scale "/home/wjh/Pictures/v2-2fb11ef71385fabc6596fcd75e3b9f68_r.jpg"
+2019年07月28日 23时18分10秒 - executing: feh --bg-scale "/home/wjh/Pictures/v2-2fb11ef71385fabc6596fcd75e3b9f68_r.jpg"
+(WARN-1453 fcitx-config.c:922) 配置项不合法:  行152 缺少'='
+(INFO-1453 addon.c:151) 加载附加组件配置文件: fcitx-spell.conf
+(INFO-1453 addon.c:151) 加载附加组件配置文件: fcitx-lua.conf
+(INFO-1453 addon.c:151) 加载附加组件配置文件: fcitx-pinyin-enhance.conf
+(INFO-1453 addon.c:151) 加载附加组件配置文件: fcitx-imselector.conf
+(INFO-1453 addon.c:151) 加载附加组件配置文件: fcitx-autoeng-ng.conf
+(INFO-1453 addon.c:151) 加载附加组件配置文件: fcitx-classic-ui.conf
+(INFO-1453 addon.c:151) 加载附加组件配置文件: fcitx-kimpanel-ui.conf
+(INFO-1453 addon.c:151) 加载附加组件配置文件: fcitx-unicode.conf
+(INFO-1453 addon.c:151) 加载附加组件配置文件: fcitx-ipcportal.conf
+(INFO-1453 addon.c:151) 加载附加组件配置文件: fcitx-qw.conf
+(INFO-1453 addon.c:151) 加载附加组件配置文件: fcitx-pinyin.conf
+(INFO-1453 addon.c:151) 加载附加组件配置文件: fcitx-punc.conf
+(INFO-1453 addon.c:151) 加载附加组件配置文件: fcitx-xkb.conf
+(INFO-1453 addon.c:151) 加载附加组件配置文件: fcitx-notificationitem.conf
+(INFO-1453 addon.c:151) 加载附加组件配置文件: fcitx-remote-module.conf
+(INFO-1453 addon.c:151) 加载附加组件配置文件: fcitx-punc-ng.conf
+(INFO-1453 addon.c:151) 加载附加组件配置文件: fcitx-x11.conf
+(INFO-1453 addon.c:151) 加载附加组件配置文件: fcitx-sogoucloudpinyin.conf
+(INFO-1453 addon.c:151) 加载附加组件配置文件: fcitx-fullwidth-char-enhance.conf
+(INFO-1453 addon.c:151) 加载附加组件配置文件: fcitx-clipboard.conf
+(INFO-1453 addon.c:151) 加载附加组件配置文件: fcitx-table.conf
+(INFO-1453 addon.c:151) 加载附加组件配置文件: fcitx-quickphrase.conf
+(INFO-1453 addon.c:151) 加载附加组件配置文件: fcitx-ipc.conf
+(INFO-1453 addon.c:151) 加载附加组件配置文件: fcitx-freedesktop-notify.conf
+(INFO-1453 addon.c:151) 加载附加组件配置文件: fcitx-fullwidth-char.conf
+2019年07月28日 23时18分10秒 - auto-starting (always!) $HOME/.config/polybar/launch.sh
+2019年07月28日 23时18分10秒 - executing: $HOME/.config/polybar/launch.sh
+(INFO-1453 addon.c:151) 加载附加组件配置文件: fcitx-dbus.conf
+(INFO-1453 addon.c:151) 加载附加组件配置文件: fcitx-keyboard.conf
+(INFO-1453 addon.c:151) 加载附加组件配置文件: fcitx-chttrans.conf
+(INFO-1453 addon.c:151) 加载附加组件配置文件: fcitx-xim.conf
+(INFO-1453 addon.c:151) 加载附加组件配置文件: fcitx-autoeng.conf
+(INFO-1453 addon.c:151) 加载附加组件配置文件: fcitx-vk.conf
+(INFO-1453 addon.c:151) 加载附加组件配置文件: fcitx-sogoupinyin.conf
+(INFO-1453 addon.c:151) 加载附加组件配置文件: fcitx-xkbdbus.conf
+2019年07月28日 23时18分10秒 - Not a managed window, ignoring UnmapNotify event
+xrandr: cannot find mode 1920x1080
+Bars launched...
+(ERROR-1453 module.c:61) 模块: 打开/usr/lib/fcitx/fcitx-lua.so 失败 liblua.so.5.3: 无法打开共享对象文件: 没有那个文件或目录
+polybar|error: Disabling module "i3" (reason: No built-in support for 'internal/i3')
+polybar|error: Disabling module "alsa" (reason: Missing parameter "module/alsa.type")
+[ 2019年07月28日 23:18:11.001 register_cm FATAL ERROR ] Another composite manager is already running
+polybar|warn:  module/temperature: The token `%temperature%` is deprecated, use `%temperature-c%` instead.
+2019年07月28日 23时18分11秒 - WM_CLASS changed to polybar (instance), Polybar (class)
+2019年07月28日 23时18分11秒 - WM_NAME changed to "polybar-example_eDP1"
+2019年07月28日 23时18分11秒 - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+2019年07月28日 23时18分11秒 - This window is of type dock
+2019年07月28日 23时18分11秒 - Checking window 0x01000002 (class Polybar)
+2019年07月28日 23时18分11秒 - dock status matches
+2019年07月28日 23时18分11秒 - workspace visible? fs = 0x55d5976e64b0, ws = 0x55d5976e64b0
+2019年07月28日 23时18分11秒 - workspace visible? fs = 0x55d5976e2530, ws = 0x55d5976e2530
+(ERROR-1453 ime.c:440) fcitx-keyboard-in-kan-kagapa already exists
+(ERROR-1453 ime.c:440) fcitx-keyboard-in-tel-kagapa already exists
+(ERROR-1453 ime.c:440) fcitx-keyboard-cm-mmuock already exists
+没有那个文件或目录: 没有那个文件或目录
+没有那个文件或目录: 没有那个文件或目录
+没有那个文件或目录: 没有那个文件或目录
+没有那个文件或目录: 没有那个文件或目录
+没有那个文件或目录: 没有那个文件或目录
+没有那个文件或目录: 没有那个文件或目录
+没有那个文件或目录: 没有那个文件或目录
+没有那个文件或目录: 没有那个文件或目录
+没有那个文件或目录: 没有那个文件或目录
+没有那个文件或目录: 没有那个文件或目录
+没有那个文件或目录: 没有那个文件或目录
+没有那个文件或目录: 没有那个文件或目录
+没有那个文件或目录: 没有那个文件或目录
+没有那个文件或目录: 没有那个文件或目录
+没有那个文件或目录: 没有那个文件或目录
+没有那个文件或目录: 没有那个文件或目录
+没有那个文件或目录: 没有那个文件或目录
+没有那个文件或目录: 没有那个文件或目录
+没有那个文件或目录: 没有那个文件或目录
+没有那个文件或目录: 没有那个文件或目录
+没有那个文件或目录: 没有那个文件或目录
+没有那个文件或目录: 没有那个文件或目录
+2019年07月28日 23时18分12秒 - ClientMessage for window 0x00000197
+sh: dpkg：未找到命令
+polybar|error: Invalid _XEMBED_INFO for window 0x0e00016
+sogou-qimpanel: 未找到进程
+QDBusConnection: session D-Bus connection created before QCoreApplication. Application may misbehave.
+没有那个文件或目录: 没有那个文件或目录
+没有那个文件或目录: 没有那个文件或目录
+没有那个文件或目录: 没有那个文件或目录
+没有那个文件或目录: 没有那个文件或目录
+没有那个文件或目录: 没有那个文件或目录
+没有那个文件或目录: 没有那个文件或目录
+没有那个文件或目录: 没有那个文件或目录
+没有那个文件或目录: 没有那个文件或目录
+没有那个文件或目录: 没有那个文件或目录
+没有那个文件或目录: 没有那个文件或目录
+没有那个文件或目录: 没有那个文件或目录
+没有那个文件或目录: 没有那个文件或目录
+没有那个文件或目录: 没有那个文件或目录
+没有那个文件或目录: 没有那个文件或目录
+没有那个文件或目录: 没有那个文件或目录
+没有那个文件或目录: 没有那个文件或目录
+没有那个文件或目录: 没有那个文件或目录
+没有那个文件或目录: 没有那个文件或目录
+没有那个文件或目录: 没有那个文件或目录
+没有那个文件或目录: 没有那个文件或目录
+没有那个文件或目录: 没有那个文件或目录
+没有那个文件或目录: 没有那个文件或目录
+gnome-shell:0
+mutter:0
+ukwm:0
+marco:0
+sh: dpkg：未找到命令
+Could not parse application stylesheet
+(WARN-1570 fcitx-config.c:922) Invalid Entry: line 152 missing '='
+(WARN-1570 fcitx-config.c:922) Invalid Entry: line 158 missing '='
+(WARN-1570 fcitx-config.c:922) Invalid Entry: line 160 missing '='
+(WARN-1570 fcitx-config.c:922) Invalid Entry: line 158 missing '='
+(WARN-1570 fcitx-config.c:922) Invalid Entry: line 150 missing '='
+(WARN-1570 fcitx-config.c:922) Invalid Entry: line 160 missing '='
+(WARN-1570 fcitx-config.c:922) Invalid Entry: line 158 missing '='
+(WARN-1570 fcitx-config.c:922) Invalid Entry: line 158 missing '='
+(WARN-1570 fcitx-config.c:922) Invalid Entry: line 158 missing '='
+(WARN-1570 fcitx-config.c:922) Invalid Entry: line 160 missing '='
+(WARN-1570 fcitx-config.c:922) Invalid Entry: line 162 missing '='
+(WARN-1570 fcitx-config.c:922) Invalid Entry: line 160 missing '='
+(WARN-1570 fcitx-config.c:922) Invalid Entry: line 12 missing '='
+2019年07月28日 23时18分14秒 - startup id = i3/rofi/1441-1-archlinux_TIME373867
+2019年07月28日 23时18分14秒 - executing: rofi -show run
+2019年07月28日 23时18分14秒 - Not a managed window, ignoring UnmapNotify event
+没有那个文件或目录: 没有那个文件或目录
+polybar|error: Invalid _XEMBED_INFO for window 0x1400011
+2019年07月28日 23时18分16秒 - Not a managed window, ignoring UnmapNotify event
+polybar|error: Invalid _XEMBED_INFO for window 0x1400024
+2019年07月28日 23时18分22秒 - startup id = i3/rofi/1441-2-archlinux_TIME381357
+2019年07月28日 23时18分22秒 - executing: rofi -show run
+2019年07月28日 23时18分22秒 - Not a managed window, ignoring UnmapNotify event
+2019年07月28日 23时18分29秒 - startup id = i3/xfce4-terminal/1441-3-archlinux_TIME388278
+2019年07月28日 23时18分29秒 - executing: xfce4-terminal
+2019年07月28日 23时18分29秒 - Not a managed window, ignoring UnmapNotify event
+无法连接到会话管理器：无法与会话管理器连接：SESSION_MANAGER environment variable not defined
+2019年07月28日 23时18分29秒 - ClientMessage for window 0x01800003
+2019年07月28日 23时18分29秒 - WM_CLASS changed to xfce4-terminal (instance), Xfce4-terminal (class)
+2019年07月28日 23时18分29秒 - WM_NAME changed to "Terminal $(AVU6K(B - "
+2019年07月28日 23时18分29秒 - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+2019年07月28日 23时18分29秒 - _NET_WM_NAME changed to "Terminal 终端 - "
+2019年07月28日 23时18分29秒 - WM_WINDOW_ROLE changed to "xfce4-terminal-1564327109-1911100469"
+2019年07月28日 23时18分29秒 - WM_HINTS.input changed to "1"
+2019年07月28日 23时18分29秒 - Checking window 0x01800003 (class Xfce4-terminal)
+2019年07月28日 23时18分29秒 - dock status does not match
+2019年07月28日 23时18分29秒 - Checking window 0x01800003 (class Xfce4-terminal)
+2019年07月28日 23时18分29秒 - dock status does not match
+2019年07月28日 23时18分29秒 - workspace visible? fs = 0x55d5976e64b0, ws = 0x55d5976e64b0
+2019年07月28日 23时18分29秒 - workspace visible? fs = 0x55d5976e64b0, ws = 0x55d5976e64b0
+2019年07月28日 23时18分29秒 - workspace visible? fs = 0x55d5976e64b0, ws = 0x55d5976e64b0
+2019年07月28日 23时18分29秒 - workspace visible? fs = 0x55d5976e2530, ws = 0x55d5976e2530
+
+** (xfce4-terminal:1663): WARNING **: 23:18:29.252: AT-SPI: Could not obtain desktop path or name
+
+2019年07月28日 23时18分29秒 - Not a managed window, ignoring UnmapNotify event
+
+** (xfce4-terminal:1663): WARNING **: 23:18:29.266: AT-SPI: Could not obtain desktop path or name
+
+
+** (xfce4-terminal:1663): WARNING **: 23:18:29.266: atk-bridge: get_device_events_reply: unknown signature
+
+** (xfce4-terminal:1663): WARNING **: 23:18:29.266: atk-bridge: get_device_events_reply: unknown signature
+
+** (xfce4-terminal:1663): WARNING **: 23:18:29.267: atk-bridge: GetRegisteredEvents returned message with unknown signature
+2019年07月28日 23时18分29秒 - Not a managed window, ignoring UnmapNotify event
+2019年07月28日 23时18分29秒 - Not a managed window, ignoring UnmapNotify event
+
+** (xfce4-terminal:1663): WARNING **: 23:18:29.274: AT-SPI: Could not obtain desktop path or name
+
+
+** (xfce4-terminal:1663): WARNING **: 23:18:29.274: atk-bridge: get_device_events_reply: unknown signature
+
+** (xfce4-terminal:1663): WARNING **: 23:18:29.274: atk-bridge: get_device_events_reply: unknown signature
+
+** (xfce4-terminal:1663): WARNING **: 23:18:29.274: atk-bridge: GetRegisteredEvents returned message with unknown signature
+2019年07月28日 23时18分29秒 - _NET_WM_NAME changed to "Terminal 终端 - wjh@archlinux: ~"
+2019年07月28日 23时18分32秒 - _NET_WM_NAME changed to "Terminal 终端 - vim .config/i3/log"
+2019年07月28日 23时18分35秒 - _NET_WM_NAME changed to "Terminal 终端 - wjh@archlinux: ~"
+2019年07月28日 23时19分05秒 - _NET_WM_NAME changed to "Terminal 终端 - vim .config/i3/log/i3log-2019-07-28-23-18-10"
+2019年07月28日 23时19分10秒 - Not a managed window, ignoring UnmapNotify event
+2019年07月28日 23时19分27秒 - startup id = i3/i3-nagbar/1441-4-archlinux_TIME446679
+2019年07月28日 23时19分27秒 - executing: i3-nagbar -t warning -m 'You pressed the exit shortcut. Do you really want to exit i3? This will end your X session.' -b 'Yes, exit i3' 'i3-msg exit'
+2019年07月28日 23时19分27秒 - Not a managed window, ignoring UnmapNotify event
+2019年07月28日 23时19分27秒 - This window is of type dock
+2019年07月28日 23时19分27秒 - Checking window 0x01a00006 (class (null))
+2019年07月28日 23时19分27秒 - dock status matches
+2019年07月28日 23时19分27秒 - workspace visible? fs = 0x55d5976e64b0, ws = 0x55d5976e64b0
+2019年07月28日 23时19分27秒 - workspace visible? fs = 0x55d5976e2530, ws = 0x55d5976e2530
+button with label *Yes, exit i3* and action *i3-msg exit*
+now 1 buttons
+[libi3] ../i3-4.16.1/../i3-4.16.1/libi3/font.c Using Pango font monospace, size 8
+button pressed on x = 1276, y = 9
+button released on x = 1276, y = 9
+argv0 = i3-nagbar
+terminal_cmd = i3-sensible-terminal -e /run/user/1000/i3/nagbar-cmd.1704.nagbar_cmd
+executing: i3-sensible-terminal -e /run/user/1000/i3/nagbar-cmd.1704.nagbar_cmd
+2019年07月28日 23时19分29秒 - WM_CLASS changed to urxvt (instance), URxvt (class)
+2019年07月28日 23时19分29秒 - WM_NAME changed to "nagbar-cmd.1704.nagbar_cmd"
+2019年07月28日 23时19分29秒 - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+2019年07月28日 23时19分29秒 - _NET_WM_NAME changed to "nagbar-cmd.1704.nagbar_cmd"
+2019年07月28日 23时19分29秒 - WM_HINTS.input changed to "1"
+2019年07月28日 23时19分29秒 - Checking window 0x01c0000a (class URxvt)
+2019年07月28日 23时19分29秒 - dock status does not match
+2019年07月28日 23时19分29秒 - Checking window 0x01c0000a (class URxvt)
+2019年07月28日 23时19分29秒 - dock status does not match
+2019年07月28日 23时19分29秒 - workspace visible? fs = 0x55d5976e64b0, ws = 0x55d5976e64b0
+2019年07月28日 23时19分29秒 - workspace visible? fs = 0x55d5976e64b0, ws = 0x55d5976e64b0
+2019年07月28日 23时19分29秒 - workspace visible? fs = 0x55d5976e64b0, ws = 0x55d5976e64b0
+2019年07月28日 23时19分29秒 - workspace visible? fs = 0x55d5976e2530, ws = 0x55d5976e2530
+2019年07月28日 23时19分29秒 - IPC: received: *exit*
+2019年07月28日 23时19分29秒 - Exiting due to user command.
+sogou-qimpanel-watchdog: Fatal IO error 11 (资源暂时不可用) on X server :1.
+权限不够: 权限不够
+权限不够: 权限不够
+button with label *Yes, exit i3* and action *i3-msg exit*
+now 1 buttons
+[libi3] ../i3-4.16.1/../i3-4.16.1/libi3/font.c Using Pango font monospace, size 8
+button pressed on x = 1276, y = 9
+button released on x = 1276, y = 9
+argv0 = i3-nagbar
+terminal_cmd = i3-sensible-terminal -e /run/user/1000/i3/nagbar-cmd.1704.nagbar_cmd
+executing: i3-sensible-terminal -e /run/user/1000/i3/nagbar-cmd.1704.nagbar_cmd
+urxvt: X connection to ':1' broken, unable to recover, exiting.
+没有那个文件或目录: 没有那个文件或目录
+没有那个文件或目录: 没有那个文件或目录
+sogou-qimpanel: Fatal IO error 11 (资源暂时不可用) on X server :1.
+Gdk-Message: 23:19:29.417: xfce4-terminal: Fatal IO error 11 (资源暂时不可用) on X server :1.
+
+sogou-qimpanel: ../../../src/os/linux/mutex_linux.cpp:174：bool t_processMutex::Close(): 假设 ‘false’ 失败。
+(FATAL-1453 sogouimcore.cpp:2356) FcitxSogouPinyinDestroy
+polybar|warn:  Termination signal received, shutting down...
+open file /usr/share/fcitx-sogoupinyin/SogouInput/sgim_charvalid.bin failed.
+open file /home/wjh/.config/SogouPY/punctures.ini failed.
+check false, remove P
+open file /home/wjh/.config/SogouPY/punctures.ini failed.
+open file  failed.
+check false, remove C
+open file  failed.
+check false, remove C
+open file /home/wjh/.config/SogouPY/sgim_usr_v3_ext.bin failed.
+check false, remove U
+open file /home/wjh/.config/SogouPY/sgim_phrases.bin failed.
+check false, remove A
+open file /home/wjh/.config/SogouPY/sgim_privilege.bin failed.
+check false, remove P
+open file /usr/share/fcitx-sogoupinyin/SogouInput/sgim_tip.bin failed.
+open file /usr/share/fcitx-sogoupinyin/SogouInput/sgim_urlGuide.bin failed.

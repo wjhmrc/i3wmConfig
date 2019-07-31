@@ -1,0 +1,81 @@
+2019年07月27日 22时52分54秒 - i3 4.16.1 (2019-01-27) starting
+2019年07月27日 22时52分54秒 - Parsing configfile /home/wjh/.config/i3/config
+2019年07月27日 22时52分54秒 - deciding for version 4 due to this line: # i3 config file (v4)
+2019年07月27日 22时52分54秒 - [libi3] ../i3-4.16.1/../i3-4.16.1/libi3/font.c Using Pango font monospace, size 8
+2019年07月27日 22时52分54秒 - Used number 1 for workspace with name 1:
+2019年07月27日 22时52分54秒 - This is not an in-place restart, copying root window contents to a pixmap
+2019年07月27日 22时52分54秒 - auto-starting xset dpms 600 800 900
+2019年07月27日 22时52分54秒 - executing: xset dpms 600 800 900
+2019年07月27日 22时52分54秒 - auto-starting xrandr --output eDP1 --mode 1920x1080 --same-as HDMI2
+2019年07月27日 22时52分54秒 - executing: xrandr --output eDP1 --mode 1920x1080 --same-as HDMI2
+2019年07月27日 22时52分54秒 - auto-starting (always!) feh --bg-scale "/home/wjh/Pictures/v2-2fb11ef71385fabc6596fcd75e3b9f68_r.jpg"
+2019年07月27日 22时52分54秒 - executing: feh --bg-scale "/home/wjh/Pictures/v2-2fb11ef71385fabc6596fcd75e3b9f68_r.jpg"
+2019年07月27日 22时52分54秒 - auto-starting (always!) $HOME/.config/polybar/launch.sh
+2019年07月27日 22时52分54秒 - executing: $HOME/.config/polybar/launch.sh
+xrandr: cannot find mode 1920x1080
+Bars launched...
+polybar|error: Disabling module "i3" (reason: No built-in support for 'internal/i3')
+polybar|warn:  internal/volume is deprecated, use internal/alsa instead
+polybar|error: Disabling module "alsa" (reason: No built-in support for 'internal/alsa')
+polybar|warn:  module/temperature: The token `%temperature%` is deprecated, use `%temperature-c%` instead.
+polybar|error: Disabling module "battery" (reason: No suitable way to get current charge state)
+2019年07月27日 22时52分54秒 - WM_CLASS changed to polybar (instance), Polybar (class)
+2019年07月27日 22时52分54秒 - WM_NAME changed to "polybar-example_eDP1"
+2019年07月27日 22时52分54秒 - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+2019年07月27日 22时52分54秒 - This window is of type dock
+2019年07月27日 22时52分54秒 - Checking window 0x00c00002 (class Polybar)
+2019年07月27日 22时52分54秒 - dock status matches
+polybar|warn:  Dropping unmatched character  (U+e1d8)
+2019年07月27日 22时52分54秒 - workspace visible? fs = 0x561d25e715b0, ws = 0x561d25e715b0
+2019年07月27日 22时52分54秒 - workspace visible? fs = 0x561d25e6d630, ws = 0x561d25e6d630
+polybar|warn:  Dropping unmatched character  (U+e1d8)
+2019年07月27日 22时52分55秒 - ClientMessage for window 0x00000197
+polybar|warn:  Dropping unmatched character  (U+e1d8)
+polybar|warn:  Dropping unmatched character  (U+e1d8)
+polybar|warn:  Dropping unmatched character  (U+e1d8)
+polybar|warn:  Dropping unmatched character  (U+e1d8)
+polybar|warn:  Dropping unmatched character  (U+e1d8)
+polybar|warn:  Dropping unmatched character  (U+e1d8)
+2019年07月27日 22时53分04秒 - startup id = i3/i3-nagbar/16143-0-archlinux_TIME10588185
+2019年07月27日 22时53分04秒 - executing: i3-nagbar -t warning -m 'You pressed the exit shortcut. Do you really want to exit i3? This will end your X session.' -b 'Yes, exit i3' 'i3-msg exit'
+2019年07月27日 22时53分04秒 - Not a managed window, ignoring UnmapNotify event
+2019年07月27日 22时53分04秒 - This window is of type dock
+2019年07月27日 22时53分04秒 - Checking window 0x00a00006 (class (null))
+2019年07月27日 22时53分04秒 - dock status matches
+2019年07月27日 22时53分04秒 - workspace visible? fs = 0x561d25e715b0, ws = 0x561d25e715b0
+2019年07月27日 22时53分04秒 - workspace visible? fs = 0x561d25e6d630, ws = 0x561d25e6d630
+polybar|warn:  Dropping unmatched character  (U+e1d8)
+polybar|warn:  Dropping unmatched character  (U+e1d8)
+polybar|warn:  Dropping unmatched character  (U+e1d8)
+button with label *Yes, exit i3* and action *i3-msg exit*
+now 1 buttons
+[libi3] ../i3-4.16.1/../i3-4.16.1/libi3/font.c Using Pango font monospace, size 8
+button pressed on x = 1252, y = 9
+button released on x = 1252, y = 9
+argv0 = i3-nagbar
+terminal_cmd = i3-sensible-terminal -e /run/user/1000/i3/nagbar-cmd.16169.nagbar_cmd
+executing: i3-sensible-terminal -e /run/user/1000/i3/nagbar-cmd.16169.nagbar_cmd
+2019年07月27日 22时53分09秒 - WM_CLASS changed to urxvt (instance), URxvt (class)
+2019年07月27日 22时53分09秒 - WM_NAME changed to "nagbar-cmd.16169.nagbar_cmd"
+2019年07月27日 22时53分09秒 - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+2019年07月27日 22时53分09秒 - _NET_WM_NAME changed to "nagbar-cmd.16169.nagbar_cmd"
+2019年07月27日 22时53分09秒 - WM_HINTS.input changed to "1"
+2019年07月27日 22时53分09秒 - Checking window 0x0100000a (class URxvt)
+2019年07月27日 22时53分09秒 - dock status does not match
+2019年07月27日 22时53分09秒 - Checking window 0x0100000a (class URxvt)
+2019年07月27日 22时53分09秒 - dock status does not match
+2019年07月27日 22时53分09秒 - workspace visible? fs = 0x561d25e715b0, ws = 0x561d25e715b0
+2019年07月27日 22时53分09秒 - workspace visible? fs = 0x561d25e715b0, ws = 0x561d25e715b0
+2019年07月27日 22时53分09秒 - workspace visible? fs = 0x561d25e715b0, ws = 0x561d25e715b0
+2019年07月27日 22时53分09秒 - workspace visible? fs = 0x561d25e6d630, ws = 0x561d25e6d630
+2019年07月27日 22时53分09秒 - IPC: received: *exit*
+2019年07月27日 22时53分09秒 - Exiting due to user command.
+button with label *Yes, exit i3* and action *i3-msg exit*
+now 1 buttons
+[libi3] ../i3-4.16.1/../i3-4.16.1/libi3/font.c Using Pango font monospace, size 8
+button pressed on x = 1252, y = 9
+button released on x = 1252, y = 9
+argv0 = i3-nagbar
+terminal_cmd = i3-sensible-terminal -e /run/user/1000/i3/nagbar-cmd.16169.nagbar_cmd
+executing: i3-sensible-terminal -e /run/user/1000/i3/nagbar-cmd.16169.nagbar_cmd
+polybar|warn:  Termination signal received, shutting down...

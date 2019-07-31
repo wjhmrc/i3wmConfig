@@ -1,0 +1,159 @@
+2019年07月28日 22时33分53秒 - i3 4.16.1 (2019-01-27) starting
+2019年07月28日 22时33分53秒 - Parsing configfile /home/wjh/.config/i3/config
+2019年07月28日 22时33分53秒 - deciding for version 4 due to this line: # i3 config file (v4)
+2019年07月28日 22时33分53秒 - [libi3] ../i3-4.16.1/../i3-4.16.1/libi3/font.c Using Pango font monospace, size 8
+2019年07月28日 22时33分53秒 - Used number 1 for workspace with name 1:
+2019年07月28日 22时33分53秒 - This is not an in-place restart, copying root window contents to a pixmap
+2019年07月28日 22时33分53秒 - auto-starting compton -b #开机自启 
+2019年07月28日 22时33分53秒 - executing: compton -b #开机自启 
+2019年07月28日 22时33分53秒 - auto-starting xset dpms 600 800 900
+2019年07月28日 22时33分53秒 - executing: xset dpms 600 800 900
+2019年07月28日 22时33分53秒 - auto-starting xrandr --output eDP1 --mode 1920x1080 --same-as HDMI2
+2019年07月28日 22时33分53秒 - executing: xrandr --output eDP1 --mode 1920x1080 --same-as HDMI2
+2019年07月28日 22时33分53秒 - auto-starting (always!) feh --bg-scale "/home/wjh/Pictures/v2-2fb11ef71385fabc6596fcd75e3b9f68_r.jpg"
+2019年07月28日 22时33分53秒 - executing: feh --bg-scale "/home/wjh/Pictures/v2-2fb11ef71385fabc6596fcd75e3b9f68_r.jpg"
+2019年07月28日 22时33分53秒 - auto-starting (always!) $HOME/.config/polybar/launch.sh
+2019年07月28日 22时33分53秒 - executing: $HOME/.config/polybar/launch.sh
+xrandr: cannot find mode 1920x1080
+Bars launched...
+[ 2019年07月28日 22:33:53.601 register_cm FATAL ERROR ] Another composite manager is already running
+polybar|error: Disabling module "i3" (reason: No built-in support for 'internal/i3')
+polybar|error: Disabling module "alsa" (reason: Missing parameter "module/alsa.type")
+polybar|warn:  module/temperature: The token `%temperature%` is deprecated, use `%temperature-c%` instead.
+2019年07月28日 22时33分53秒 - WM_CLASS changed to polybar (instance), Polybar (class)
+2019年07月28日 22时33分53秒 - WM_NAME changed to "polybar-example_eDP1"
+2019年07月28日 22时33分53秒 - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+2019年07月28日 22时33分53秒 - This window is of type dock
+2019年07月28日 22时33分53秒 - Checking window 0x00a00002 (class Polybar)
+2019年07月28日 22时33分53秒 - dock status matches
+2019年07月28日 22时33分53秒 - workspace visible? fs = 0x557bbd0883d0, ws = 0x557bbd0883d0
+2019年07月28日 22时33分53秒 - workspace visible? fs = 0x557bbd084450, ws = 0x557bbd084450
+polybar|error: tray: Failed to put tray above 0x0a00002 in the stack (XCB_MATCH (8))
+2019年07月28日 22时33分54秒 - ClientMessage for window 0x00000197
+2019年07月28日 22时33分55秒 - startup id = i3/rofi/655-0-archlinux_TIME12853
+2019年07月28日 22时33分55秒 - executing: rofi -show run
+2019年07月28日 22时33分55秒 - Not a managed window, ignoring UnmapNotify event
+
+(firefox:723): GLib-GIO-CRITICAL **: 22:34:01.445: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(firefox:723): GLib-GIO-CRITICAL **: 22:34:01.445: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(firefox:723): GLib-GIO-CRITICAL **: 22:34:01.445: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+2019年07月28日 22时34分01秒 - ClientMessage for window 0x01000003
+2019年07月28日 22时34分01秒 - WM_CLASS changed to Navigator (instance), firefox (class)
+2019年07月28日 22时34分01秒 - WM_NAME changed to "Mozilla Firefox"
+2019年07月28日 22时34分01秒 - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+2019年07月28日 22时34分01秒 - _NET_WM_NAME changed to "Mozilla Firefox"
+2019年07月28日 22时34分01秒 - WM_WINDOW_ROLE changed to "browser"
+2019年07月28日 22时34分01秒 - WM_HINTS.input changed to "1"
+2019年07月28日 22时34分01秒 - Checking window 0x01000003 (class firefox)
+2019年07月28日 22时34分01秒 - dock status does not match
+2019年07月28日 22时34分01秒 - Checking window 0x01000003 (class firefox)
+2019年07月28日 22时34分01秒 - dock status does not match
+2019年07月28日 22时34分01秒 - workspace visible? fs = 0x557bbd0883d0, ws = 0x557bbd0883d0
+2019年07月28日 22时34分01秒 - workspace visible? fs = 0x557bbd0883d0, ws = 0x557bbd0883d0
+2019年07月28日 22时34分01秒 - workspace visible? fs = 0x557bbd0883d0, ws = 0x557bbd0883d0
+2019年07月28日 22时34分01秒 - workspace visible? fs = 0x557bbd084450, ws = 0x557bbd084450
+2019年07月28日 22时34分01秒 - WM_HINTS.input changed to "1"
+2019年07月28日 22时34分02秒 - _NET_WM_NAME changed to "Restore Session - Mozilla Firefox"
+2019年07月28日 22时34分05秒 - ClientMessage for window 0x0100003a
+2019年07月28日 22时34分06秒 - Not a managed window, ignoring UnmapNotify event
+2019年07月28日 22时34分06秒 - _NET_WM_NAME changed to "Mozilla Firefox"
+2019年07月28日 22时34分06秒 - _NET_WM_NAME changed to "百度一下，你就知道 - Mozilla Firefox"
+2019年07月28日 22时34分27秒 - _NET_WM_NAME changed to "i3wm denglu_百度搜索 - Mozilla Firefox"
+2019年07月28日 22时34分37秒 - _NET_WM_NAME changed to "arch i3wm denglu_百度搜索 - Mozilla Firefox"
+2019年07月28日 22时34分40秒 - _NET_WM_NAME changed to "Mozilla Firefox"
+2019年07月28日 22时34分41秒 - _NET_WM_NAME changed to "archlinux+i3wm安装与配置 - 停停走走停停的博客 - CSDN博客 - Mozilla Firefox"
+2019年07月28日 22时34分52秒 - _NET_WM_NAME changed to "Mozilla Firefox"
+2019年07月28日 22时34分53秒 - _NET_WM_NAME changed to "ArchLinux图形界面安装与美化：i3+polybar - qq_33215865的博客 - CSDN博客 - Mozilla Firefox"
+2019年07月28日 22时34分55秒 - Not a managed window, ignoring UnmapNotify event
+2019年07月28日 22时35分27秒 - startup id = i3/xfce4-terminal/655-1-archlinux_TIME105111
+2019年07月28日 22时35分27秒 - executing: xfce4-terminal
+2019年07月28日 22时35分27秒 - Not a managed window, ignoring UnmapNotify event
+无法连接到会话管理器：无法与会话管理器连接：SESSION_MANAGER environment variable not defined
+2019年07月28日 22时35分28秒 - WM_HINTS.input changed to "1"
+2019年07月28日 22时35分28秒 - ClientMessage for window 0x00e00003
+2019年07月28日 22时35分28秒 - WM_CLASS changed to xfce4-terminal (instance), Xfce4-terminal (class)
+2019年07月28日 22时35分28秒 - WM_NAME changed to "Terminal $(AVU$(BC<(B - "
+2019年07月28日 22时35分28秒 - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+2019年07月28日 22时35分28秒 - _NET_WM_NAME changed to "Terminal 终端 - "
+2019年07月28日 22时35分28秒 - WM_WINDOW_ROLE changed to "xfce4-terminal-1564324528-4222012674"
+2019年07月28日 22时35分28秒 - WM_HINTS.input changed to "1"
+2019年07月28日 22时35分28秒 - Checking window 0x00e00003 (class Xfce4-terminal)
+2019年07月28日 22时35分28秒 - dock status does not match
+2019年07月28日 22时35分28秒 - Checking window 0x00e00003 (class Xfce4-terminal)
+2019年07月28日 22时35分28秒 - dock status does not match
+2019年07月28日 22时35分28秒 - workspace visible? fs = 0x557bbd0883d0, ws = 0x557bbd0883d0
+2019年07月28日 22时35分28秒 - workspace visible? fs = 0x557bbd0883d0, ws = 0x557bbd0883d0
+2019年07月28日 22时35分28秒 - workspace visible? fs = 0x557bbd0883d0, ws = 0x557bbd0883d0
+2019年07月28日 22时35分28秒 - workspace visible? fs = 0x557bbd084450, ws = 0x557bbd084450
+
+(xfce4-terminal:1135): GLib-GIO-CRITICAL **: 22:35:28.098: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+2019年07月28日 22时35分28秒 - _NET_WM_NAME changed to "Terminal 终端 - wjh@archlinux: ~"
+2019年07月28日 22时35分30秒 - WM_HINTS.input changed to "1"
+2019年07月28日 22时35分33秒 - ClientMessage for window 0x01000057
+2019年07月28日 22时35分34秒 - Not a managed window, ignoring UnmapNotify event
+2019年07月28日 22时35分37秒 - _NET_WM_NAME changed to "Terminal 终端 - sudo pacman -S sddm"
+2019年07月28日 22时35分46秒 - WM_HINTS.input changed to "1"
+2019年07月28日 22时35分57秒 - _NET_WM_NAME changed to "Terminal 终端 - wjh@archlinux: ~"
+2019年07月28日 22时36分05秒 - _NET_WM_NAME changed to "Terminal 终端 - systemctl enable sddm"
+2019年07月28日 22时36分09秒 - _NET_WM_NAME changed to "Terminal 终端 - wjh@archlinux: ~"
+2019年07月28日 22时36分27秒 - Not a managed window, ignoring UnmapNotify event
+2019年07月28日 22时36分30秒 - WM_HINTS.input changed to "1"
+2019年07月28日 22时36分31秒 - _NET_WM_NAME changed to "arch i3wm denglu_百度搜索 - Mozilla Firefox"
+2019年07月28日 22时36分35秒 - _NET_WM_NAME changed to "arch i3wm gdm_百度搜索 - Mozilla Firefox"
+2019年07月28日 22时36分45秒 - _NET_WM_NAME changed to "Terminal 终端 - systemctl disable gdm"
+2019年07月28日 22时36分48秒 - _NET_WM_NAME changed to "Terminal 终端 - wjh@archlinux: ~"
+2019年07月28日 22时36分51秒 - _NET_WM_NAME changed to "Terminal 终端 - systemctl enable sddm"
+2019年07月28日 22时36分54秒 - _NET_WM_NAME changed to "Terminal 终端 - wjh@archlinux: ~"
+2019年07月28日 22时36分58秒 - WM_HINTS.input changed to "1"
+2019年07月28日 22时36分58秒 - _NET_WM_NAME changed to "archlinux+i3wm安装与配置 - 停停走走停停的博客 - CSDN博客 - Mozilla Firefox"
+2019年07月28日 22时36分59秒 - _NET_WM_NAME changed to "ArchLinux图形界面安装与美化：i3+polybar - qq_33215865的博客 - CSDN博客 - Mozilla Firefox"
+2019年07月28日 22时37分17秒 - ClientMessage for window 0x00e00220
+2019年07月28日 22时37分18秒 - Not a managed window, ignoring UnmapNotify event
+2019年07月28日 22时37分19秒 - ClientMessage for window 0x00e00239
+2019年07月28日 22时37分20秒 - Not a managed window, ignoring UnmapNotify event
+2019年07月28日 22时37分20秒 - ClientMessage for window 0x00e00250
+2019年07月28日 22时37分20秒 - WM_CLASS changed to xfce4-terminal (instance), Xfce4-terminal (class)
+2019年07月28日 22时37分20秒 - WM_NAME changed to "$(AVU$(BC<<s$(AQ!On"
+2019年07月28日 22时37分20秒 - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+2019年07月28日 22时37分20秒 - _NET_WM_NAME changed to "终端首选项"
+2019年07月28日 22时37分20秒 - WM_HINTS.input changed to "1"
+2019年07月28日 22时37分20秒 - Checking window 0x00e00250 (class Xfce4-terminal)
+2019年07月28日 22时37分20秒 - dock status does not match
+2019年07月28日 22时37分20秒 - Checking window 0x00e00250 (class Xfce4-terminal)
+2019年07月28日 22时37分20秒 - dock status does not match
+2019年07月28日 22时37分20秒 - workspace visible? fs = 0x557bbd0883d0, ws = 0x557bbd0883d0
+2019年07月28日 22时37分20秒 - This window is a dialog window, setting floating
+2019年07月28日 22时37分20秒 - This window is transient for another window, setting floating
+2019年07月28日 22时37分20秒 - workspace visible? fs = 0x557bbd0883d0, ws = 0x557bbd0883d0
+2019年07月28日 22时37分20秒 - workspace visible? fs = 0x557bbd0883d0, ws = 0x557bbd0883d0
+2019年07月28日 22时37分20秒 - workspace visible? fs = 0x557bbd084450, ws = 0x557bbd084450
+2019年07月28日 22时37分26秒 - Not a managed window, ignoring UnmapNotify event
+2019年07月28日 22时37分26秒 - expose event for unknown window, ignoring
+2019年07月28日 22时37分26秒 - Not a managed window, ignoring UnmapNotify event
+2019年07月28日 22时37分26秒 - Not a managed window, ignoring UnmapNotify event
+2019年07月28日 22时37分26秒 - Not a managed window, ignoring UnmapNotify event
+2019年07月28日 22时37分26秒 - Not a managed window, ignoring UnmapNotify event
+2019年07月28日 22时37分26秒 - Not a managed window, ignoring UnmapNotify event
+2019年07月28日 22时37分26秒 - Not a managed window, ignoring UnmapNotify event
+2019年07月28日 22时37分26秒 - Not a managed window, ignoring UnmapNotify event
+2019年07月28日 22时37分26秒 - WM_HINTS.input changed to "1"
+2019年07月28日 22时37分48秒 - startup id = i3/rofi/655-2-archlinux_TIME245713
+2019年07月28日 22时37分48秒 - executing: rofi -show run
+2019年07月28日 22时37分48秒 - Not a managed window, ignoring UnmapNotify event
+2019年07月28日 22时37分48秒 - WM_HINTS.input changed to "1"
+2019年07月28日 22时37分49秒 - WM_HINTS.input changed to "1"
+2019年07月28日 22时38分17秒 - ClientMessage for window 0x0100005b
+2019年07月28日 22时38分20秒 - Not a managed window, ignoring UnmapNotify event
+2019年07月28日 22时38分26秒 - _NET_WM_NAME changed to "Terminal 终端 - reboot"
+Gdk-Message: 22:38:26.936: xfce4-terminal: Fatal IO error 11 (资源暂时不可用) on X server :0.
+
+Gdk-Message: 22:38:26.944: /usr/lib/firefox/firefox: Fatal IO error 11 (资源暂时不可用) on X server :0.
+
+Gdk-Message: 22:38:26.944: /usr/lib/firefox/firefox: Fatal IO error 11 (资源暂时不可用) on X server :0.
+
+Gdk-Message: 22:38:26.944: /usr/lib/firefox/firefox: Fatal IO error 11 (资源暂时不可用) on X server :0.
+
+Gdk-Message: 22:38:26.945: firefox: Fatal IO error 11 (资源暂时不可用) on X server :0.
+
