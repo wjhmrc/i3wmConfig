@@ -1,0 +1,451 @@
+2019年07月31日 22时12分07秒 - i3 4.16.1 (2019-01-27) starting
+2019年07月31日 22时12分07秒 - Parsing configfile /home/wjh/.config/i3/config
+2019年07月31日 22时12分07秒 - deciding for version 4 due to this line: # i3 config file (v4)
+2019年07月31日 22时12分07秒 - [libi3] ../i3-4.16.1/../i3-4.16.1/libi3/font.c Using Pango font monospace, size 8
+2019年07月31日 22时12分07秒 - Used number 1 for workspace with name 1:
+2019年07月31日 22时12分07秒 - This is not an in-place restart, copying root window contents to a pixmap
+2019年07月31日 22时12分07秒 - auto-starting fcitx
+2019年07月31日 22时12分07秒 - startup id = i3/fcitx/20562-0-archlinux_TIME0
+2019年07月31日 22时12分07秒 - executing: fcitx
+2019年07月31日 22时12分07秒 - auto-starting compton -b #开机自启 
+2019年07月31日 22时12分07秒 - executing: compton -b #开机自启 
+2019年07月31日 22时12分07秒 - auto-starting xset dpms 600 800 900
+2019年07月31日 22时12分07秒 - executing: xset dpms 600 800 900
+2019年07月31日 22时12分07秒 - auto-starting xrandr --output eDP1 --mode 1920x1080 --same-as HDMI2
+2019年07月31日 22时12分07秒 - executing: xrandr --output eDP1 --mode 1920x1080 --same-as HDMI2
+2019年07月31日 22时12分07秒 - auto-starting (always!) feh --bg-scale "/home/wjh/Pictures/v2-2fb11ef71385fabc6596fcd75e3b9f68_r.jpg"
+2019年07月31日 22时12分07秒 - executing: feh --bg-scale "/home/wjh/Pictures/v2-2fb11ef71385fabc6596fcd75e3b9f68_r.jpg"
+2019年07月31日 22时12分07秒 - auto-starting (always!) $HOME/.config/polybar/launch.sh
+2019年07月31日 22时12分07秒 - executing: $HOME/.config/polybar/launch.sh
+2019年07月31日 22时12分07秒 - Not a managed window, ignoring UnmapNotify event
+(WARN-20581 fcitx-config.c:922) 配置项不合法:  行152 缺少'='
+(INFO-20581 addon.c:151) 加载附加组件配置文件: fcitx-spell.conf
+(INFO-20581 addon.c:151) 加载附加组件配置文件: fcitx-lua.conf
+(INFO-20581 addon.c:151) 加载附加组件配置文件: fcitx-pinyin-enhance.conf
+(INFO-20581 addon.c:151) 加载附加组件配置文件: fcitx-imselector.conf
+(INFO-20581 addon.c:151) 加载附加组件配置文件: fcitx-autoeng-ng.conf
+(INFO-20581 addon.c:151) 加载附加组件配置文件: fcitx-classic-ui.conf
+(INFO-20581 addon.c:151) 加载附加组件配置文件: fcitx-kimpanel-ui.conf
+(INFO-20581 addon.c:151) 加载附加组件配置文件: fcitx-unicode.conf
+(INFO-20581 addon.c:151) 加载附加组件配置文件: fcitx-ipcportal.conf
+(INFO-20581 addon.c:151) 加载附加组件配置文件: fcitx-qw.conf
+(INFO-20581 addon.c:151) 加载附加组件配置文件: fcitx-pinyin.conf
+(INFO-20581 addon.c:151) 加载附加组件配置文件: fcitx-punc.conf
+(INFO-20581 addon.c:151) 加载附加组件配置文件: fcitx-xkb.conf
+(INFO-20581 addon.c:151) 加载附加组件配置文件: fcitx-notificationitem.conf
+(INFO-20581 addon.c:151) 加载附加组件配置文件: fcitx-remote-module.conf
+(INFO-20581 addon.c:151) 加载附加组件配置文件: fcitx-punc-ng.conf
+(INFO-20581 addon.c:151) 加载附加组件配置文件: fcitx-x11.conf
+(INFO-20581 addon.c:151) 加载附加组件配置文件: fcitx-sogoucloudpinyin.conf
+(INFO-20581 addon.c:151) 加载附加组件配置文件: fcitx-fullwidth-char-enhance.conf
+(INFO-20581 addon.c:151) 加载附加组件配置文件: fcitx-clipboard.conf
+(INFO-20581 addon.c:151) 加载附加组件配置文件: fcitx-table.conf
+(INFO-20581 addon.c:151) 加载附加组件配置文件: fcitx-quickphrase.conf
+(INFO-20581 addon.c:151) 加载附加组件配置文件: fcitx-ipc.conf
+(INFO-20581 addon.c:151) 加载附加组件配置文件: fcitx-freedesktop-notify.conf
+(INFO-20581 addon.c:151) 加载附加组件配置文件: fcitx-fullwidth-char.conf
+(INFO-20581 addon.c:151) 加载附加组件配置文件: fcitx-dbus.conf
+(INFO-20581 addon.c:151) 加载附加组件配置文件: fcitx-keyboard.conf
+(INFO-20581 addon.c:151) 加载附加组件配置文件: fcitx-chttrans.conf
+(INFO-20581 addon.c:151) 加载附加组件配置文件: fcitx-xim.conf
+(INFO-20581 addon.c:151) 加载附加组件配置文件: fcitx-autoeng.conf
+(INFO-20581 addon.c:151) 加载附加组件配置文件: fcitx-vk.conf
+(INFO-20581 addon.c:151) 加载附加组件配置文件: fcitx-sogoupinyin.conf
+(INFO-20581 addon.c:151) 加载附加组件配置文件: fcitx-xkbdbus.conf
+xrandr: cannot find mode 1920x1080
+[ 2019年07月31日 22:12:07.736 register_cm FATAL ERROR ] Another composite manager is already running
+(ERROR-20581 module.c:61) 模块: 打开/usr/lib/fcitx/fcitx-lua.so 失败 liblua.so.5.3: 无法打开共享对象文件: 没有那个文件或目录
+(ERROR-20581 ime.c:440) fcitx-keyboard-in-kan-kagapa already exists
+(ERROR-20581 ime.c:440) fcitx-keyboard-in-tel-kagapa already exists
+(ERROR-20581 ime.c:440) fcitx-keyboard-cm-mmuock already exists
+没有那个文件或目录: 没有那个文件或目录
+没有那个文件或目录: 没有那个文件或目录
+没有那个文件或目录: 没有那个文件或目录
+没有那个文件或目录: 没有那个文件或目录
+没有那个文件或目录: 没有那个文件或目录
+没有那个文件或目录: 没有那个文件或目录
+没有那个文件或目录: 没有那个文件或目录
+没有那个文件或目录: 没有那个文件或目录
+没有那个文件或目录: 没有那个文件或目录
+没有那个文件或目录: 没有那个文件或目录
+没有那个文件或目录: 没有那个文件或目录
+没有那个文件或目录: 没有那个文件或目录
+没有那个文件或目录: 没有那个文件或目录
+没有那个文件或目录: 没有那个文件或目录
+没有那个文件或目录: 没有那个文件或目录
+没有那个文件或目录: 没有那个文件或目录
+没有那个文件或目录: 没有那个文件或目录
+没有那个文件或目录: 没有那个文件或目录
+没有那个文件或目录: 没有那个文件或目录
+没有那个文件或目录: 没有那个文件或目录
+没有那个文件或目录: 没有那个文件或目录
+没有那个文件或目录: 没有那个文件或目录
+
+(sogou-qimpanel-watchdog:20597): Gtk-WARNING **: 22:12:07.949: 无法在模块路径中找到主题引擎：“murrine”，
+
+(sogou-qimpanel-watchdog:20597): Gtk-WARNING **: 22:12:07.949: 无法在模块路径中找到主题引擎：“murrine”，
+
+(sogou-qimpanel-watchdog:20597): Gtk-WARNING **: 22:12:07.950: 无法在模块路径中找到主题引擎：“murrine”，
+Bars launched...
+polybar|error: Disabling module "i3" (reason: No built-in support for 'internal/i3')
+polybar|error: Disabling module "alsa" (reason: Missing parameter "module/alsa.type")
+polybar|warn:  module/temperature: The token `%temperature%` is deprecated, use `%temperature-c%` instead.
+2019年07月31日 22时12分08秒 - WM_CLASS changed to polybar (instance), Polybar (class)
+2019年07月31日 22时12分08秒 - WM_NAME changed to "polybar-example_eDP1"
+2019年07月31日 22时12分08秒 - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+2019年07月31日 22时12分08秒 - This window is of type dock
+2019年07月31日 22时12分08秒 - Checking window 0x01200002 (class Polybar)
+2019年07月31日 22时12分08秒 - dock status matches
+polybar|error: tray: Failed to put tray above 0x1200002 in the stack (XCB_MATCH (8))
+2019年07月31日 22时12分08秒 - workspace visible? fs = 0x55cdba4b1910, ws = 0x55cdba4b1910
+2019年07月31日 22时12分08秒 - workspace visible? fs = 0x55cdba4ad990, ws = 0x55cdba4ad990
+sh: dpkg：未找到命令
+(INFO-20581 ipcportal.c:233) Portal Service exists.
+2019年07月31日 22时12分09秒 - ClientMessage for window 0x00000197
+QDBusConnection: session D-Bus connection created before QCoreApplication. Application may misbehave.
+polybar|error: Invalid _XEMBED_INFO for window 0x0a00016
+QDBusConnection: session D-Bus connection created before QCoreApplication. Application may misbehave.
+polybar|error: Invalid _XEMBED_INFO for window 0x0a00028
+QDBusConnection: session D-Bus connection created before QCoreApplication. Application may misbehave.
+polybar|error: Invalid _XEMBED_INFO for window 0x0a00036
+QDBusConnection: session D-Bus connection created before QCoreApplication. Application may misbehave.
+polybar|error: Invalid _XEMBED_INFO for window 0x0a00042
+QDBusConnection: session D-Bus connection created before QCoreApplication. Application may misbehave.
+polybar|error: Invalid _XEMBED_INFO for window 0x0a0004e
+QDBusConnection: session D-Bus connection created before QCoreApplication. Application may misbehave.
+polybar|error: Invalid _XEMBED_INFO for window 0x0a0005a
+QDBusConnection: session D-Bus connection created before QCoreApplication. Application may misbehave.
+polybar|error: Invalid _XEMBED_INFO for window 0x0a00068
+QDBusConnection: session D-Bus connection created before QCoreApplication. Application may misbehave.
+polybar|error: Invalid _XEMBED_INFO for window 0x0a00074
+QDBusConnection: session D-Bus connection created before QCoreApplication. Application may misbehave.
+polybar|error: Invalid _XEMBED_INFO for window 0x0a00080
+QDBusConnection: session D-Bus connection created before QCoreApplication. Application may misbehave.
+
+(sogou-qimpanel:21515): Gtk-WARNING **: 22:12:38.121: 无法在模块路径中找到主题引擎：“murrine”，
+
+(sogou-qimpanel:21515): Gtk-WARNING **: 22:12:38.122: 无法在模块路径中找到主题引擎：“murrine”，
+
+(sogou-qimpanel:21515): Gtk-WARNING **: 22:12:38.122: 无法在模块路径中找到主题引擎：“murrine”，
+没有那个文件或目录: 没有那个文件或目录
+没有那个文件或目录: 没有那个文件或目录
+没有那个文件或目录: 没有那个文件或目录
+没有那个文件或目录: 没有那个文件或目录
+没有那个文件或目录: 没有那个文件或目录
+没有那个文件或目录: 没有那个文件或目录
+没有那个文件或目录: 没有那个文件或目录
+没有那个文件或目录: 没有那个文件或目录
+没有那个文件或目录: 没有那个文件或目录
+没有那个文件或目录: 没有那个文件或目录
+没有那个文件或目录: 没有那个文件或目录
+没有那个文件或目录: 没有那个文件或目录
+没有那个文件或目录: 没有那个文件或目录
+没有那个文件或目录: 没有那个文件或目录
+没有那个文件或目录: 没有那个文件或目录
+没有那个文件或目录: 没有那个文件或目录
+没有那个文件或目录: 没有那个文件或目录
+没有那个文件或目录: 没有那个文件或目录
+没有那个文件或目录: 没有那个文件或目录
+没有那个文件或目录: 没有那个文件或目录
+没有那个文件或目录: 没有那个文件或目录
+没有那个文件或目录: 没有那个文件或目录
+gnome-shell:0
+mutter:0
+ukwm:0
+marco:0
+polybar|error: Invalid _XEMBED_INFO for window 0x0a0008e
+sh: dpkg：未找到命令
+Could not parse application stylesheet
+(WARN-21520 fcitx-config.c:922) Invalid Entry: line 152 missing '='
+(WARN-21520 fcitx-config.c:922) Invalid Entry: line 158 missing '='
+(WARN-21520 fcitx-config.c:922) Invalid Entry: line 160 missing '='
+(WARN-21520 fcitx-config.c:922) Invalid Entry: line 158 missing '='
+(WARN-21520 fcitx-config.c:922) Invalid Entry: line 150 missing '='
+(WARN-21520 fcitx-config.c:922) Invalid Entry: line 160 missing '='
+(WARN-21520 fcitx-config.c:922) Invalid Entry: line 158 missing '='
+(WARN-21520 fcitx-config.c:922) Invalid Entry: line 158 missing '='
+(WARN-21520 fcitx-config.c:922) Invalid Entry: line 158 missing '='
+(WARN-21520 fcitx-config.c:922) Invalid Entry: line 160 missing '='
+(WARN-21520 fcitx-config.c:922) Invalid Entry: line 162 missing '='
+(WARN-21520 fcitx-config.c:922) Invalid Entry: line 160 missing '='
+(WARN-21520 fcitx-config.c:922) Invalid Entry: line 12 missing '='
+没有那个文件或目录: 没有那个文件或目录
+polybar|error: Invalid _XEMBED_INFO for window 0x1400015
+2019年07月31日 22时12分40秒 - Not a managed window, ignoring UnmapNotify event
+polybar|error: Invalid _XEMBED_INFO for window 0x1400028
+2019年07月31日 22时12分42秒 - startup id = i3/rofi/20562-1-archlinux_TIME3808381
+2019年07月31日 22时12分42秒 - executing: rofi -show run
+2019年07月31日 22时12分42秒 - Not a managed window, ignoring UnmapNotify event
+2019年07月31日 22时12分45秒 - startup id = i3/xfce4-terminal/20562-2-archlinux_TIME3811325
+2019年07月31日 22时12分45秒 - executing: xfce4-terminal
+2019年07月31日 22时12分45秒 - Not a managed window, ignoring UnmapNotify event
+无法连接到会话管理器：无法与会话管理器连接：SESSION_MANAGER environment variable not defined
+2019年07月31日 22时12分45秒 - ClientMessage for window 0x01800003
+2019年07月31日 22时12分45秒 - WM_CLASS changed to xfce4-terminal (instance), Xfce4-terminal (class)
+2019年07月31日 22时12分45秒 - WM_NAME changed to "Terminal $(AVU6K(B - "
+2019年07月31日 22时12分45秒 - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+2019年07月31日 22时12分45秒 - _NET_WM_NAME changed to "Terminal 终端 - "
+2019年07月31日 22时12分45秒 - WM_WINDOW_ROLE changed to "xfce4-terminal-1564582365-2445565139"
+2019年07月31日 22时12分45秒 - WM_HINTS.input changed to "1"
+2019年07月31日 22时12分45秒 - Checking window 0x01800003 (class Xfce4-terminal)
+2019年07月31日 22时12分45秒 - dock status does not match
+2019年07月31日 22时12分45秒 - Checking window 0x01800003 (class Xfce4-terminal)
+2019年07月31日 22时12分45秒 - dock status does not match
+2019年07月31日 22时12分45秒 - workspace visible? fs = 0x55cdba4b1910, ws = 0x55cdba4b1910
+2019年07月31日 22时12分45秒 - workspace visible? fs = 0x55cdba4b1910, ws = 0x55cdba4b1910
+2019年07月31日 22时12分45秒 - workspace visible? fs = 0x55cdba4b1910, ws = 0x55cdba4b1910
+2019年07月31日 22时12分45秒 - workspace visible? fs = 0x55cdba4ad990, ws = 0x55cdba4ad990
+2019年07月31日 22时12分45秒 - Not a managed window, ignoring UnmapNotify event
+2019年07月31日 22时12分45秒 - Not a managed window, ignoring UnmapNotify event
+2019年07月31日 22时12分45秒 - Not a managed window, ignoring UnmapNotify event
+2019年07月31日 22时12分45秒 - _NET_WM_NAME changed to "Terminal 终端 - wjh@archlinux: ~"
+2019年07月31日 22时12分48秒 - Not a managed window, ignoring UnmapNotify event
+2019年07月31日 22时12分53秒 - startup id = i3/xfce4-terminal/20562-3-archlinux_TIME3819258
+2019年07月31日 22时12分53秒 - executing: xfce4-terminal
+2019年07月31日 22时12分53秒 - Not a managed window, ignoring UnmapNotify event
+2019年07月31日 22时12分53秒 - ClientMessage for window 0x01800044
+2019年07月31日 22时12分53秒 - WM_CLASS changed to xfce4-terminal (instance), Xfce4-terminal (class)
+2019年07月31日 22时12分53秒 - WM_NAME changed to "Terminal $(AVU6K(B - "
+2019年07月31日 22时12分53秒 - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+2019年07月31日 22时12分53秒 - _NET_WM_NAME changed to "Terminal 终端 - "
+2019年07月31日 22时12分53秒 - WM_WINDOW_ROLE changed to "xfce4-terminal-1564582373-3763211363"
+2019年07月31日 22时12分53秒 - WM_HINTS.input changed to "1"
+2019年07月31日 22时12分53秒 - Checking window 0x01800044 (class Xfce4-terminal)
+2019年07月31日 22时12分53秒 - dock status does not match
+2019年07月31日 22时12分53秒 - Checking window 0x01800044 (class Xfce4-terminal)
+2019年07月31日 22时12分53秒 - dock status does not match
+2019年07月31日 22时12分53秒 - workspace visible? fs = 0x55cdba4b1910, ws = 0x55cdba4b1910
+2019年07月31日 22时12分53秒 - workspace visible? fs = 0x55cdba4b1910, ws = 0x55cdba4b1910
+2019年07月31日 22时12分53秒 - workspace visible? fs = 0x55cdba4b1910, ws = 0x55cdba4b1910
+2019年07月31日 22时12分53秒 - workspace visible? fs = 0x55cdba4ad990, ws = 0x55cdba4ad990
+2019年07月31日 22时12分53秒 - _NET_WM_NAME changed to "Terminal 终端 - wjh@archlinux: ~"
+2019年07月31日 22时13分01秒 - Sending WM_DELETE to the client
+2019年07月31日 22时13分01秒 - Not a managed window, ignoring UnmapNotify event
+2019年07月31日 22时13分01秒 - expose event for unknown window, ignoring
+2019年07月31日 22时13分01秒 - Not a managed window, ignoring UnmapNotify event
+2019年07月31日 22时13分01秒 - Not a managed window, ignoring UnmapNotify event
+2019年07月31日 22时13分01秒 - Not a managed window, ignoring UnmapNotify event
+2019年07月31日 22时13分01秒 - Not a managed window, ignoring UnmapNotify event
+2019年07月31日 22时13分01秒 - Not a managed window, ignoring UnmapNotify event
+2019年07月31日 22时13分02秒 - Sending WM_DELETE to the client
+2019年07月31日 22时13分02秒 - workspace visible? fs = 0x55cdba4b1910, ws = 0x55cdba4b1910
+2019年07月31日 22时13分02秒 - Not a managed window, ignoring UnmapNotify event
+2019年07月31日 22时13分02秒 - expose event for unknown window, ignoring
+2019年07月31日 22时13分02秒 - Not a managed window, ignoring UnmapNotify event
+2019年07月31日 22时13分02秒 - Not a managed window, ignoring UnmapNotify event
+2019年07月31日 22时13分02秒 - Not a managed window, ignoring UnmapNotify event
+2019年07月31日 22时13分02秒 - Not a managed window, ignoring UnmapNotify event
+2019年07月31日 22时13分02秒 - Not a managed window, ignoring UnmapNotify event
+2019年07月31日 22时13分02秒 - Not a managed window, ignoring UnmapNotify event
+2019年07月31日 22时13分02秒 - Not a managed window, ignoring UnmapNotify event
+2019年07月31日 22时13分04秒 - startup id = i3/rofi/20562-4-archlinux_TIME3830306
+2019年07月31日 22时13分04秒 - executing: rofi -show run
+2019年07月31日 22时13分04秒 - Not a managed window, ignoring UnmapNotify event
+2019年07月31日 22时13分07秒 - Not a managed window, ignoring UnmapNotify event
+2019年07月31日 22时13分15秒 - ClientMessage for window 0x01800006
+2019年07月31日 22时13分15秒 - ClientMessage for window 0x01800006
+2019年07月31日 22时13分15秒 - WM_CLASS changed to kate (instance), kate (class)
+2019年07月31日 22时13分15秒 - WM_NAME changed to "$(AN^1jLb(B "
+2019年07月31日 22时13分15秒 - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+2019年07月31日 22时13分15秒 - _NET_WM_NAME changed to "无标题  — Kate"
+2019年07月31日 22时13分15秒 - WM_WINDOW_ROLE changed to "MainWindow#1"
+2019年07月31日 22时13分15秒 - WM_HINTS.input changed to "1"
+2019年07月31日 22时13分15秒 - Checking window 0x01800006 (class kate)
+2019年07月31日 22时13分15秒 - dock status does not match
+2019年07月31日 22时13分15秒 - Checking window 0x01800006 (class kate)
+2019年07月31日 22时13分15秒 - dock status does not match
+2019年07月31日 22时13分15秒 - workspace visible? fs = 0x55cdba4b1910, ws = 0x55cdba4b1910
+2019年07月31日 22时13分15秒 - workspace visible? fs = 0x55cdba4b1910, ws = 0x55cdba4b1910
+2019年07月31日 22时13分15秒 - workspace visible? fs = 0x55cdba4b1910, ws = 0x55cdba4b1910
+2019年07月31日 22时13分15秒 - workspace visible? fs = 0x55cdba4ad990, ws = 0x55cdba4ad990
+2019年07月31日 22时13分15秒 - _NET_WM_NAME changed to "无标题  — Kate"
+kdeinit5: preparing to launch '/usr/lib/kf5/klauncher'
+kdeinit5: Launched KLauncher, pid = 21687, result = 0
+kdeinit5: opened connection to :1
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/file.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/file.so'
+2019年07月31日 22时13分15秒 - ClientMessage for window 0x01800006
+2019年07月31日 22时13分15秒 - ClientMessage for window 0x01800006
+2019年07月31日 22时13分15秒 - ClientMessage for window 0x01800006
+2019年07月31日 22时13分15秒 - workspace visible? fs = 0x55cdba4b1910, ws = 0x55cdba4b1910
+2019年07月31日 22时13分18秒 - ClientMessage for window 0x01800106
+2019年07月31日 22时13分18秒 - ClientMessage for window 0x01800106
+2019年07月31日 22时13分19秒 - ClientMessage for window 0x0180010c
+2019年07月31日 22时13分19秒 - ClientMessage for window 0x0180010c
+2019年07月31日 22时13分20秒 - Not a managed window, ignoring UnmapNotify event
+2019年07月31日 22时13分20秒 - Not a managed window, ignoring UnmapNotify event
+2019年07月31日 22时13分20秒 - ClientMessage for window 0x01800112
+2019年07月31日 22时13分20秒 - ClientMessage for window 0x01800112
+2019年07月31日 22时13分20秒 - WM_CLASS changed to kate (instance), kate (class)
+2019年07月31日 22时13分20秒 - WM_NAME changed to "$(A4r?*ND<~"
+2019年07月31日 22时13分20秒 - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+2019年07月31日 22时13分20秒 - _NET_WM_NAME changed to "打开文件 — Kate"
+2019年07月31日 22时13分20秒 - WM_HINTS.input changed to "1"
+2019年07月31日 22时13分20秒 - Checking window 0x01800112 (class kate)
+2019年07月31日 22时13分20秒 - dock status does not match
+2019年07月31日 22时13分20秒 - Checking window 0x01800112 (class kate)
+2019年07月31日 22时13分20秒 - dock status does not match
+2019年07月31日 22时13分20秒 - workspace visible? fs = 0x55cdba4b1910, ws = 0x55cdba4b1910
+2019年07月31日 22时13分20秒 - This window is a dialog window, setting floating
+2019年07月31日 22时13分20秒 - This window is transient for another window, setting floating
+2019年07月31日 22时13分20秒 - workspace visible? fs = 0x55cdba4b1910, ws = 0x55cdba4b1910
+2019年07月31日 22时13分20秒 - workspace visible? fs = 0x55cdba4b1910, ws = 0x55cdba4b1910
+2019年07月31日 22时13分20秒 - workspace visible? fs = 0x55cdba4ad990, ws = 0x55cdba4ad990
+2019年07月31日 22时13分20秒 - ClientMessage for window 0x01800112
+2019年07月31日 22时13分20秒 - workspace visible? fs = 0x55cdba4b1910, ws = 0x55cdba4b1910
+2019年07月31日 22时13分20秒 - ClientMessage for window 0x01800112
+2019年07月31日 22时13分20秒 - workspace visible? fs = 0x55cdba4b1910, ws = 0x55cdba4b1910
+2019年07月31日 22时13分30秒 - Not a managed window, ignoring UnmapNotify event
+2019年07月31日 22时13分30秒 - expose event for unknown window, ignoring
+2019年07月31日 22时13分30秒 - Not a managed window, ignoring UnmapNotify event
+2019年07月31日 22时13分30秒 - Not a managed window, ignoring UnmapNotify event
+2019年07月31日 22时13分30秒 - Not a managed window, ignoring UnmapNotify event
+2019年07月31日 22时13分30秒 - Not a managed window, ignoring UnmapNotify event
+2019年07月31日 22时13分30秒 - Not a managed window, ignoring UnmapNotify event
+2019年07月31日 22时13分30秒 - _NET_WM_NAME changed to "i3log-2019-07-31-22-12-07  — Kate"
+2019年07月31日 22时13分30秒 - _NET_WM_NAME changed to "i3log-2019-07-31-22-12-07  — Kate"
+2019年07月31日 22时13分30秒 - _NET_WM_NAME changed to "i3log-2019-07-31-22-12-07  — Kate"
+2019年07月31日 22时13分42秒 - Not a managed window, ignoring UnmapNotify event
+2019年07月31日 22时13分45秒 - Not a managed window, ignoring UnmapNotify event
+2019年07月31日 22时13分53秒 - Not a managed window, ignoring UnmapNotify event
+2019年07月31日 22时14分04秒 - Not a managed window, ignoring UnmapNotify event
+2019年07月31日 22时14分04秒 - Not a managed window, ignoring UnmapNotify event
+2019年07月31日 22时14分04秒 - Not a managed window, ignoring UnmapNotify event
+2019年07月31日 22时14分04秒 - Not a managed window, ignoring UnmapNotify event
+polybar|warn:  Termination signal received, shutting down...
+2019年07月31日 22时14分09秒 - Not a managed window, ignoring UnmapNotify event
+2019年07月31日 22时14分09秒 - Not a managed window, ignoring UnmapNotify event
+2019年07月31日 22时14分09秒 - expose event for unknown window, ignoring
+2019年07月31日 22时14分09秒 - Not a managed window, ignoring UnmapNotify event
+2019年07月31日 22时14分09秒 - Not a managed window, ignoring UnmapNotify event
+2019年07月31日 22时14分09秒 - Not a managed window, ignoring UnmapNotify event
+2019年07月31日 22时14分09秒 - Not a managed window, ignoring UnmapNotify event
+qrc:/qml/previewSogouSkin.qml:56:9: QML BorderImage: Failed to get image from provider: image://preview/previewInputBackImg
+qrc:/qml/previewSogouSkin.qml:56:9: QML BorderImage: Failed to get image from provider: image://preview/previewInputBackImg
+qrc:/qml/main.qml:11:5: QML BorderImage: Cannot open: qrc:/home/wjh/.config/sogou-qimpanel/skin/Mac黑键盘/skin1.png
+qrc:/qml/main.qml:11:5: QML BorderImage: Cannot open: qrc:/home/wjh/.config/sogou-qimpanel/skin/Mac黑键盘/skin1.png
+qrc:/qml/sogou.qml:725:5: QML Connections: Cannot assign to non-existent property "onChangeQmlTimerStatus"
+kdeinit5: PID 21690 terminated.
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/file.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/file.so'
+2019年07月31日 23时10分19秒 - ClientMessage for window 0x0180016e
+2019年07月31日 23时10分19秒 - ClientMessage for window 0x0180016e
+2019年07月31日 23时10分19秒 - WM_CLASS changed to kate (instance), kate (class)
+2019年07月31日 23时10分19秒 - WM_NAME changed to "$(AJ}>]?ID\6*J'"
+2019年07月31日 23时10分19秒 - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+2019年07月31日 23时10分19秒 - _NET_WM_NAME changed to "数据可能丢失 — Kate"
+2019年07月31日 23时10分19秒 - WM_HINTS.input changed to "1"
+2019年07月31日 23时10分19秒 - Checking window 0x0180016e (class kate)
+2019年07月31日 23时10分19秒 - dock status does not match
+2019年07月31日 23时10分19秒 - Checking window 0x0180016e (class kate)
+2019年07月31日 23时10分19秒 - dock status does not match
+2019年07月31日 23时10分19秒 - workspace visible? fs = 0x55cdba4b1910, ws = 0x55cdba4b1910
+2019年07月31日 23时10分19秒 - This window is a dialog window, setting floating
+2019年07月31日 23时10分19秒 - This window is transient for another window, setting floating
+2019年07月31日 23时10分19秒 - workspace visible? fs = 0x55cdba4b1910, ws = 0x55cdba4b1910
+2019年07月31日 23时10分19秒 - workspace visible? fs = 0x55cdba4b1910, ws = 0x55cdba4b1910
+2019年07月31日 23时10分19秒 - workspace visible? fs = 0x55cdba4ad990, ws = 0x55cdba4ad990
+2019年07月31日 23时10分19秒 - ClientMessage for window 0x0180016e
+2019年07月31日 23时10分19秒 - workspace visible? fs = 0x55cdba4b1910, ws = 0x55cdba4b1910
+2019年07月31日 23时10分19秒 - ClientMessage for window 0x0180016e
+2019年07月31日 23时10分19秒 - workspace visible? fs = 0x55cdba4b1910, ws = 0x55cdba4b1910
+2019年07月31日 23时10分19秒 - ClientMessage for window 0x0180016e
+2019年07月31日 23时10分19秒 - workspace visible? fs = 0x55cdba4b1910, ws = 0x55cdba4b1910
+2019年07月31日 23时10分19秒 - ClientMessage for window 0x0180016e
+2019年07月31日 23时10分19秒 - workspace visible? fs = 0x55cdba4b1910, ws = 0x55cdba4b1910
+2019年07月31日 23时10分20秒 - Not a managed window, ignoring UnmapNotify event
+2019年07月31日 23时10分20秒 - expose event for unknown window, ignoring
+2019年07月31日 23时10分20秒 - Not a managed window, ignoring UnmapNotify event
+2019年07月31日 23时10分20秒 - Not a managed window, ignoring UnmapNotify event
+2019年07月31日 23时10分20秒 - Not a managed window, ignoring UnmapNotify event
+2019年07月31日 23时10分20秒 - Not a managed window, ignoring UnmapNotify event
+2019年07月31日 23时10分20秒 - Not a managed window, ignoring UnmapNotify event
+2019年07月31日 23时10分20秒 - _NET_WM_NAME changed to "无标题  — Kate"
+2019年07月31日 23时10分20秒 - _NET_WM_NAME changed to "无标题  — Kate"
+2019年07月31日 23时10分20秒 - _NET_WM_NAME changed to "无标题  — Kate"
+2019年07月31日 23时10分20秒 - _NET_WM_NAME changed to "Kate"
+2019年07月31日 23时10分20秒 - _NET_WM_NAME changed to "Kate"
+2019年07月31日 23时10分20秒 - _NET_WM_NAME changed to "无标题  — Kate"
+2019年07月31日 23时10分20秒 - _NET_WM_NAME changed to "无标题  — Kate"
+2019年07月31日 23时10分20秒 - _NET_WM_NAME changed to "无标题  — Kate"
+2019年07月31日 23时10分22秒 - _NET_WM_NAME changed to "Kate"
+2019年07月31日 23时10分22秒 - _NET_WM_NAME changed to "Kate"
+2019年07月31日 23时10分22秒 - _NET_WM_NAME changed to "无标题  — Kate"
+2019年07月31日 23时10分22秒 - _NET_WM_NAME changed to "无标题  — Kate"
+2019年07月31日 23时10分22秒 - _NET_WM_NAME changed to "无标题  — Kate"
+2019年07月31日 23时10分23秒 - _NET_WM_NAME changed to "Kate"
+2019年07月31日 23时10分23秒 - _NET_WM_NAME changed to "Kate"
+2019年07月31日 23时10分23秒 - _NET_WM_NAME changed to "无标题  — Kate"
+2019年07月31日 23时10分23秒 - _NET_WM_NAME changed to "无标题  — Kate"
+2019年07月31日 23时10分23秒 - _NET_WM_NAME changed to "无标题  — Kate"
+2019年07月31日 23时10分25秒 - Sending WM_DELETE to the client
+2019年07月31日 23时10分25秒 - workspace visible? fs = 0x55cdba4b1910, ws = 0x55cdba4b1910
+2019年07月31日 23时10分25秒 - Not a managed window, ignoring UnmapNotify event
+2019年07月31日 23时10分25秒 - expose event for unknown window, ignoring
+2019年07月31日 23时10分25秒 - Not a managed window, ignoring UnmapNotify event
+2019年07月31日 23时10分25秒 - Not a managed window, ignoring UnmapNotify event
+2019年07月31日 23时10分25秒 - Not a managed window, ignoring UnmapNotify event
+kdeinit5: PID 28730 terminated.
+2019年07月31日 23时10分27秒 - startup id = i3/i3-nagbar/20562-5-archlinux_TIME7273693
+2019年07月31日 23时10分27秒 - executing: i3-nagbar -t warning -m 'You pressed the exit shortcut. Do you really want to exit i3? This will end your X session.' -b 'Yes, exit i3' 'i3-msg exit'
+2019年07月31日 23时10分27秒 - Not a managed window, ignoring UnmapNotify event
+2019年07月31日 23时10分27秒 - This window is of type dock
+2019年07月31日 23时10分27秒 - Checking window 0x01200006 (class (null))
+2019年07月31日 23时10分27秒 - dock status matches
+2019年07月31日 23时10分27秒 - workspace visible? fs = 0x55cdba4b1910, ws = 0x55cdba4b1910
+2019年07月31日 23时10分27秒 - workspace visible? fs = 0x55cdba4ad990, ws = 0x55cdba4ad990
+button with label *Yes, exit i3* and action *i3-msg exit*
+now 1 buttons
+[libi3] ../i3-4.16.1/../i3-4.16.1/libi3/font.c Using Pango font monospace, size 8
+button pressed on x = 1258, y = 10
+button released on x = 1258, y = 10
+argv0 = i3-nagbar
+terminal_cmd = i3-sensible-terminal -e /run/user/1000/i3/nagbar-cmd.28764.nagbar_cmd
+executing: i3-sensible-terminal -e /run/user/1000/i3/nagbar-cmd.28764.nagbar_cmd
+2019年07月31日 23时10分29秒 - WM_CLASS changed to urxvt (instance), URxvt (class)
+2019年07月31日 23时10分29秒 - WM_NAME changed to "nagbar-cmd.28764.nagbar_cmd"
+2019年07月31日 23时10分29秒 - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+2019年07月31日 23时10分29秒 - _NET_WM_NAME changed to "nagbar-cmd.28764.nagbar_cmd"
+2019年07月31日 23时10分29秒 - WM_HINTS.input changed to "1"
+2019年07月31日 23时10分29秒 - Checking window 0x0140000a (class URxvt)
+2019年07月31日 23时10分29秒 - dock status does not match
+2019年07月31日 23时10分29秒 - Checking window 0x0140000a (class URxvt)
+2019年07月31日 23时10分29秒 - dock status does not match
+2019年07月31日 23时10分29秒 - workspace visible? fs = 0x55cdba4b1910, ws = 0x55cdba4b1910
+2019年07月31日 23时10分29秒 - workspace visible? fs = 0x55cdba4b1910, ws = 0x55cdba4b1910
+2019年07月31日 23时10分29秒 - workspace visible? fs = 0x55cdba4b1910, ws = 0x55cdba4b1910
+2019年07月31日 23时10分29秒 - workspace visible? fs = 0x55cdba4ad990, ws = 0x55cdba4ad990
+2019年07月31日 23时10分29秒 - IPC: received: *exit*
+2019年07月31日 23时10分29秒 - Exiting due to user command.
+sogou-qimpanel-watchdog: Fatal IO error 11 (资源暂时不可用) on X server :1.
+权限不够: 权限不够
+权限不够: 权限不够
+button with label *Yes, exit i3* and action *i3-msg exit*
+now 1 buttons
+[libi3] ../i3-4.16.1/../i3-4.16.1/libi3/font.c Using Pango font monospace, size 8
+button pressed on x = 1258, y = 10
+button released on x = 1258, y = 10
+argv0 = i3-nagbar
+terminal_cmd = i3-sensible-terminal -e /run/user/1000/i3/nagbar-cmd.28764.nagbar_cmd
+executing: i3-sensible-terminal -e /run/user/1000/i3/nagbar-cmd.28764.nagbar_cmd
+klauncher: Exiting on signal 15
+urxvt: X connection to ':1' broken, unable to recover, exiting.
+没有那个文件或目录: 没有那个文件或目录
+没有那个文件或目录: 没有那个文件或目录
+(FATAL-20581 sogouimcore.cpp:2356) FcitxSogouPinyinDestroy
+open file /usr/share/fcitx-sogoupinyin/SogouInput/sgim_charvalid.bin failed.
+open file /home/wjh/.config/SogouPY/punctures.ini failed.
+check false, remove P
+open file /home/wjh/.config/SogouPY/punctures.ini failed.
+open file  failed.
+check false, remove C
+open file  failed.
+check false, remove C
+open file /home/wjh/.config/SogouPY/sgim_usr_v3_ext.bin failed.
+check false, remove U
+open file /home/wjh/.config/SogouPY/sgim_phrases.bin failed.
+check false, remove A
+open file /home/wjh/.config/SogouPY/sgim_privilege.bin failed.
+check false, remove P
+open file /usr/share/fcitx-sogoupinyin/SogouInput/sgim_tip.bin failed.
+open file /usr/share/fcitx-sogoupinyin/SogouInput/sgim_urlGuide.bin failed.
